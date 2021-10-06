@@ -1,0 +1,22 @@
+{
+  "name": "Elaka Progressive Web App",
+  "short_name": "elakapwa",
+  "description": "description",
+  "icons": [
+    {
+      "src": "/../images/splash.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/../images/splash.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "fullscreen",
+  "theme_color": "#764ABC",
+  "background_color": "#764ABC"
+}
