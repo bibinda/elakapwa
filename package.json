@@ -2,7 +2,7 @@
   "name": "elakapwa",
   "version": "1.0.0",
   "description": "A maternal and gestational health app.",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "test",
     "server-debug": "nodemon --inspect server.js"
@@ -21,6 +21,13 @@
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemon": "^2.0.13"
+    "nodemon": "^2.0.13",
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.6.5",
+    "sequelize-auto-migrations-v2": "^1.2.1"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.2.0"
   }
 }

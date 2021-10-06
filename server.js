@@ -1,5 +1,7 @@
 const express = require('express')
+const { request } = require('https')
 const path = require('path')
+
 
 const httpPort = 80
 
@@ -14,3 +16,19 @@ app.get('/', function(req, res) {
 app.listen(httpPort, function () {
   console.log(`Listening on port ${httpPort}!`)
 })
+
+
+//const { Client } = require('pg')
+//const client = new Client()
+
+//async function main() {
+//    await client.connect()
+//    const res = await client.query('SELECT $1::text as message', ['Hello world!'])
+//    console.log(res.rows[0].message) // Hello world!
+//    await client.end()
+//}
+
+//const db = require("./src/models");
+
+//db.sequelize.sync();
+
