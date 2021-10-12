@@ -17,7 +17,7 @@
   },
   "production": {
     "username": "elaka",
-    "password": "a",
+    "password": "CHANGE_ME",
     "database": "elaka",
     "host": "127.0.0.1",
     "dialect": "postgres",
