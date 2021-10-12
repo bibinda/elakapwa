@@ -322,20 +322,6 @@
     }
   },
   {
-    "id": 25,
-    "intervention": "Assisted delivery",
-    "general_audience": "Healthcare Provider",
-    "target_audience": "Clinical care provider",
-    "problem_behavior": "",
-    "promoted_behavior": "",
-    "action": "Prompt referral of the pregnant woman in case of complications",
-    "message": {
-      "English": "",
-      "French": "French message here.",
-      "Swahili": "Swahili message here."
-    }
-  },
-  {
     "id": 26,
     "intervention": "Assisted delivery",
     "general_audience": "Healthcare Provider",
