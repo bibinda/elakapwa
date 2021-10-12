@@ -6,7 +6,7 @@
   "scripts": {
     "test": "test",
     "server-debug": "nodemon --inspect server.js",
-    "start": "start"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
