@@ -3,7 +3,7 @@ const { request } = require('https')
 const path = require('path')
 
 
-const httpPort = 80
+const httpPort = process.env.PORT || 80
 
 const app = express()
 
