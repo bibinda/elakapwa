@@ -3,6 +3,8 @@ const toCache = [
     '/',
     '/index.html',
     '/js/status.js',
+    '/js/post.js',
+    '/js/messages.json'
 ];
 
 self.addEventListener('install', function (event) {
