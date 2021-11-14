@@ -795,5 +795,537 @@
       "French": "Chers membres de la communauté, ATTENTION! Evitez de stigmatiser les porteuses des fistules urogénitales, par contre encouragez-les à consulter et accompagnez-les à temps pour la réparation afin de retrouver le bien-être.",
       "Swahili": "Wapendwa wanawake wenye fistule urogénitale epuka kujificha, kuja kupata huduma sahihi na kuboresha afya yako."
     }
+  },
+  {
+    "id": 58,
+    "intervention": "Breastfeeding within one hour after delivery.",
+    "general_audience" : "",
+    "target_audience" : "Pregnant women",
+    "problem_behavior" : "Some pregnant women do not comply with the 4 PNC visits to receive counseling on the benefits of breastfeeding immediately after delivery or do not observe breastfeeding within one hour after delivery.",
+    "promoted_behavior" : "Pregnant women comply with the prenatal consultation (PNC) to receive counseling on the benefits of breastfeeding their newborns immediately after delivery.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear pregnant woman, go to the prenatal consultation (PNC) to get information and counseling on breastfeeding your newborn immediately after delivery, to ensure your well-being and that of your newborn.",                                                                                        
+    "French" : "",
+    "Swahili" : ""
   }
+  },
+{
+    "id": 59,
+    "intervention": "Breastfeeding within one hour after delivery.",
+    "general_audience" : "Breastfeeding women",
+    "target_audience" : "Breastfeeding women",
+    "problem_behavior" : "Some women are not provided with information on breastfeeding immediately after delivery.",
+    "promoted_behavior" : "Women receive information about breastfeeding their newborns immediately after delivery.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear mother, breastfeed your baby immediately after delivery, it contributes to your good health and that of your baby.",
+    "French" : "",
+    "Swahili" : ""
+  }
+  },
+{
+    "id": 60,
+    "intervention": "Breastfeeding within one hour after delivery.",
+    "general_audience" : "Breastfeeding women",
+    "target_audience" : "Breastfeeding women",
+    "problem_behavior" : "Some women are not provided with information on breastfeeding immediately after delivery.",
+    "promoted_behavior" : "Women receive information about breastfeeding their newborns immediately after delivery.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear mother, breastfeed your newborn immediately after birth to quickly stimulate the production of breast milk, this first yellowish milk (colostrum), gives a natural protection to the newborn against diseases. Don't throw it away, give it to your newborn quickly.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 61,
+    "intervention": "Breastfeeding within one hour after delivery.",
+    "general_audience" : "",
+    "target_audience" : "Breastfeeding women",
+    "problem_behavior" : "Some women are not provided with information on breastfeeding immediately after delivery.",
+    "promoted_behavior" : "Women receive information about breastfeeding their newborns immediately after delivery.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear mother, breastfeeding your baby immediately after delivery facilitates the expulsion of the placenta and reduces bleeding.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 62,
+    "intervention": "Breastfeeding within one hour after delivery.",
+    "general_audience" : "",
+    "target_audience" : "Man (husband)",
+    "problem_behavior" : "Some men do not encourage or support their wives to attend PNC appointments for information and counseling on breastfeeding newborns immediately after delivery.",
+    "promoted_behavior" : "Men encourage and support their wives to attend prenatal consultation (PNC) appointments to receive information and counseling on breastfeeding newborns immediately after delivery.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear Husband/Spouse, encourage and support your wives to attend prenatal consultation (PNC) appointments to get information and counseling on breastfeeding the newborn immediately after delivery for the well-being of the family.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 63,
+    "intervention": "Breastfeeding within one hour after delivery.",
+    "general_audience" : "",
+    "target_audience" : "Healthcare providers",
+    "problem_behavior" : "Some healthcare providers do not assist or encourage breastfeeding women to breastfeed their newborns immediately after delivery.",
+    "promoted_behavior" : "Healthcare providers assist and encourage women to breastfeed their newborns within one hour after delivery",
+    "action" : "",
+    "message" : {
+    "English" : "Dear healthcare providers, make sure you support and encourage women to breastfeed their newborns immediately after delivery for the sake of our community.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 64,
+    "intervention": "Breastfeeding within one hour after delivery.",
+    "general_audience" : "",
+    "target_audience" : "Community members",
+    "problem_behavior" : "Community members do not encourage breastfeeding women to breastfeed their newborns immediately after delivery.",
+    "promoted_behavior" : "Community members encourage breastfeeding women to breastfeed their newborns immediately after delivery.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear community members, encourage the breastfeeding woman to breastfeed the newborn immediately after delivery for their good health.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 65,
+    "intervention": "Exclusive breastfeeding up to 6 months",
+    "general_audience" : "",
+    "target_audience" : "Breastfeeding women",
+    "problem_behavior" : "Women do not respect exclusive and regular breastfeeding of their babies.",
+    "promoted_behavior" : "Women respect exclusive and regular breastfeeding.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear mother, breast milk is the only natural, complete and adapted food that meets 100% of your baby's needs. Feed your baby exclusively and regularly from birth until the age of six months. Do not give anything even water, breast milk also contains water.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 66,
+    "intervention": "Exclusive breastfeeding up to 6 months",
+    "general_audience" : "",
+    "target_audience" : "Breastfeeding women",
+    "problem_behavior" : "Women do not respect exclusive and regular breastfeeding of their babies.",
+    "promoted_behavior" : "Women respect exclusive and regular breastfeeding.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear mother, exclusively breastfeed your baby for the first 6 months to protect him/her from diseases such as diarrhea, respiratory infections and also to prevent unwanted or early pregnancies, risk of ovarian and breast cancer.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 67,
+    "intervention": "Exclusive breastfeeding up to 6 months",
+    "general_audience" : "",
+    "target_audience" : "Breastfeeding women",
+    "problem_behavior" : "Women do not respect exclusive and regular breastfeeding of their babies.",
+    "promoted_behavior" : "Women respect exclusive and regular breastfeeding.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear mother, Be careful!  If your baby is less than 6 months old, continue with exclusive breastfeeding and increase the frequency of breastfeeding during the illness and two weeks after the illness to keep the child healthy.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 68,
+    "intervention": "Exclusive breastfeeding up to 6 months",
+    "general_audience" : "",
+    "target_audience" : "Breastfeeding women",
+    "problem_behavior" : "Women do not respect exclusive and regular breastfeeding of their babies.",
+    "promoted_behavior" : "Women respect exclusive and regular breastfeeding.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear working mother, to keep your baby healthy while you are away from home, continue with exclusive breastfeeding practice by pouring breast milk into clean and closed cups knowing that breast milk keeps for 8 to 10 hours in a cool place (room temperature)",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 69,
+    "intervention": "Exclusive breastfeeding up to 6 months",
+    "general_audience" : "",
+    "target_audience" : "Man (husband)",
+    "problem_behavior" : "Men (husband) do not encourage women to exclusively breastfeed their infants but rather induce them to give something else.",
+    "promoted_behavior" : "Men (Husbands) encourage and urge women to exclusively breastfeed their infants on a regular basis.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear father, breast milk for children aged 0 to 6 months is a complete food that meets 100% of the baby's needs and contains enough water to satisfy his thirst; encourage your wives to exclusively breastfeed infants to protect them from diseases (diarrhea and respiratory infections, etc.)",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 70,
+    "intervention": "Exclusive breastfeeding up to 6 months",
+    "general_audience" : "",
+    "target_audience" : "Man (husband)",
+    "problem_behavior" : "Men (husband) do not encourage women to exclusively breastfeed their infants but rather induce them to give something else.",
+    "promoted_behavior" : "Men (Husbands) encourage and urge women to exclusively breastfeed their infants on a regular basis.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear father, encourage and urge your wives to exclusively breastfeed babies from 0 to 6 months to reduce the risk of obesity and diabetes in adulthood.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 71,
+    "intervention": "Exclusive breastfeeding up to 6 months",
+    "general_audience" : "",
+    "target_audience" : "Healthcare providers (Clinical and Community)",
+    "problem_behavior" : "Healthcare providers do not encourage women to exclusively breastfeed infants on a regular basis, and encourage them to engage in other practices",
+    "promoted_behavior" : "Healthcare providers encourage and counsel women to exclusively breastfeed their infants on a regular basis",
+    "action" : "",
+    "message" : {
+    "English" : "Dear healthcare providers, encouraging and urging women to breastfeed babies on a regular basis, 10 to 12 times a day and night and on demand by the baby is your responsibility for the healthy growth of the baby and the well-being of the mother.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 72,
+    "intervention": "Exclusive breastfeeding up to 6 months",
+    "general_audience" : "",
+    "target_audience" : "Community members",
+    "problem_behavior" : "They do not encourage women to use only breast milk to feed their babies",
+    "promoted_behavior" : "They encourage women to use only breast milk to feed their babies.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear community members, encourage breastfeeding women to exclusively breastfeed their babies with breast milk for the first 6 months and to wait until the babies are tired to ensure their healthy growth.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 73,
+    "intervention": "Breastfeeding continues until the child is 2 years old or older",
+    "general_audience" : "",
+    "target_audience" : "Breastfeeding women",
+    "problem_behavior" : "Women do not breastfeed children up to 2 years and beyond.",
+    "promoted_behavior" : "Women breastfeed children up to 2 years and beyond",
+    "action" : "",
+    "message" : {
+    "English" : "Dear mothers, breastfeed your children until they are 2 years old or older to promote their healthy growth",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 74,
+    "intervention": "Breastfeeding continues until the child is 2 years old or older",
+    "general_audience" : "",
+    "target_audience" : "Man (husband)",
+    "problem_behavior" : "Men do not encourage their wives to breastfeed children up to 2 years and beyond",
+    "promoted_behavior" : "Men encourage their wives to breastfeed children up to 2 years and beyond",
+    "action" : "",
+    "message" : {
+    "English" : "Dear fathers, encourage your wives to breastfeed children until they are 2 years and older for their healthy growth.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 75,
+    "intervention": "Breastfeeding continues until the child is 2 years old or older",
+    "general_audience" : "",
+    "target_audience" : "Health providers",
+    "problem_behavior" : "Healthcare providers do not encourage women to breastfeed children until they are 2 years old or older.",
+    "promoted_behavior" : "Healthcare providers encourage women to breastfeed children until they are 2 years old or older.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear healthcare providers, encourage women to breastfeed their babies until they are 2 years old and older for healthy growth.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 76,
+    "intervention": "Breastfeeding continues until the child is 2 years old or older",
+    "general_audience" : "",
+    "target_audience" : "Community members",
+    "problem_behavior" : "Community members discourage women from continuous breastfeeding practices for 2-year-olds.",
+    "promoted_behavior" : "Community members encourage women in continuous breastfeeding practices for 2-year-olds.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear community members, encourage women to breastfeed their children until they are 2 years and older to prevent illness and ensure their healthy growth.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 77,
+    "intervention": "Breastfeeding continues until the child is 2 years old or older",
+    "general_audience" : "",
+    "target_audience" : "Breastfeeding women",
+    "problem_behavior" : "Breastfeeding women do not respect the number and variety of meals for children from 6 months of age.",
+    "promoted_behavior" : "Breastfeeding women respect the number and variety of meals for children from 6 months of age.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear mother, a healthy child is the pride of his family, give the baby from 6 months a varied diet such as: meat, fish, egg, milk, papaya, mango, pineapple, cauliflower, spinach, soybeans, bean, peanut...3 times a day and two snacks for the healthy growth of the child.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 78,
+    "intervention": "Breastfeeding continues until the child is 2 years old or older",
+    "general_audience" : "",
+    "target_audience" : "Breastfeeding women",
+    "problem_behavior" : "Breastfeeding women do not respect the number and variety of meals for children from 6 months of age.",
+    "promoted_behavior" : "Breastfeeding women respect the number and variety of meals for children from 6 months of age.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear mother, if your baby is sick from 6 months of age, continue to breastfeed and increase the number of meals until two weeks after the illness to keep him healthy.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 79,
+    "intervention": "Breastfeeding continues until the child is 2 years old or older",
+    "general_audience" : "",
+    "target_audience" : "Man (husband) and community members",
+    "problem_behavior" : "Men and community members do not encourage or support women to respect the number and variety of meals for children from 6 months of age.",
+    "promoted_behavior" : "Men encourage and support their wives to respect the number and variety of children's meals from 6 months of age.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear father and community members, the health of your baby is very important, encourage and support your wives to give the baby from 6 months a variety of foods such as: meat, fish, egg, milk, papaya, mango, pineapple, cauliflower, spinach, soybeans, bean, peanut...3 times a day and two snacks for his healthy growth.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 80,
+    "intervention": "Breastfeeding continues until the child is 2 years old or older",
+    "general_audience" : "",
+    "target_audience" : "Healthcare providers",
+    "problem_behavior" : "Healthcare providers do not adequately inform breastfeeding mothers about appropriate complementary feeding practices for babies from 6 months of age.",
+    "promoted_behavior" : "Healthcare providers adequately inform breastfeeding mothers about appropriate complementary feeding practices for babies from 6 months of age.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear healthcare providers, provide adequate information to women with babies from 6 months onwards on the variety of protein foods of animal origin (meat, fish, egg and milk); of vegetable origin (fruits and vegetables: papaya, mango, pineapple, cauliflower, spinach, etc.); legumes (soybeans, beans, peanuts, etc.) 3 times a day and two snacks for the healthy growth of their babies.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 81,
+    "intervention": "Breastfeeding continues until the child is 2 years old or older",
+    "general_audience" : "",
+    "target_audience" : "Pregnant women",
+    "problem_behavior" : "Pregnant women do not consume sufficient and varied foods.",
+    "promoted_behavior" : "Pregnant women consume sufficient and varied foods.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear pregnant women, eat a variety of foods such as meat, fish, beans, soybeans, peanuts, cowpeas, pineapples, bananas, mangoes, etc. and eat two extra meals to maintain your health and the health of your unborn child.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 82,
+    "intervention": "Breastfeeding continues until the child is 2 years old or older",
+    "general_audience" : "",
+    "target_audience" : "Breastfeeding women",
+    "problem_behavior" : "Some breastfeeding women do not consume a sufficient variety of foods.",
+    "promoted_behavior" : "All women consume a sufficient variety of foods.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear breastfeeding woman, eat a variety of foods of animal origin (meat, eggs, fish) and vegetable origin (beans, soybeans, peanuts, cowpeas, pineapples, bananas, mangos, etc.) and eat two extra meals to maintain your health and that of your baby.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 83,
+    "intervention": "Breastfeeding continues until the child is 2 years old or older",
+    "general_audience" : "",
+    "target_audience" : "Man (husband) and community members",
+    "problem_behavior" : "Husbands do not support their wives to consume sufficient variety of foods.",
+    "promoted_behavior" : "Husbands support their wives to consume sufficient variety of foods.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear husband and community members, support pregnant and lactating women to consume a variety of sufficient animal and vegetable foods such as meat, fish, beans, soybeans, peanuts, cowpeas, pineapples, bananas, mangoes, etc.) and eat two extra meals to ensure their health and that of the baby.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 84,
+    "intervention": "Breastfeeding continues until the child is 2 years old or older",
+    "general_audience" : "",
+    "target_audience" : "Healthcare providers",
+    "problem_behavior" : "Healthcare providers do not adequately inform women about eating a variety of foods.",
+    "promoted_behavior" : "Healthcare providers adequately inform women about eating a variety of foods.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear healthcare providers, make sure to inform and discuss with pregnant and breastfeeding women about the consumption of various foods of animal origin (meat, fish), vegetable origin (fruits: bananas, pineapples, mangoes, etc.), (vegetables) spinach, cauliflower and legumes (soybeans, beans, peanuts) and the inclusion of an extra meal for the pregnant woman and two for the breastfeeding woman in order to maintain their health and that of their babies during the pregnancy and breastfeeding period.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 85,
+    "intervention": "Vaccination",
+    "general_audience" : "",
+    "target_audience" : "Breastfeeding women",
+    "problem_behavior" : "Breastfeeding women do not comply with the vaccination schedule for infants aged 0 to 9 months.",
+    "promoted_behavior" : "Women comply with the infant vaccination schedule.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear breastfeeding woman, we should comply with the 5 free vaccination appointments to ensure the good health of our children from 0 to 9 months.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 86,
+    "intervention": "Vaccination",
+    "general_audience" : "",
+    "target_audience" : "Breastfeeding women",
+    "problem_behavior" : "Breastfeeding women do not comply with the vaccination schedule for infants aged 0 to 9 months.",
+    "promoted_behavior" : "Women comply with the infant vaccination schedule.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear Mom, have your child vaccinated 5 times before his first birthday to protect him from vaccine-preventable diseases",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 87,
+    "intervention": "Vaccination",
+    "general_audience" : "",
+    "target_audience" : "Man (husband)",
+    "problem_behavior" : "Husbands do not encourage their wives to comply with the vaccination schedule for infants aged 0 to 9 months.",
+    "promoted_behavior" : "Husbands assist and encourage their wives to comply with the vaccination schedule for infants aged 0 to 9 months.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear husband, healthy children make parents happy, encourage and urge your wives to comply with the routine monthly vaccination schedule for infants aged 0 to 9 months to ensure their health.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 88,
+    "intervention": "Vaccination",
+    "general_audience" : "",
+    "target_audience" : "Healthcare providers",
+    "problem_behavior" : "Healthcare providers do not adequately inform breastfeeding women about the importance and value of routine vaccination of infants aged 0-9 months.",
+    "promoted_behavior" : "Healthcare providers adequately inform breastfeeding women about the importance and value of routine vaccination of infants aged 0-9 months.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear healthcare providers, inform parents about the importance and necessity of routine immunization of their children aged 0 to 9 months at birth, 1.5 months, 2.5 months, 3.5 years and 9 months to protect them against tuberculosis, polio, diphtheria, whooping cough, hepatitis B, meningitis, pneumonia, yellow fever and measles to safeguard their health.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 89,
+    "intervention": "Vaccination",
+    "general_audience" : "",
+    "target_audience" : "Community members",
+    "problem_behavior" : "Community members do not encourage breastfeeding women to attend routine monthly vaccination of infants aged 0-9 months.",
+    "promoted_behavior" : "Community members encourage breastfeeding women to attend routine monthly vaccination of infants aged 0-9 months ",
+    "action" : "",
+    "message" : {
+    "English" : "Dear community members, encourage women to attend routine monthly vaccination for infants aged 0-9 months to ensure their healthy growth.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 90,
+    "intervention": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
+    "general_audience" : "",
+    "target_audience" : "Breastfeeding women",
+    "problem_behavior" : "Breastfeeding women do not comply with CPS appointments for children 0-59 months of age.",
+    "promoted_behavior" : "Breastfeeding women comply with CPS appointments for children 0-59 months of age.",
+    "action" : "",
+    "message" : {
+    "English" : " Dear mother, take your child to the preschool consultation until the age of 59 months for the proper monitoring of his growth.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 91,
+    "intervention": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
+    "general_audience" : "",
+    "target_audience" : "Man (husband)",
+    "problem_behavior" : "Men do not provide support to women in preschool consultation.",
+    "promoted_behavior" : "Men provide their support to women in preschool consultation.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear husband/partner, be supportive of your wife/partner's compliance with CPS appointments for the well-being of your child from 0-59 months.  ",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 92,
+    "intervention": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
+    "general_audience" : "",
+    "target_audience" : "Healthcare providers ",
+    "problem_behavior" : "Some healthcare providers do not advise women to comply with preschool appointments up to 59 months of age.",
+    "promoted_behavior" : "Healthcare providers advise women to comply with preschool appointments up to 59 months of age.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear healthcare providers, advise women on compliance with preschool appointments for the well-being of their children 0-59 months.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 93,
+    "intervention": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
+    "general_audience" : "",
+    "target_audience" : "Community members",
+    "problem_behavior" : "Community members do not encourage women to comply with preschool appointments up to 59 months.",
+    "promoted_behavior" : "Community members encourage women to comply with preschool appointments up to 59 months.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear community members, for healthy child development and growth, encourage women to comply with preschool appointments up to 59 months.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 94,
+    "intervention": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
+    "general_audience" : "",
+    "target_audience" : "The mother",
+    "problem_behavior" : "Mothers do not respect the CPoN3 service (42 days after delivery) and only wait for complications to arise in order to go to the health center.",
+    "promoted_behavior" : "Mothers respect the post natal consultation (PoNC) service.",
+    "action" : "",
+    "message" : {
+    "English" : "Dear postpartum woman, continue to go to postnatal consultation to receive vitamin A within 40 days after delivery to ensure your good health and that of the baby.",
+    "French" : "",
+    "Swahili" : ""
+  }
+},
+{
+    "id": 95,
+    "intervention": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
+    "general_audience" : "",
+    "target_audience" : "Man (husband)",
+    "problem_behavior" : "Men do not encourage their wives to go to the health center for post natal consultation (PoNC) service",
+    "promoted_behavior" : "Men encourage their wives to go to the health center for post natal consultation (PoNC) service",
+    "action" : "",
+    "message" : {
+    "English" : "Dear husband, encourage your wife to go to the health center in the post natal consultation (PoNC) department for her nutritional and gynecological status assessment.",
+    "French" : "",
+    "Swahili" : ""
+  }
+}
 ]
