@@ -1,7 +1,11 @@
 [
   {
     "id": 1,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    }
     "general_audience": "Women",
     "target_audience": "Pregnant women",
     "problem_behavior": "Pregnant women do not comply with the minimum number of PNCs (four visits)",
