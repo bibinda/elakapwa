@@ -1,13 +1,19 @@
 [
   {
+[
+  {
     "id": 1,
     "intervention": {
       "English": "Prenatal Consultation (PNC)",
       "French": "Consultation Pré-Natale (CPN)",
       "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
-    }
+    },
     "general_audience": "Women",
-    "target_audience": "Pregnant women",
+    "target_audience": { 
+      "English": "Pregnant women",
+      "French": "Femmes enceinte",
+      "Swahili": "Mwanamke mjamzito"
+    },
     "problem_behavior": "Pregnant women do not comply with the minimum number of PNCs (four visits)",
     "promoted_behavior": " Pregnant women comply with the minimum number of PNCs (four visits)",
     "action": "Compliance with the minimum number of PNCs (four visits)",
@@ -19,23 +25,40 @@
   },
   {
     "id": 2,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Women",
-    "target_audience": "Pregnant women",
+    "target_audience": { 
+      "English": "Pregnant women",
+      "French": "Femmes enceinte",
+      "Swahili": "Mwanamke mjamzito"
+    },
     "problem_behavior": "Pregnant women do not utilize preventive measures against malaria (IPT/SP and sleeping under the LLIN)",
     "promoted_behavior": " Pregnant women use preventive measures against malaria (IPT/SP and sleep under the Long-lasting Insecticidal Net (LLIN))",
     "action": "Implementation of malaria prevention measures (IPT/SP and sleeping under the LLIN)",
     "message": {
       "English": "Dear pregnant women, sleep every night under the Long-lasting Insecticidal Net (LLIN) to avoid malaria which is harmful to your health and that of your baby",
-      "French": "Chères femmes enceintes, dormez toutes les nuits sous la Moustiquaire Imprégnée d’Insecticide à Longue Durée d’Action (MILD) pour éviter la malaria nuisible pour votre santé et celle de votre bébé.",                                                                       .",
+      "French": "Chères femmes enceintes, dormez toutes les nuits sous la Moustiquaire Imprégnée d’Insecticide à Longue Durée d’Action (MILD) pour éviter la malaria nuisible pour votre santé et celle de votre bébé.",
+      ".\",": null,
       "Swahili": "Wapendwa wanawake wajawazito, lala kila usiku ndani ya Chandarua chenye Dawa ya Kudumu ya Muda Mrefu (MILD) kuepuka malaria ambayo ni hatari kwa afya yako na ya mtoto wako."
     }
   },
   {
     "id": 3,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Women",
-    "target_audience": "Pregnant women",
+    "target_audience": { 
+      "English": "Pregnant women",
+      "French": "Femmes enceinte",
+      "Swahili": "Mwanamke mjamzito"
+    },
     "problem_behavior": "Pregnant women do not have a birth plan",
     "promoted_behavior": " Pregnant women develop a birth plan",
     "action": "Development of a birth plan",
@@ -47,9 +70,17 @@
   },
   {
     "id": 4,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Women",
-    "target_audience": "Pregnant women",
+    "target_audience": { 
+      "English": "Pregnant women",
+      "French": "Femmes enceinte",
+      "Swahili": "Mwanamke mjamzito"
+    },
     "problem_behavior": "Pregnant women do not seek help from the HC in time when faced with danger signs",
     "promoted_behavior": "Pregnant women are aware of the danger signs of pregnancy and seek help from a healthcare facility in time.",
     "action": "Consultation on the occurrence of a danger sign",
@@ -61,9 +92,17 @@
   },
   {
     "id": 5,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Women",
-    "target_audience": "Pregnant women",
+    "target_audience": { 
+      "English": "Pregnant women",
+      "French": "Femmes enceinte",
+      "Swahili": "Mwanamke mjamzito"
+    },
     "problem_behavior": "Pregnant women delay going to the health center in case of danger signs or childbirth",
     "promoted_behavior": " Pregnant women decide in time to seek help from the health center in case of danger signs or childbirth",
     "action": "Non-use of indigenous products to speed up labor and delivery; Follow-up of…",
@@ -75,9 +114,17 @@
   },
   {
     "id": 6,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Women",
-    "target_audience": "Pregnant women",
+    "target_audience": { 
+      "English": "Pregnant women",
+      "French": "Femmes enceinte",
+      "Swahili": "Mwanamke mjamzito"
+    },
     "problem_behavior": "Pregnant women use certain indigenous products to speed up labor and delivery",
     "promoted_behavior": " Pregnant women do not use indigenous products to speed up labor and delivery",
     "action": "Informing the woman of the danger signs during…",
@@ -89,9 +136,17 @@
   },
   {
     "id": 7,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Partner",
-    "target_audience": "Husband/Spouse",
+    "target_audience": { 
+      "English": "Husband/Spouse",
+      "French": "Mari/conjoint",
+      "Swahili": "Mume/mpenzi"
+    },
     "problem_behavior": "The husband/spouse is not interested in the pregnant woman's health and ignores danger signs",
     "promoted_behavior": " The husband/spouse is interested in the pregnant woman's health and knows the danger signs",
     "action": "The husband/spouse is involved in the pregnant woman's health and knows the danger signs",
@@ -103,9 +158,17 @@
   },
   {
     "id": 8,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Partner",
-    "target_audience": "Husband/Spouse",
+    "target_audience": { 
+      "English": "Husband/Spouse",
+      "French": "Mari/conjoint",
+      "Swahili": "Mume/mpenzi"
+    },
     "problem_behavior": "The husband/spouse does not go with the pregnant woman to PNC.",
     "promoted_behavior": " The husband/spouse goes with the pregnant woman to prenatal consultations (PNC)",
     "action": "Escorting the pregnant woman to the PNC",
@@ -117,9 +180,17 @@
   },
   {
     "id": 9,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Partner",
-    "target_audience": "Husband/Spouse",
+    "target_audience": { 
+      "English": "Husband/Spouse",
+      "French": "Mari/conjoint",
+      "Swahili": "Mume/mpenzi"
+    },
     "problem_behavior": "",
     "promoted_behavior": "The husband/spouse decides to seek help from a healthcare facility in case of in case of danger signs or childbirth",
     "action": "",
@@ -131,9 +202,17 @@
   },
   {
     "id": 10,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Partner",
-    "target_audience": "Husband/Spouse",
+    "target_audience": { 
+      "English": "Husband/Spouse",
+      "French": "Mari/conjoint",
+      "Swahili": "Mume/mpenzi"
+    },
     "problem_behavior": "",
     "promoted_behavior": "The husband/spouse is supportive of the woman for pregnancy follow-up (communication within the couple, and being aware of one's responsabilities, etc.)",
     "action": "",
@@ -145,7 +224,11 @@
   },
   {
     "id": 11,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Community",
     "target_audience": "Community",
     "problem_behavior": "Encourages prohibited food and the use of indigenous products during pregnancy;",
@@ -159,7 +242,11 @@
   },
   {
     "id": 12,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Healthcare Provider",
     "target_audience": "Healthcare provider",
     "problem_behavior": "Disregards pregnant women at the PNC.",
@@ -173,7 +260,11 @@
   },
   {
     "id": 13,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Healthcare Provider",
     "target_audience": "Healthcare provider",
     "problem_behavior": "Poor reception of pregnant women at the PNC.",
@@ -187,7 +278,11 @@
   },
   {
     "id": 14,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Healthcare Provider",
     "target_audience": "Healthcare provider",
     "problem_behavior": "3/ Does not discuss the delivery plan with pregnant women at the PNC",
@@ -201,7 +296,11 @@
   },
   {
     "id": 15,
-    "intervention": "Assisted delivery",
+    "intervention": {
+      "English": "Assisted delivery",
+      "French": "Accouchement assisté",
+      "Swahili": "Kupata msaada wakati wa kuzaa"
+    },
     "general_audience": "Women",
     "target_audience": "Woman in labor",
     "problem_behavior": "Delay in coming to the facility at the first sign of labor",
@@ -215,7 +314,11 @@
   },
   {
     "id": 16,
-    "intervention": "Assisted delivery",
+    "intervention": {
+      "English": "Assisted delivery",
+      "French": "Accouchement assisté",
+      "Swahili": "Kupata msaada wakati wa kuzaa"
+    },
     "general_audience": "Women",
     "target_audience": "Woman in labor",
     "problem_behavior": "Refusal to go to the facility for delivery.",
@@ -229,7 +332,11 @@
   },
   {
     "id": 17,
-    "intervention": "Assisted delivery",
+    "intervention": {
+      "English": "Assisted delivery",
+      "French": "Accouchement assisté",
+      "Swahili": "Kupata msaada wakati wa kuzaa"
+    },
     "general_audience": "Women",
     "target_audience": "Woman in labor",
     "problem_behavior": "Use of indigenous products to speed up labor;",
@@ -243,7 +350,11 @@
   },
   {
     "id": 18,
-    "intervention": "Assisted delivery",
+    "intervention": {
+      "English": "Assisted delivery",
+      "French": "Accouchement assisté",
+      "Swahili": "Kupata msaada wakati wa kuzaa"
+    },
     "general_audience": "Women",
     "target_audience": "Woman in labor",
     "problem_behavior": "",
@@ -257,7 +368,11 @@
   },
   {
     "id": 19,
-    "intervention": "Assisted delivery",
+    "intervention": {
+      "English": "Assisted delivery",
+      "French": "Accouchement assisté",
+      "Swahili": "Kupata msaada wakati wa kuzaa"
+    },
     "general_audience": "Healthcare Provider",
     "target_audience": "Clinical care provider",
     "problem_behavior": "Failure of healthcare provider to refer pregnant women in labor with a complication in time",
@@ -271,7 +386,11 @@
   },
   {
     "id": 20,
-    "intervention": "Assisted delivery",
+    "intervention": {
+      "English": "Assisted delivery",
+      "French": "Accouchement assisté",
+      "Swahili": "Kupata msaada wakati wa kuzaa"
+    },
     "general_audience": "Healthcare Provider",
     "target_audience": "Clinical care provider",
     "problem_behavior": "",
@@ -285,7 +404,11 @@
   },
   {
     "id": 21,
-    "intervention": "Assisted delivery",
+    "intervention": {
+      "English": "Assisted delivery",
+      "French": "Accouchement assisté",
+      "Swahili": "Kupata msaada wakati wa kuzaa"
+    },
     "general_audience": "Healthcare Provider",
     "target_audience": "Clinical care provider",
     "problem_behavior": "",
@@ -299,7 +422,11 @@
   },
   {
     "id": 22,
-    "intervention": "Postnatal Consultation (CPoN)",
+    "intervention": {
+      "English": "Postnatal Consultation",
+      "French": "Consultation Post-Natale (CPoN)",
+      "Swahili": "Mashauriano ya baada ya kuzaa (CPon)"
+    },
     "general_audience": "Women",
     "target_audience": "Immediate and late postpartum women",
     "problem_behavior": "Women in postpartum do not know the danger signs after delivery.",
@@ -313,7 +440,11 @@
   },
   {
     "id": 23,
-    "intervention": "Postnatal Consultation (CPoN)",
+    "intervention": {
+      "English": "Postnatal Consultation",
+      "French": "Consultation Post-Natale (CPoN)",
+      "Swahili": "Mashauriano ya baada ya kuzaa (CPon)"
+    },
     "general_audience": "Women",
     "target_audience": "Immediate and late postpartum women",
     "problem_behavior": "Women in postpartum do not use a contraceptive method before leaving the maternity ward",
@@ -327,7 +458,11 @@
   },
   {
     "id": 24,
-    "intervention": "Consultation in time for comprehensive abortion care",
+    "intervention": {
+      "English": "Consultation in time for comprehensive abortion care",
+      "French": "Consultation à temps pour soins complets d'avortement",
+      "Swahili": "Mashauriano kwa wakati kwa utunzaji kamili wa utoaji mimba"
+    },
     "general_audience": "Women",
     "target_audience": "Women",
     "problem_behavior": "Women who carry unwanted pregnancies have clandestine abortions",
@@ -341,7 +476,11 @@
   },
   {
     "id": 25,
-    "intervention": "Use of comprehensive abortion care services",
+    "intervention": {
+      "English": "Use of comprehensive abortion care services",
+      "French": "Utilisation des services des soins complets d'avortement",
+      "Swahili": "Matumizi ya huduma kamili za utunzaji wa utoaji mimba"
+    },
     "general_audience": "Women",
     "target_audience": "Women",
     "problem_behavior": "Women do not know the danger signs after abortion",
@@ -355,7 +494,11 @@
   },
   {
     "id": 26,
-    "intervention": "Using contraception as an option after abortion",
+    "intervention": {
+      "English": "Using contraception as an option after abortion",
+      "French": "Utilisation de la contraception au choix après avortement",
+      "Swahili": "Kuchagua njia ya kuzuia mimba baada ya utoaji mimba"
+    },
     "general_audience": "Women",
     "target_audience": "Women",
     "problem_behavior": "Women do not use contraception after abortion",
@@ -369,7 +512,11 @@
   },
   {
     "id": 27,
-    "intervention": "Using contraception as an option after abortion",
+    "intervention": {
+      "English": "Using contraception as an option after abortion",
+      "French": "Utilisation de la contraception au choix après avortement",
+      "Swahili": "Kuchagua njia ya kuzuia mimba baada ya utoaji mimba"
+    },
     "general_audience": "Healthcare Provider",
     "target_audience": "Clinical care provider",
     "problem_behavior": "The healthcare provider does not give the correct information to women after abortion.",
@@ -383,7 +530,11 @@
   },
   {
     "id": 28,
-    "intervention": "Using safe methods of uterine evacuation",
+    "intervention": {
+      "English": "Using safe methods of uterine evacuation",
+      "French": "Utiliser des méthodes sûres d'évacuation utérine",
+      "Swahili": "Kutumia njia salama za uokoaji wa uterasi"
+    },
     "general_audience": "Healthcare Provider",
     "target_audience": "Clinical care provider",
     "problem_behavior": "Providers use obsolete uterine evacuation methods (curettage, forced cervical dilation, no pain management, etc.)",
@@ -397,7 +548,11 @@
   },
   {
     "id": 29,
-    "intervention": "Using contraception as an option after abortion",
+    "intervention": {
+      "English": "Using contraception as an option after abortion",
+      "French": "Utilisation de la contraception au choix après avortement",
+      "Swahili": "Kuchagua njia ya kuzuia mimba baada ya utoaji mimba"
+    },
     "general_audience": "Healthcare Provider",
     "target_audience": "Clinical care provider",
     "problem_behavior": "",
@@ -411,7 +566,11 @@
   },
   {
     "id": 30,
-    "intervention": "Using contraception as an option after abortion",
+    "intervention": {
+      "English": "Using contraception as an option after abortion",
+      "French": "Utilisation de la contraception au choix après avortement",
+      "Swahili": "Kuchagua njia ya kuzuia mimba baada ya utoaji mimba"
+    },
     "general_audience": "Community",
     "target_audience": "Community",
     "problem_behavior": "The community stigmatizes women who perform abortions",
@@ -425,7 +584,11 @@
   },
   {
     "id": 31,
-    "intervention": "Using contraception as an option after abortion",
+    "intervention": {
+      "English": "Using contraception as an option after abortion",
+      "French": "Utilisation de la contraception au choix après avortement",
+      "Swahili": "Kuchagua njia ya kuzuia mimba baada ya utoaji mimba"
+    },
     "general_audience": "Community",
     "target_audience": "Community",
     "problem_behavior": "The community is not fully informed about the availability of free comprehensive abortion care services (SCACF)",
@@ -439,7 +602,11 @@
   },
   {
     "id": 32,
-    "intervention": " Using contraception as an option after abortion",
+    "intervention": {
+      "English": "Using contraception as an option after abortion",
+      "French": "Utilisation de la contraception au choix après avortement",
+      "Swahili": "Kuchagua njia ya kuzuia mimba baada ya utoaji mimba"
+    },
     "general_audience": "Community",
     "target_audience": "Community",
     "problem_behavior": "",
@@ -453,7 +620,11 @@
   },
   {
     "id": 33,
-    "intervention": "Newborn care",
+    "intervention": {
+      "English": "Newborn care",
+      "French": "Soins du Nouveau-né",
+      "Swahili": "Huduma ya Msingi"
+    },
     "general_audience": "Healthcare Provider",
     "target_audience": "Healthcare provider",
     "problem_behavior": "Does not provide the newborn with basic care",
@@ -462,12 +633,16 @@
     "message": {
       "English": "Dear providers, always provide the newborn with complete basic care for good survival.",
       "French": "Chers prestataires, administrez systématiquement les soins essentiels complet au Nouveau-né pour lui permettre une bonne survie.",
-      "Watoa huduma wapendwa, daima mpe mtoto mchanga huduma kamili ya msingi kwa maisha yake mazuri."
+      "Swahili": "Watoa huduma wapendwa, daima mpe mtoto mchanga huduma kamili ya msingi kwa maisha yake mazuri."
     }
   },
   {
     "id": 34,
-    "intervention": "Newborn care",
+    "intervention": {
+      "English": "Newborn care",
+      "French": "Soins du Nouveau-né",
+      "Swahili": "Huduma ya Msingi"
+    },
     "general_audience": "Women",
     "target_audience": "The mother",
     "problem_behavior": "Does not exclusively breastfeed the baby",
@@ -481,7 +656,11 @@
   },
   {
     "id": 35,
-    "intervention": " Newborn care",
+    "intervention": {
+      "English": "Newborn care",
+      "French": "Soins du Nouveau-né",
+      "Swahili": "Huduma ya Msingi"
+    },
     "general_audience": "Women",
     "target_audience": "The mother",
     "problem_behavior": "",
@@ -495,7 +674,11 @@
   },
   {
     "id": 36,
-    "intervention": "Newborn care",
+    "intervention": {
+      "English": "Newborn care",
+      "French": "Soins du Nouveau-né",
+      "Swahili": "Huduma ya Msingi"
+    },
     "general_audience": "Women",
     "target_audience": "The mother",
     "problem_behavior": "Do not sleep under the LLIN, leaving the baby exposed to bad weather",
@@ -509,7 +692,11 @@
   },
   {
     "id": 37,
-    "intervention": "Newborn care",
+    "intervention": {
+      "English": "Newborn care",
+      "French": "Soins du Nouveau-né",
+      "Swahili": "Huduma ya Msingi"
+    },
     "general_audience": "Women",
     "target_audience": "The mother",
     "problem_behavior": "Do not go to the HC as soon as the newborn shows danger signs",
@@ -523,7 +710,11 @@
   },
   {
     "id": 38,
-    "intervention": "Newborn care",
+    "intervention": {
+      "English": "Newborn care",
+      "French": "Soins du Nouveau-né",
+      "Swahili": "Huduma ya Msingi"
+    },
     "general_audience": "Women",
     "target_audience": "The mother",
     "problem_behavior": "",
@@ -537,7 +728,11 @@
   },
   {
     "id": 39,
-    "intervention": "Newborn care",
+    "intervention": {
+      "English": "Newborn care",
+      "French": "Soins du Nouveau-né",
+      "Swahili": "Huduma ya Msingi"
+    },
     "general_audience": "Women",
     "target_audience": "The mother",
     "problem_behavior": "",
@@ -551,7 +746,11 @@
   },
   {
     "id": 40,
-    "intervention": "Newborn care",
+    "intervention": {
+      "English": "Newborn care",
+      "French": "Soins du Nouveau-né",
+      "Swahili": "Huduma ya Msingi"
+    },
     "general_audience": "Women",
     "target_audience": "The mother",
     "problem_behavior": "",
@@ -565,20 +764,29 @@
   },
   {
     "id": 41,
-    "intervention" : "Newborn care",
+    "intervention": {
+      "English": "Newborn care",
+      "French": "Soins du Nouveau-né",
+      "Swahili": "Huduma ya Msingi"
+    },
     "general_audience": "Women",
+    "target_audience": "The mother",
     "problem_behavior": "",
     "promoted_behavior": "Wash hands before and after nursing the newborn.",
-    "action":"",
+    "action": "",
     "message": {
       "English": "Dear mother, wash your hands before and after nursing the newborn.",
-      "French":"Chères femmes, lavez-vous les mains avant et après les soins du nouveau-né.",
+      "French": "Chères femmes, lavez-vous les mains avant et après les soins du nouveau-né.",
       "Swahili": "Wanawake wapendwa, osha mikono yako kabla na baada ya utunzaji wa watoto wachanga."
     }
   },
   {
     "id": 42,
-    "intervention": "Use of contraceptive methods",
+    "intervention": {
+      "English": "Use of contraceptive methods",
+      "French": "Utilisation des méthodes contraceptives",
+      "Swahili": "kuchagua njia za kuzuia mimba"
+    },
     "general_audience": "Women",
     "target_audience": "Sexually active woman of childbearing age, married or not",
     "problem_behavior": "Unwanted pregnancies",
@@ -592,7 +800,11 @@
   },
   {
     "id": 43,
-    "intervention": "Use of contraceptive methods",
+    "intervention": {
+      "English": "Use of contraceptive methods",
+      "French": "Utilisation des méthodes contraceptives",
+      "Swahili": "kuchagua njia za kuzuia mimba"
+    },
     "general_audience": "Women",
     "target_audience": "Sexually active woman of childbearing age, married or not",
     "problem_behavior": "Practice of clandestine abortions 3/ Pregnancies that are too close.",
@@ -606,7 +818,11 @@
   },
   {
     "id": 44,
-    "intervention": "Newborn care",
+    "intervention": {
+      "English": "Newborn care",
+      "French": "Soins du Nouveau-né",
+      "Swahili": "Huduma ya Msingi"
+    },
     "general_audience": "Women",
     "target_audience": "The mother",
     "problem_behavior": "",
@@ -620,7 +836,11 @@
   },
   {
     "id": 45,
-    "intervention": "Newborn care",
+    "intervention": {
+      "English": "Newborn care",
+      "French": "Soins du Nouveau-né",
+      "Swahili": "Huduma ya Msingi"
+    },
     "general_audience": "Women",
     "target_audience": "The mother",
     "problem_behavior": "",
@@ -634,7 +854,11 @@
   },
   {
     "id": 46,
-    "intervention": "Management of side effects",
+    "intervention": {
+      "English": "Management of side effects",
+      "French": "Prise en charge des effets secondaires",
+      "Swahili": "Usimamizi wa matatizo zinazotokea katika matumizi ya njia za kuzuia mimba"
+    },
     "general_audience": "Women",
     "target_audience": "Woman using a contraceptive method",
     "problem_behavior": "Discontinuation of the method due to side effects or rumors",
@@ -648,9 +872,17 @@
   },
   {
     "id": 47,
-    "intervention": "Use of contraceptive methods in the postpartum period",
+    "intervention": {
+      "English": "Use of contraceptive methods in the postpartum period",
+      "French": "Utilisation des méthodes contraceptives en post partum",
+      "Swahili": "Matumizi ya njia za kuzuia mimba baada ya kuzaa"
+    },
     "general_audience": "Women",
-    "target_audience": "Pregnant women",
+    "target_audience": { 
+      "English": "Pregnant women",
+      "French": "Femmes enceinte",
+      "Swahili": "Mwanamke mjamzito"
+    },
     "problem_behavior": "The pregnant woman is not adequately informed at the PNC about the importance of using contraceptive methods after delivery.",
     "promoted_behavior": "The pregnant woman is adequately informed at the prenatal consultation (PNC) about the importance of using contraceptive methods after delivery.",
     "action": "Informing pregnant women about the use of contraceptive methods",
@@ -662,9 +894,17 @@
   },
   {
     "id": 48,
-    "intervention": "Use of contraceptive methods in the postpartum period",
+    "intervention": {
+      "English": "Use of contraceptive methods in the postpartum period",
+      "French": "Utilisation des méthodes contraceptives en post partum",
+      "Swahili": "Matumizi ya njia za kuzuia mimba baada ya kuzaa"
+    },
     "general_audience": "Women",
-    "target_audience": "Pregnant women",
+    "target_audience": { 
+      "English": "Pregnant women",
+      "French": "Femmes enceinte",
+      "Swahili": "Mwanamke mjamzito"
+    },
     "problem_behavior": "",
     "promoted_behavior": "The pregnant woman is adequately informed at the prenatal consultation (PNC) about the importance of using contraceptive methods after delivery.",
     "action": "",
@@ -676,7 +916,11 @@
   },
   {
     "id": 49,
-    "intervention": "Use of contraceptive methods in the postpartum period",
+    "intervention": {
+      "English": "Use of contraceptive methods in the postpartum period",
+      "French": "Utilisation des méthodes contraceptives en post partum",
+      "Swahili": "Matumizi ya njia za kuzuia mimba baada ya kuzaa"
+    },
     "general_audience": "Healthcare Provider",
     "target_audience": "Healthcare provider to women in labor in the latency phase",
     "problem_behavior": "The healthcare provider does not check with the woman in labor for information on the choice of contraception",
@@ -690,7 +934,11 @@
   },
   {
     "id": 50,
-    "intervention": "Use of contraceptive methods in the postpartum period",
+    "intervention": {
+      "English": "Use of contraceptive methods in the postpartum period",
+      "French": "Utilisation des méthodes contraceptives en post partum",
+      "Swahili": "Matumizi ya njia za kuzuia mimba baada ya kuzaa"
+    },
     "general_audience": "Healthcare Provider",
     "target_audience": "Healthcare provider to women in labor in the latency phase",
     "problem_behavior": "Healthcare providers do not give contraceptive counseling to women in labor",
@@ -704,7 +952,11 @@
   },
   {
     "id": 51,
-    "intervention": "Sexual and Gender-Based Violence (SGBV)",
+    "intervention": {
+      "English": "Sexual and Gender-Based violence (SGBV)",
+      "French": "Violences Sexuelles et Basées sur le Genre (SGBV)",
+      "Swahili": "Unyanyasaji ya Kijinsia (SGBV)"
+    },
     "general_audience": "Women and Men",
     "target_audience": "Survivor of Sexual and Gender-Based Violence (SGBV)",
     "problem_behavior": "Do not denounce the damage suffered",
@@ -718,7 +970,11 @@
   },
   {
     "id": 52,
-    "intervention": "Sexual and Gender-Based Violence (SGBV)",
+    "intervention": {
+      "English": "Sexual and Gender-Based violence (SGBV)",
+      "French": "Violences Sexuelles et Basées sur le Genre (SGBV)",
+      "Swahili": "Unyanyasaji ya Kijinsia (SGBV)"
+    },
     "general_audience": "Community",
     "target_audience": "Community",
     "problem_behavior": "Stigmatizes the victim of sexual violence",
@@ -732,7 +988,11 @@
   },
   {
     "id": 53,
-    "intervention": "Sexual and Gender-Based Violence (SGBV)",
+    "intervention": {
+      "English": "Sexual and Gender-Based violence (SGBV)",
+      "French": "Violences Sexuelles et Basées sur le Genre (SGBV)",
+      "Swahili": "Unyanyasaji ya Kijinsia (SGBV)"
+    },
     "general_audience": "Healthcare Provider",
     "target_audience": "Healthcare provider",
     "problem_behavior": "Fails to provide timely and appropriate care to the survivor of SGBV.",
@@ -746,7 +1006,11 @@
   },
   {
     "id": 54,
-    "intervention": "Treatment of urogenital fistula",
+    "intervention": {
+      "English": "Treatment of urogenital fistula",
+      "French": "Prise en charge de fistule urogénitale",
+      "Swahili": "Usimamizi wa fistule urogénitale"
+    },
     "general_audience": "Healthcare Provider",
     "target_audience": "Healthcare provider",
     "problem_behavior": "Harmful and inappropriate practices (non-use of partograms during labor monitoring, Christeller maneuver, ...)",
@@ -760,7 +1024,11 @@
   },
   {
     "id": 55,
-    "intervention": "Treatment of urogenital fistula",
+    "intervention": {
+      "English": "Treatment of urogenital fistula",
+      "French": "Prise en charge de fistule urogénitale",
+      "Swahili": "Usimamizi wa fistule urogénitale"
+    },
     "general_audience": "Women and Men",
     "target_audience": "Fistula patient",
     "problem_behavior": "Fistula patients hide and are ashamed",
@@ -774,7 +1042,11 @@
   },
   {
     "id": 56,
-    "intervention": "Treatment of urogenital fistula",
+    "intervention": {
+      "English": "Treatment of urogenital fistula",
+      "French": "Prise en charge de fistule urogénitale",
+      "Swahili": "Usimamizi wa fistule urogénitale"
+    },
     "general_audience": "Community",
     "target_audience": "Community",
     "problem_behavior": "Stigmatization of fistula patients",
@@ -788,534 +1060,694 @@
   },
   {
     "id": 57,
-    "intervention": "Breastfeeding within one hour after delivery.",
-    "general_audience" : "",
-    "target_audience" : "Pregnant women",
-    "problem_behavior" : "Some pregnant women do not comply with the 4 PNC visits to receive counseling on the benefits of breastfeeding immediately after delivery or do not observe breastfeeding within one hour after delivery.",
-    "promoted_behavior" : "Pregnant women comply with the prenatal consultation (PNC) to receive counseling on the benefits of breastfeeding their newborns immediately after delivery.",
-    "action" : "",
-    "message" : {
-    "English" : "Pregnant woman, go to the prenatal consultation (PNC) to get information and counseling on breastfeeding your newborn immediately after delivery, to ensure your well-being and that of your newborn.",                                                                                        
-    "French" : "Femme enceinte, allez à la consultation pré-natale (CPN), pour bénéficier des informations et des conseils sur la mise au sein du nouveau-né immédiatement après l’accouchement, pour assurer votre bien-être et celui du nouveau-né.",
-    "Swahili" : "Mwanamke mjamzito mpendwa, nenda Mashauriano ya kabla ya kuzaa (CPN) kupata taarifa na ushauri juu ya kumnyonyesha mtoto mara tu baada ya kuzaa, kuhakikisha ustawi wako na ule wa mtoto wako"
-  }
+    "intervention": {
+      "English": "Breastfeeding within one hour after delivery.",
+      "French": "Mise au sein dans l'heure qui suit l'accouchement.",
+      "Swahili": "Unyonyeshaji ndani ya saa moja baada ya kuzaa."
+    },
+    "general_audience": "",
+    "target_audience": { 
+      "English": "Pregnant women",
+      "French": "Femmes enceinte",
+      "Swahili": "Mwanamke mjamzito"
+    },
+    "problem_behavior": "Some pregnant women do not comply with the 4 PNC visits to receive counseling on the benefits of breastfeeding immediately after delivery or do not observe breastfeeding within one hour after delivery.",
+    "promoted_behavior": "Pregnant women comply with the prenatal consultation (PNC) to receive counseling on the benefits of breastfeeding their newborns immediately after delivery.",
+    "action": "",
+    "message": {
+      "English": "Pregnant woman, go to the prenatal consultation (PNC) to get information and counseling on breastfeeding your newborn immediately after delivery, to ensure your well-being and that of your newborn.",
+      "French": "Femme enceinte, allez à la consultation pré-natale (CPN), pour bénéficier des informations et des conseils sur la mise au sein du nouveau-né immédiatement après l’accouchement, pour assurer votre bien-être et celui du nouveau-né.",
+      "Swahili": "Mwanamke mjamzito mpendwa, nenda Mashauriano ya kabla ya kuzaa (CPN) kupata taarifa na ushauri juu ya kumnyonyesha mtoto mara tu baada ya kuzaa, kuhakikisha ustawi wako na ule wa mtoto wako"
+    }
   },
-{
+  {
     "id": 58,
-    "intervention": "Breastfeeding within one hour after delivery.",
-    "general_audience" : "Breastfeeding women",
-    "target_audience" : "Breastfeeding women",
-    "problem_behavior" : "Some women are not provided with information on breastfeeding immediately after delivery.",
-    "promoted_behavior" : "Women receive information about breastfeeding their newborns immediately after delivery.",
-    "action" : "",
-    "message" : {
-    "English" : "Mother, breastfeed your baby immediately after delivery, it contributes to your good health and that of your baby.",
-    "French" : "Maman, mettez votre bébé au sein immédiatement après l’accouchement, cela contribue à votre bonne santé et celle de votre bébé.",
-    "Swahili" : "Mama mpendwa, nyonyesha mtoto wako mara tu baada ya kuzaa kwa afya yako nzuri na ya mtoto wako."
-  }
+    "intervention": {
+      "English": "Breastfeeding within one hour after delivery.",
+      "French": "Mise au sein dans l'heure qui suit l'accouchement.",
+      "Swahili": "Unyonyeshaji ndani ya saa moja baada ya kuzaa."
+    },
+    "general_audience": "Breastfeeding women",
+    "target_audience": "Breastfeeding women",
+    "problem_behavior": "Some women are not provided with information on breastfeeding immediately after delivery.",
+    "promoted_behavior": "Women receive information about breastfeeding their newborns immediately after delivery.",
+    "action": "",
+    "message": {
+      "English": "Mother, breastfeed your baby immediately after delivery, it contributes to your good health and that of your baby.",
+      "French": "Maman, mettez votre bébé au sein immédiatement après l’accouchement, cela contribue à votre bonne santé et celle de votre bébé.",
+      "Swahili": "Mama mpendwa, nyonyesha mtoto wako mara tu baada ya kuzaa kwa afya yako nzuri na ya mtoto wako."
+    }
   },
-{
+  {
     "id": 59,
-    "intervention": "Breastfeeding within one hour after delivery.",
-    "general_audience" : "Breastfeeding women",
-    "target_audience" : "Breastfeeding women",
-    "problem_behavior" : "Some women are not provided with information on breastfeeding immediately after delivery.",
-    "promoted_behavior" : "Women receive information about breastfeeding their newborns immediately after delivery.",
-    "action" : "",
-    "message" : {
-    "English" : "Mother, breastfeed your newborn immediately after birth to quickly stimulate the production of breast milk, this first yellowish milk (colostrum), gives a natural protection to the newborn against diseases. Don't throw it away, give it to your newborn quickly.",
-    "French" : "Maman, donnez le sein à votre nouveau-né dès sa naissance pour stimuler rapidement la production du lait maternel, ce premier lait jaunâtre (colostrum), donne une protection naturelle au nouveau-né contre les maladies. Ne le jette pas, donne-le vite à ton nouveau-né.",
-    "Swahili" : "Mama mpendwa, nyonyesha mtoto wako tangu kuzaliwa ili kusaidia uzalishaji wa haraka wa maziwa ya matiti (maziba), maziwa haya ya kwanza ya manjano (colostrum), inatoa kinga ya asili kwa mtoto mzawa kutokana na magonjwa. Usiitupe, uipe haraka mtoto wako"
-  }
-},
-{
+    "intervention": {
+      "English": "Breastfeeding within one hour after delivery.",
+      "French": "Mise au sein dans l'heure qui suit l'accouchement.",
+      "Swahili": "Unyonyeshaji ndani ya saa moja baada ya kuzaa."
+    },
+    "general_audience": "Breastfeeding women",
+    "target_audience": "Breastfeeding women",
+    "problem_behavior": "Some women are not provided with information on breastfeeding immediately after delivery.",
+    "promoted_behavior": "Women receive information about breastfeeding their newborns immediately after delivery.",
+    "action": "",
+    "message": {
+      "English": "Mother, breastfeed your newborn immediately after birth to quickly stimulate the production of breast milk, this first yellowish milk (colostrum), gives a natural protection to the newborn against diseases. Don't throw it away, give it to your newborn quickly.",
+      "French": "Maman, donnez le sein à votre nouveau-né dès sa naissance pour stimuler rapidement la production du lait maternel, ce premier lait jaunâtre (colostrum), donne une protection naturelle au nouveau-né contre les maladies. Ne le jette pas, donne-le vite à ton nouveau-né.",
+      "Swahili": "Mama mpendwa, nyonyesha mtoto wako tangu kuzaliwa ili kusaidia uzalishaji wa haraka wa maziwa ya matiti (maziba), maziwa haya ya kwanza ya manjano (colostrum), inatoa kinga ya asili kwa mtoto mzawa kutokana na magonjwa. Usiitupe, uipe haraka mtoto wako"
+    }
+  },
+  {
     "id": 60,
-    "intervention": "Breastfeeding within one hour after delivery.",
-    "general_audience" : "",
-    "target_audience" : "Breastfeeding women",
-    "problem_behavior" : "Some women are not provided with information on breastfeeding immediately after delivery.",
-    "promoted_behavior" : "Women receive information about breastfeeding their newborns immediately after delivery.",
-    "action" : "",
-    "message" : {
-    "English" : "Mother, breastfeeding your baby immediately after delivery facilitates the expulsion of the placenta and reduces bleeding.",
-    "French" : "Maman, allaitez votre bébé   immédiatement après l’accouchement facilite l‘expulsion du placenta et diminue les saignements.",
-    "Swahili" : "Mama mpendwa, kumnyonyesha mtoto wako mara tu baada ya kuzaa ina wezesha kufukuzwa kwa plasenta na ina maliza kupungukwa damu."
-  }
-},
-{
+    "intervention": {
+      "English": "Breastfeeding within one hour after delivery.",
+      "French": "Mise au sein dans l'heure qui suit l'accouchement.",
+      "Swahili": "Unyonyeshaji ndani ya saa moja baada ya kuzaa."
+    },
+    "general_audience": "",
+    "target_audience": "Breastfeeding women",
+    "problem_behavior": "Some women are not provided with information on breastfeeding immediately after delivery.",
+    "promoted_behavior": "Women receive information about breastfeeding their newborns immediately after delivery.",
+    "action": "",
+    "message": {
+      "English": "Mother, breastfeeding your baby immediately after delivery facilitates the expulsion of the placenta and reduces bleeding.",
+      "French": "Maman, allaitez votre bébé   immédiatement après l’accouchement facilite l‘expulsion du placenta et diminue les saignements.",
+      "Swahili": "Mama mpendwa, kumnyonyesha mtoto wako mara tu baada ya kuzaa ina wezesha kufukuzwa kwa plasenta na ina maliza kupungukwa damu."
+    }
+  },
+  {
     "id": 61,
-    "intervention": "Breastfeeding within one hour after delivery.",
-    "general_audience" : "",
-    "target_audience" : "Man (husband)",
-    "problem_behavior" : "Some men do not encourage or support their wives to attend PNC appointments for information and counseling on breastfeeding newborns immediately after delivery.",
-    "promoted_behavior" : "Men encourage and support their wives to attend prenatal consultation (PNC) appointments to receive information and counseling on breastfeeding newborns immediately after delivery.",
-    "action" : "",
-    "message" : {
-    "English" : "Husband/Spouse, encourage and support your wives to attend prenatal consultation (PNC) appointments to get information and counseling on breastfeeding the newborn immediately after delivery for the well-being of the family.",
-    "French" : "Mari/Conjoint, encouragez et soutenez vos femmes aux rendez-vous de la consultation pré-natale (CPN) pour bénéficier des informations et des conseils sur la mise au sein du nouveau-né immédiatement après l’accouchement pour le bien-être de la famille.",
-    "Swahili" : "Mume/Mpenzi Mpendwa, muhimize na kuunga mkono mke wako katika mikutano ya Mashauriano ya kabla ya kuzaa (CPN) kupokea taarifa na ushauri juu ya kumnyonyesha mtoto mara tu baada ya kuzaa kwa ajili ya ustawi wa familia"
-  }
-},
-{
+    "intervention": {
+      "English": "Breastfeeding within one hour after delivery.",
+      "French": "Mise au sein dans l'heure qui suit l'accouchement.",
+      "Swahili": "Unyonyeshaji ndani ya saa moja baada ya kuzaa."
+    },
+    "general_audience": "",
+    "target_audience": "Man (husband)",
+    "problem_behavior": "Some men do not encourage or support their wives to attend PNC appointments for information and counseling on breastfeeding newborns immediately after delivery.",
+    "promoted_behavior": "Men encourage and support their wives to attend prenatal consultation (PNC) appointments to receive information and counseling on breastfeeding newborns immediately after delivery.",
+    "action": "",
+    "message": {
+      "English": "Husband/Spouse, encourage and support your wives to attend prenatal consultation (PNC) appointments to get information and counseling on breastfeeding the newborn immediately after delivery for the well-being of the family.",
+      "French": "Mari/Conjoint, encouragez et soutenez vos femmes aux rendez-vous de la consultation pré-natale (CPN) pour bénéficier des informations et des conseils sur la mise au sein du nouveau-né immédiatement après l’accouchement pour le bien-être de la famille.",
+      "Swahili": "Mume/Mpenzi Mpendwa, muhimize na kuunga mkono mke wako katika mikutano ya Mashauriano ya kabla ya kuzaa (CPN) kupokea taarifa na ushauri juu ya kumnyonyesha mtoto mara tu baada ya kuzaa kwa ajili ya ustawi wa familia"
+    }
+  },
+  {
     "id": 62,
-    "intervention": "Breastfeeding within one hour after delivery.",
-    "general_audience" : "",
-    "target_audience" : "Healthcare providers",
-    "problem_behavior" : "Some healthcare providers do not assist or encourage breastfeeding women to breastfeed their newborns immediately after delivery.",
-    "promoted_behavior" : "Healthcare providers assist and encourage women to breastfeed their newborns within one hour after delivery",
-    "action" : "",
-    "message" : {
-    "English" : "Healthcare providers, make sure you support and encourage women to breastfeed their newborns immediately after delivery for the sake of our community.",
-    "French" : "Prestataires, prenez soin d’aider et d’encourager les femmes à mettre au sein le nouveau-né immédiatement après   l'accouchement pour le bien être de notre communauté.",
-    "Swahili" : "Wapendwa watoa huduma, tafadhali wasaidie na kuwahimiza wanawake kumnyonyesha mtoto mara tu baada ya kuzaa kwa ajili ya ustawi wa jamii yetu."
-  }
-},
-{
+    "intervention": {
+      "English": "Breastfeeding within one hour after delivery.",
+      "French": "Mise au sein dans l'heure qui suit l'accouchement.",
+      "Swahili": "Unyonyeshaji ndani ya saa moja baada ya kuzaa."
+    },
+    "general_audience": "",
+    "target_audience": "Healthcare providers",
+    "problem_behavior": "Some healthcare providers do not assist or encourage breastfeeding women to breastfeed their newborns immediately after delivery.",
+    "promoted_behavior": "Healthcare providers assist and encourage women to breastfeed their newborns within one hour after delivery",
+    "action": "",
+    "message": {
+      "English": "Healthcare providers, make sure you support and encourage women to breastfeed their newborns immediately after delivery for the sake of our community.",
+      "French": "Prestataires, prenez soin d’aider et d’encourager les femmes à mettre au sein le nouveau-né immédiatement après   l'accouchement pour le bien être de notre communauté.",
+      "Swahili": "Wapendwa watoa huduma, tafadhali wasaidie na kuwahimiza wanawake kumnyonyesha mtoto mara tu baada ya kuzaa kwa ajili ya ustawi wa jamii yetu."
+    }
+  },
+  {
     "id": 63,
-    "intervention": "Breastfeeding within one hour after delivery.",
-    "general_audience" : "",
-    "target_audience" : "Community members",
-    "problem_behavior" : "Community members do not encourage breastfeeding women to breastfeed their newborns immediately after delivery.",
-    "promoted_behavior" : "Community members encourage breastfeeding women to breastfeed their newborns immediately after delivery.",
-    "action" : "",
-    "message" : {
-    "English" : "Community members, encourage the breastfeeding woman to breastfeed the newborn immediately after delivery for their good health.",
-    "French" : "Membres de la communauté, encouragez la femme allaitante à mettre au sein le nouveau-né immédiatement après l’accouchement pour leur bonne santé.",
-    "Swahili" : "Wanajamii wapendwa, mhimize mwanamke anayenyonyesha kumnyonyesha mtoto mchanga mara tu baada ya kuzaa ili kuhakikisha afya njema."
-  }
-},
-{
+    "intervention": {
+      "English": "Breastfeeding within one hour after delivery.",
+      "French": "Mise au sein dans l'heure qui suit l'accouchement.",
+      "Swahili": "Unyonyeshaji ndani ya saa moja baada ya kuzaa."
+    },
+    "general_audience": "",
+    "target_audience": "Community members",
+    "problem_behavior": "Community members do not encourage breastfeeding women to breastfeed their newborns immediately after delivery.",
+    "promoted_behavior": "Community members encourage breastfeeding women to breastfeed their newborns immediately after delivery.",
+    "action": "",
+    "message": {
+      "English": "Community members, encourage the breastfeeding woman to breastfeed the newborn immediately after delivery for their good health.",
+      "French": "Membres de la communauté, encouragez la femme allaitante à mettre au sein le nouveau-né immédiatement après l’accouchement pour leur bonne santé.",
+      "Swahili": "Wanajamii wapendwa, mhimize mwanamke anayenyonyesha kumnyonyesha mtoto mchanga mara tu baada ya kuzaa ili kuhakikisha afya njema."
+    }
+  },
+  {
     "id": 64,
-    "intervention": "Exclusive breastfeeding up to 6 months",
-    "general_audience" : "",
-    "target_audience" : "Breastfeeding women",
-    "problem_behavior" : "Women do not respect exclusive and regular breastfeeding of their babies.",
-    "promoted_behavior" : "Women respect exclusive and regular breastfeeding.",
-    "action" : "",
-    "message" : {
-    "English" : "Mother, breast milk is the only natural, complete and adapted food that meets 100% of your baby's needs. Feed your baby exclusively and regularly from birth until the age of six months. Do not give anything even water, breast milk also contains water.",
-    "French" : "Maman, le lait maternel est le seul aliment naturel, complet, adapté répondant à 100% aux besoins de votre bébé, nourrissez-le exclusivement et régulièrement au sein dès la naissance jusqu’à l’âge de six mois. Ne donnez rien même pas de l'eau, le lait maternel contient aussi l’eau.",
-    "Swahili" : "Mama mpendwa, maziwa ya matiti (maziba) ni chakula pekee cha asili, kamili, kinachofaa ambacho ina kutana na 100% ya mahitaji ya mtoto wako, kumlisha peke yake na mara kwa mara kwenye matiti tangu kuzaliwa hadi umri wa miezi sita. Usimpe maji, maziwa ya mama pia yana maji."
-  }
-},
-{
+    "intervention": {
+      "English": "Exclusive breastfeeding up to 6 months.",
+      "French": "Allaitement exclusif jusqu'à 6 mois.",
+      "Swahili": "Unyonyeshaji wa kipekee hadi miezi 6."
+    },
+    "general_audience": "",
+    "target_audience": "Breastfeeding women",
+    "problem_behavior": "Women do not respect exclusive and regular breastfeeding of their babies.",
+    "promoted_behavior": "Women respect exclusive and regular breastfeeding.",
+    "action": "",
+    "message": {
+      "English": "Mother, breast milk is the only natural, complete and adapted food that meets 100% of your baby's needs. Feed your baby exclusively and regularly from birth until the age of six months. Do not give anything even water, breast milk also contains water.",
+      "French": "Maman, le lait maternel est le seul aliment naturel, complet, adapté répondant à 100% aux besoins de votre bébé, nourrissez-le exclusivement et régulièrement au sein dès la naissance jusqu’à l’âge de six mois. Ne donnez rien même pas de l'eau, le lait maternel contient aussi l’eau.",
+      "Swahili": "Mama mpendwa, maziwa ya matiti (maziba) ni chakula pekee cha asili, kamili, kinachofaa ambacho ina kutana na 100% ya mahitaji ya mtoto wako, kumlisha peke yake na mara kwa mara kwenye matiti tangu kuzaliwa hadi umri wa miezi sita. Usimpe maji, maziwa ya mama pia yana maji."
+    }
+  },
+  {
     "id": 65,
-    "intervention": "Exclusive breastfeeding up to 6 months",
-    "general_audience" : "",
-    "target_audience" : "Breastfeeding women",
-    "problem_behavior" : "Women do not respect exclusive and regular breastfeeding of their babies.",
-    "promoted_behavior" : "Women respect exclusive and regular breastfeeding.",
-    "action" : "",
-    "message" : {
-    "English" : "Mother, exclusively breastfeed your baby for the first 6 months to protect him/her from diseases such as diarrhea, respiratory infections and also to prevent unwanted or early pregnancies, risk of ovarian and breast cancer.",
-    "French" : "Maman, allaitez exclusivement votre bébé pendant les 6 premiers mois pour le protéger contre les maladies telles que la diarrhée, les infections respiratoires et aussi vous prévenir   des grossesses non désirées ou précoces, de risque de cancer des ovaires et des seins.",
-    "Swahili" : "Mama mpendwa, mtoto wako anahitaji unyonyeshaji wa kipekee kwa miezi 6 ya kwanza ili kumkinga na magonjwa kama vile kuharisha, maambukizi ya kupumua pamoja na kuzuia mimba zisizohitajika au mapema, hatari ya cancer ya ovari na matiti."
-  }
-},
-{
+    "intervention": {
+      "English": "Exclusive breastfeeding up to 6 months.",
+      "French": "Allaitement exclusif jusqu'à 6 mois.",
+      "Swahili": "Unyonyeshaji wa kipekee hadi miezi 6."
+    },
+    "general_audience": "",
+    "target_audience": "Breastfeeding women",
+    "problem_behavior": "Women do not respect exclusive and regular breastfeeding of their babies.",
+    "promoted_behavior": "Women respect exclusive and regular breastfeeding.",
+    "action": "",
+    "message": {
+      "English": "Mother, exclusively breastfeed your baby for the first 6 months to protect him/her from diseases such as diarrhea, respiratory infections and also to prevent unwanted or early pregnancies, risk of ovarian and breast cancer.",
+      "French": "Maman, allaitez exclusivement votre bébé pendant les 6 premiers mois pour le protéger contre les maladies telles que la diarrhée, les infections respiratoires et aussi vous prévenir   des grossesses non désirées ou précoces, de risque de cancer des ovaires et des seins.",
+      "Swahili": "Mama mpendwa, mtoto wako anahitaji unyonyeshaji wa kipekee kwa miezi 6 ya kwanza ili kumkinga na magonjwa kama vile kuharisha, maambukizi ya kupumua pamoja na kuzuia mimba zisizohitajika au mapema, hatari ya cancer ya ovari na matiti."
+    }
+  },
+  {
     "id": 66,
-    "intervention": "Exclusive breastfeeding up to 6 months",
-    "general_audience" : "",
-    "target_audience" : "Breastfeeding women",
-    "problem_behavior" : "Women do not respect exclusive and regular breastfeeding of their babies.",
-    "promoted_behavior" : "Women respect exclusive and regular breastfeeding.",
-    "action" : "",
-    "message" : {
-    "English" : "Mother, Be careful!  If your baby is less than 6 months old, continue with exclusive breastfeeding and increase the frequency of breastfeeding during the illness and two weeks after the illness to keep the child healthy.",
-    "French" : "Maman, Attention!  En cas de maladie du bébé de moins de 6 mois, continuez avec la pratique d'allaitement exclusif en augmentant la fréquence de tété pendant la maladie et deux semaines après la maladie pour garder l'enfant en bonne santé.",
-    "Swahili" : "Mama mpendwa, Kuwa mwangalifu!  Ikiwa ugonjwa wa mtoto chini ya miezi 6, endelea na mazoezi ya unyonyeshaji wa kipekee na kuongeza idadi ya nyakati za unyonyeshaji wakati wa ugonjwa na wiki mbili baada ya ugonjwa ili kuhakikisha afya njema kwa mtoto."
-  }
-},
-{
+    "intervention": {
+      "English": "Exclusive breastfeeding up to 6 months.",
+      "French": "Allaitement exclusif jusqu'à 6 mois.",
+      "Swahili": "Unyonyeshaji wa kipekee hadi miezi 6."
+    },
+    "general_audience": "",
+    "target_audience": "Breastfeeding women",
+    "problem_behavior": "Women do not respect exclusive and regular breastfeeding of their babies.",
+    "promoted_behavior": "Women respect exclusive and regular breastfeeding.",
+    "action": "",
+    "message": {
+      "English": "Mother, Be careful!  If your baby is less than 6 months old, continue with exclusive breastfeeding and increase the frequency of breastfeeding during the illness and two weeks after the illness to keep the child healthy.",
+      "French": "Maman, Attention!  En cas de maladie du bébé de moins de 6 mois, continuez avec la pratique d'allaitement exclusif en augmentant la fréquence de tété pendant la maladie et deux semaines après la maladie pour garder l'enfant en bonne santé.",
+      "Swahili": "Mama mpendwa, Kuwa mwangalifu!  Ikiwa ugonjwa wa mtoto chini ya miezi 6, endelea na mazoezi ya unyonyeshaji wa kipekee na kuongeza idadi ya nyakati za unyonyeshaji wakati wa ugonjwa na wiki mbili baada ya ugonjwa ili kuhakikisha afya njema kwa mtoto."
+    }
+  },
+  {
     "id": 67,
-    "intervention": "Exclusive breastfeeding up to 6 months",
-    "general_audience" : "",
-    "target_audience" : "Breastfeeding women",
-    "problem_behavior" : "Women do not respect exclusive and regular breastfeeding of their babies.",
-    "promoted_behavior" : "Women respect exclusive and regular breastfeeding.",
-    "action" : "",
-    "message" : {
-    "English" : "Working mother, to keep your baby healthy while you are away from home, continue with exclusive breastfeeding practice by pouring breast milk into clean and closed cups knowing that breast milk keeps for 8 to 10 hours in a cool place (room temperature).",
-    "French" : "Maman travailleuse, pour garder votre bébé en bonne santé pendant votre absence à la maison, continuer avec la pratique d'allaitement exclusif en exprimant le lait maternel dans les tasses bien propres et fermées sachant que le lait maternel se conserve pendant 8h à 10h dans un endroit frais (température ambiante).",
-    "Swahili" : "Mpendwa mama anayefanya kazi, kumweka mtoto wako afya wakati uko mbali na nyumbani, endelea na mazoezi ya unyonyeshaji wa kipekee kwa kuweka maziwa ya mama katika vikombe safi na vilivyofungwa kujua kwamba maziwa ya mama inaeza wekwa kwa masaa 8 hadi 10 mahali pa baridi (joto la chumba)."
-  }
-},
-{
+    "intervention": {
+      "English": "Exclusive breastfeeding up to 6 months.",
+      "French": "Allaitement exclusif jusqu'à 6 mois.",
+      "Swahili": "Unyonyeshaji wa kipekee hadi miezi 6."
+    },
+    "general_audience": "",
+    "target_audience": "Breastfeeding women",
+    "problem_behavior": "Women do not respect exclusive and regular breastfeeding of their babies.",
+    "promoted_behavior": "Women respect exclusive and regular breastfeeding.",
+    "action": "",
+    "message": {
+      "English": "Working mother, to keep your baby healthy while you are away from home, continue with exclusive breastfeeding practice by pouring breast milk into clean and closed cups knowing that breast milk keeps for 8 to 10 hours in a cool place (room temperature).",
+      "French": "Maman travailleuse, pour garder votre bébé en bonne santé pendant votre absence à la maison, continuer avec la pratique d'allaitement exclusif en exprimant le lait maternel dans les tasses bien propres et fermées sachant que le lait maternel se conserve pendant 8h à 10h dans un endroit frais (température ambiante).",
+      "Swahili": "Mpendwa mama anayefanya kazi, kumweka mtoto wako afya wakati uko mbali na nyumbani, endelea na mazoezi ya unyonyeshaji wa kipekee kwa kuweka maziwa ya mama katika vikombe safi na vilivyofungwa kujua kwamba maziwa ya mama inaeza wekwa kwa masaa 8 hadi 10 mahali pa baridi (joto la chumba)."
+    }
+  },
+  {
     "id": 68,
-    "intervention": "Exclusive breastfeeding up to 6 months",
-    "general_audience" : "",
-    "target_audience" : "Man (husband)",
-    "problem_behavior" : "Men (husband) do not encourage women to exclusively breastfeed their infants but rather induce them to give something else.",
-    "promoted_behavior" : "Men (Husbands) encourage and urge women to exclusively breastfeed their infants on a regular basis.",
-    "action" : "",
-    "message" : {
-    "English" : "Father, breast milk for children aged 0 to 6 months is a complete food that meets 100% of the baby's needs and contains enough water to satisfy his thirst; encourage your wives to exclusively breastfeed infants to protect them from diseases (diarrhea and respiratory infections, etc.)",
-    "French" : "Papa, le lait maternel chez l’enfant âgé de 0 à 6 mois est une nourriture complète répondant à 100% aux besoins du bébé et contenant la quantité suffisante d’eau pour étancher sa soif; encouragez vos   femmes à donner uniquement le lait maternel aux nourrissons pour les protéger contre les maladies (la diarrhée et les infections respiratoires, etc.)",
-    "Swahili" : "Baba Mpendwa, maziwa ya mama kwa watoto wenye umri wa miezi 0 hadi 6 ni chakula kamili ambacho ina kutana na 100% ya mahitaji ya mtoto na kina maji ya kutosha kuzima kiu yake; Mhimize mke wako kuwapa watoto wachanga maziwa ya mama ili kuwalinda na magonjwa (kuharisha na maambukizi ya kupumua, etc.)"
-  }
-},
-{
+    "intervention": {
+      "English": "Exclusive breastfeeding up to 6 months.",
+      "French": "Allaitement exclusif jusqu'à 6 mois.",
+      "Swahili": "Unyonyeshaji wa kipekee hadi miezi 6."
+    },
+    "general_audience": "",
+    "target_audience": "Man (husband)",
+    "problem_behavior": "Men (husband) do not encourage women to exclusively breastfeed their infants but rather induce them to give something else.",
+    "promoted_behavior": "Men (Husbands) encourage and urge women to exclusively breastfeed their infants on a regular basis.",
+    "action": "",
+    "message": {
+      "English": "Father, breast milk for children aged 0 to 6 months is a complete food that meets 100% of the baby's needs and contains enough water to satisfy his thirst; encourage your wives to exclusively breastfeed infants to protect them from diseases (diarrhea and respiratory infections, etc.)",
+      "French": "Papa, le lait maternel chez l’enfant âgé de 0 à 6 mois est une nourriture complète répondant à 100% aux besoins du bébé et contenant la quantité suffisante d’eau pour étancher sa soif; encouragez vos   femmes à donner uniquement le lait maternel aux nourrissons pour les protéger contre les maladies (la diarrhée et les infections respiratoires, etc.)",
+      "Swahili": "Baba Mpendwa, maziwa ya mama kwa watoto wenye umri wa miezi 0 hadi 6 ni chakula kamili ambacho ina kutana na 100% ya mahitaji ya mtoto na kina maji ya kutosha kuzima kiu yake; Mhimize mke wako kuwapa watoto wachanga maziwa ya mama ili kuwalinda na magonjwa (kuharisha na maambukizi ya kupumua, etc.)"
+    }
+  },
+  {
     "id": 69,
-    "intervention": "Exclusive breastfeeding up to 6 months",
-    "general_audience" : "",
-    "target_audience" : "Man (husband)",
-    "problem_behavior" : "Men (husband) do not encourage women to exclusively breastfeed their infants but rather induce them to give something else.",
-    "promoted_behavior" : "Men (Husbands) encourage and urge women to exclusively breastfeed their infants on a regular basis.",
-    "action" : "",
-    "message" : {
-    "English" : "Father, encourage and urge your wives to exclusively breastfeed babies from 0 to 6 months to reduce the risk of obesity and diabetes in adulthood.",
-    "French" : "Papa, encouragez et incitez vos femmes à ne donner que le lait maternel aux bébés de 0 à 6 mois enfin de réduire le risque de l'obésité et du diabète à l'âge adulte.",
-    "Swahili" : "Baba Mpendwa, mhimize mke wako wako kuwapa watoto maziwa ya mama kutoka miezi 0 hadi 6 ili kupunguza hatari ya obésité na ugonjwa wa kisukari katika utu uzima."
-  }
-},
-{
+    "intervention": {
+      "English": "Exclusive breastfeeding up to 6 months.",
+      "French": "Allaitement exclusif jusqu'à 6 mois.",
+      "Swahili": "Unyonyeshaji wa kipekee hadi miezi 6."
+    },
+    "general_audience": "",
+    "target_audience": "Man (husband)",
+    "problem_behavior": "Men (husband) do not encourage women to exclusively breastfeed their infants but rather induce them to give something else.",
+    "promoted_behavior": "Men (Husbands) encourage and urge women to exclusively breastfeed their infants on a regular basis.",
+    "action": "",
+    "message": {
+      "English": "Father, encourage and urge your wives to exclusively breastfeed babies from 0 to 6 months to reduce the risk of obesity and diabetes in adulthood.",
+      "French": "Papa, encouragez et incitez vos femmes à ne donner que le lait maternel aux bébés de 0 à 6 mois enfin de réduire le risque de l'obésité et du diabète à l'âge adulte.",
+      "Swahili": "Baba Mpendwa, mhimize mke wako wako kuwapa watoto maziwa ya mama kutoka miezi 0 hadi 6 ili kupunguza hatari ya obésité na ugonjwa wa kisukari katika utu uzima."
+    }
+  },
+  {
     "id": 70,
-    "intervention": "Exclusive breastfeeding up to 6 months",
-    "general_audience" : "",
-    "target_audience" : "Healthcare providers (Clinical and Community)",
-    "problem_behavior" : "Healthcare providers do not encourage women to exclusively breastfeed infants on a regular basis, and encourage them to engage in other practices",
-    "promoted_behavior" : "Healthcare providers encourage and counsel women to exclusively breastfeed their infants on a regular basis",
-    "action" : "",
-    "message" : {
-    "English" : "Healthcare providers, encouraging and urging women to breastfeed babies on a regular basis, 10 to 12 times a day and night and on demand by the baby is your responsibility for the healthy growth of the baby and the well-being of the mother.",
-    "French" : "Prestataires, encouragez et incitez les femmes à allaiter régulièrement les bébés, 10 à 12 fois le jour et la nuit et sur demande du bébé est de votre responsabilité pour la bonne croissance du bébé et le bien-être de la maman.",
-    "Swahili" : "Watoa huduma wapendwa, wahimize wanawake kunyonyesha watoto mara kwa mara, mara 10 hadi 12 mchana na usiku na kwa ombi la mtoto mukiwajulisha kwamba ni kazi yao kwa ukuaji mzuri wa mtoto na ustawi wa mama."
-  }
-},
-{
+    "intervention": {
+      "English": "Exclusive breastfeeding up to 6 months.",
+      "French": "Allaitement exclusif jusqu'à 6 mois.",
+      "Swahili": "Unyonyeshaji wa kipekee hadi miezi 6."
+    },
+    "general_audience": "",
+    "target_audience": "Healthcare providers (Clinical and Community)",
+    "problem_behavior": "Healthcare providers do not encourage women to exclusively breastfeed infants on a regular basis, and encourage them to engage in other practices",
+    "promoted_behavior": "Healthcare providers encourage and counsel women to exclusively breastfeed their infants on a regular basis",
+    "action": "",
+    "message": {
+      "English": "Healthcare providers, encouraging and urging women to breastfeed babies on a regular basis, 10 to 12 times a day and night and on demand by the baby is your responsibility for the healthy growth of the baby and the well-being of the mother.",
+      "French": "Prestataires, encouragez et incitez les femmes à allaiter régulièrement les bébés, 10 à 12 fois le jour et la nuit et sur demande du bébé est de votre responsabilité pour la bonne croissance du bébé et le bien-être de la maman.",
+      "Swahili": "Watoa huduma wapendwa, wahimize wanawake kunyonyesha watoto mara kwa mara, mara 10 hadi 12 mchana na usiku na kwa ombi la mtoto mukiwajulisha kwamba ni kazi yao kwa ukuaji mzuri wa mtoto na ustawi wa mama."
+    }
+  },
+  {
     "id": 71,
-    "intervention": "Exclusive breastfeeding up to 6 months",
-    "general_audience" : "",
-    "target_audience" : "Community members",
-    "problem_behavior" : "They do not encourage women to use only breast milk to feed their babies",
-    "promoted_behavior" : "They encourage women to use only breast milk to feed their babies.",
-    "action" : "",
-    "message" : {
-    "English" : "Community members, encourage breastfeeding women to exclusively breastfeed their babies with breast milk for the first 6 months and to wait until the babies are tired to ensure their healthy growth.",
-    "French" : "Membres de la communauté, incitez les femmes allaitantes à allaiter exclusivement leurs bébés avec le lait maternel les 6 premiers et à prendre du temps jusqu’à ce que les bébés soient fatigués pour garantir leur bonne croissance.",
-    "Swahili" : "Wanajamii wapendwa, wahimize wanawake wanaonyonyesha kuwanyonyesha watoto wao maziwa ya mama pekee kwa miezi 6 ya kwanza na kuchukua muda hadi watoto wanapochoka ili kuhakikisha ukuaji wao sahihi."
-  }
-},
-{
+    "intervention": {
+      "English": "Exclusive breastfeeding up to 6 months.",
+      "French": "Allaitement exclusif jusqu'à 6 mois.",
+      "Swahili": "Unyonyeshaji wa kipekee hadi miezi 6."
+    },
+    "general_audience": "",
+    "target_audience": "Community members",
+    "problem_behavior": "They do not encourage women to use only breast milk to feed their babies",
+    "promoted_behavior": "They encourage women to use only breast milk to feed their babies.",
+    "action": "",
+    "message": {
+      "English": "Community members, encourage breastfeeding women to exclusively breastfeed their babies with breast milk for the first 6 months and to wait until the babies are tired to ensure their healthy growth.",
+      "French": "Membres de la communauté, incitez les femmes allaitantes à allaiter exclusivement leurs bébés avec le lait maternel les 6 premiers et à prendre du temps jusqu’à ce que les bébés soient fatigués pour garantir leur bonne croissance.",
+      "Swahili": "Wanajamii wapendwa, wahimize wanawake wanaonyonyesha kuwanyonyesha watoto wao maziwa ya mama pekee kwa miezi 6 ya kwanza na kuchukua muda hadi watoto wanapochoka ili kuhakikisha ukuaji wao sahihi."
+    }
+  },
+  {
     "id": 72,
-    "intervention": "Breastfeeding continues until the child is 2 years old or older",
-    "general_audience" : "",
-    "target_audience" : "Breastfeeding women",
-    "problem_behavior" : "Women do not breastfeed children up to 2 years and beyond.",
-    "promoted_behavior" : "Women breastfeed children up to 2 years and beyond",
-    "action" : "",
-    "message" : {
-    "English" : "Mothers, breastfeed your children until they are 2 years old or older to promote their healthy growth",
-    "French" : "Mamans, allaitez vos enfants jusqu'à 2 ans et plus pour favoriser leur bonne croissance",
-    "Swahili" : "Wamama wapendwa, wanyonyeshe watoto wenu hadi miaka 2 na zaidi ili kuhakikisha ukuaji wao mzuri."
-  }
-},
-{
+    "intervention": {
+      "English": "Breastfeeding continues until the child is 2 years old or older.",
+      "French": "L’allaitement continue jusqu'à 2 ans et plus.",
+      "Swahili": "Unyonyeshaji unaendelea hadi miaka 2 na zaidi."
+    },
+    "general_audience": "",
+    "target_audience": "Breastfeeding women",
+    "problem_behavior": "Women do not breastfeed children up to 2 years and beyond.",
+    "promoted_behavior": "Women breastfeed children up to 2 years and beyond",
+    "action": "",
+    "message": {
+      "English": "Mothers, breastfeed your children until they are 2 years old or older to promote their healthy growth",
+      "French": "Mamans, allaitez vos enfants jusqu'à 2 ans et plus pour favoriser leur bonne croissance",
+      "Swahili": "Wamama wapendwa, wanyonyeshe watoto wenu hadi miaka 2 na zaidi ili kuhakikisha ukuaji wao mzuri."
+    }
+  },
+  {
     "id": 73,
-    "intervention": "Breastfeeding continues until the child is 2 years old or older",
-    "general_audience" : "",
-    "target_audience" : "Man (husband)",
-    "problem_behavior" : "Men do not encourage their wives to breastfeed children up to 2 years and beyond",
-    "promoted_behavior" : "Men encourage their wives to breastfeed children up to 2 years and beyond",
-    "action" : "",
-    "message" : {
-    "English" : "Fathers, encourage your wives to breastfeed children until they are 2 years and older for their healthy growth.",
-    "French" : "Papas, encouragez vos femmes à allaiter les enfants jusqu'à 2 ans et plus pour leur bonne croissance.",
-    "Swahili" : "Wababa wapendwa, wahimize wake zenu kuwanyonyesha watoto hadi miaka 2 na zaidi kwa ukuaji wao mzuri."
-  }
-},
-{
+    "intervention": {
+      "English": "Breastfeeding continues until the child is 2 years old or older.",
+      "French": "L’allaitement continue jusqu'à 2 ans et plus.",
+      "Swahili": "Unyonyeshaji unaendelea hadi miaka 2 na zaidi."
+    },
+    "general_audience": "",
+    "target_audience": "Man (husband)",
+    "problem_behavior": "Men do not encourage their wives to breastfeed children up to 2 years and beyond",
+    "promoted_behavior": "Men encourage their wives to breastfeed children up to 2 years and beyond",
+    "action": "",
+    "message": {
+      "English": "Fathers, encourage your wives to breastfeed children until they are 2 years and older for their healthy growth.",
+      "French": "Papas, encouragez vos femmes à allaiter les enfants jusqu'à 2 ans et plus pour leur bonne croissance.",
+      "Swahili": "Wababa wapendwa, wahimize wake zenu kuwanyonyesha watoto hadi miaka 2 na zaidi kwa ukuaji wao mzuri."
+    }
+  },
+  {
     "id": 74,
-    "intervention": "Breastfeeding continues until the child is 2 years old or older",
-    "general_audience" : "",
-    "target_audience" : "Health providers",
-    "problem_behavior" : "Healthcare providers do not encourage women to breastfeed children until they are 2 years old or older.",
-    "promoted_behavior" : "Healthcare providers encourage women to breastfeed children until they are 2 years old or older.",
-    "action" : "",
-    "message" : {
-    "English" : "Healthcare providers, encourage women to breastfeed their babies until they are 2 years old and older for healthy growth.",
-    "French" : "Prestataires, encouragez les femmes à allaiter leurs bébés jusqu'à l'âge de 2 ans et plus une bonne croissance.",
-    "Swahili" : "Watoa huduma wapendwa, wahimize wanawake kunyonyesha watoto wao hadi umri wa miaka 2 na zaidi kwa ukuaji mzuri."
-  }
-},
-{
+    "intervention": {
+      "English": "Breastfeeding continues until the child is 2 years old or older.",
+      "French": "L’allaitement continue jusqu'à 2 ans et plus.",
+      "Swahili": "Unyonyeshaji unaendelea hadi miaka 2 na zaidi."
+    },
+    "general_audience": "",
+    "target_audience": "Health providers",
+    "problem_behavior": "Healthcare providers do not encourage women to breastfeed children until they are 2 years old or older.",
+    "promoted_behavior": "Healthcare providers encourage women to breastfeed children until they are 2 years old or older.",
+    "action": "",
+    "message": {
+      "English": "Healthcare providers, encourage women to breastfeed their babies until they are 2 years old and older for healthy growth.",
+      "French": "Prestataires, encouragez les femmes à allaiter leurs bébés jusqu'à l'âge de 2 ans et plus une bonne croissance.",
+      "Swahili": "Watoa huduma wapendwa, wahimize wanawake kunyonyesha watoto wao hadi umri wa miaka 2 na zaidi kwa ukuaji mzuri."
+    }
+  },
+  {
     "id": 75,
-    "intervention": "Breastfeeding continues until the child is 2 years old or older",
-    "general_audience" : "",
-    "target_audience" : "Community members",
-    "problem_behavior" : "Community members discourage women from continuous breastfeeding practices for 2-year-olds.",
-    "promoted_behavior" : "Community members encourage women in continuous breastfeeding practices for 2-year-olds.",
-    "action" : "",
-    "message" : {
-    "English" : "Community members, encourage women to breastfeed their children until they are 2 years and older to prevent illness and ensure their healthy growth.",
-    "French" : "Membres de la communauté, encouragez les femmes à allaiter les enfants jusqu'à 2 ans et plus pour prévenir des maladies et assurer leur bonne croissance.",
-    "Swahili" : "Wanajamii wapendwa, wahimize wanawake kuwanyonyesha watoto hadi miaka 2 na zaidi ili kuzuia magonjwa na kuhakikisha ukuaji wao sahihi."
-  }
-},
-{
+    "intervention": {
+      "English": "Breastfeeding continues until the child is 2 years old or older.",
+      "French": "L’allaitement continue jusqu'à 2 ans et plus.",
+      "Swahili": "Unyonyeshaji unaendelea hadi miaka 2 na zaidi."
+    },
+    "general_audience": "",
+    "target_audience": "Community members",
+    "problem_behavior": "Community members discourage women from continuous breastfeeding practices for 2-year-olds.",
+    "promoted_behavior": "Community members encourage women in continuous breastfeeding practices for 2-year-olds.",
+    "action": "",
+    "message": {
+      "English": "Community members, encourage women to breastfeed their children until they are 2 years and older to prevent illness and ensure their healthy growth.",
+      "French": "Membres de la communauté, encouragez les femmes à allaiter les enfants jusqu'à 2 ans et plus pour prévenir des maladies et assurer leur bonne croissance.",
+      "Swahili": "Wanajamii wapendwa, wahimize wanawake kuwanyonyesha watoto hadi miaka 2 na zaidi ili kuzuia magonjwa na kuhakikisha ukuaji wao sahihi."
+    }
+  },
+  {
     "id": 76,
-    "intervention": "Breastfeeding continues until the child is 2 years old or older",
-    "general_audience" : "",
-    "target_audience" : "Breastfeeding women",
-    "problem_behavior" : "Breastfeeding women do not respect the number and variety of meals for children from 6 months of age.",
-    "promoted_behavior" : "Breastfeeding women respect the number and variety of meals for children from 6 months of age.",
-    "action" : "",
-    "message" : {
-    "English" : "Mother, a healthy child is the pride of his family, give the baby from 6 months a varied diet such as: meat, fish, egg, milk, papaya, mango, pineapple, cauliflower, spinach, soybeans, bean, peanut, etc. ;3 times a day and two snacks for the healthy growth of the child.",
-    "French" : "Maman, un enfant en bonne santé fait la fierté de sa famille, donnez au bébé à partir de 6 mois l'alimentation variée tels que: viande, poisson, œuf, lait, papaye, mangue, ananas, chou-fleur, épinard, soja, haricot, arachide, etc.; 3 fois par jour et deux collations pour la bonne croissance de l'enfant.",
-    "Swahili" : "Mama mpendwa, mtoto mwenye afya ni furaha ya familia yake, mpe mtoto kutoka miezi 6 chakula tofauti kama vile : nyama, samaki, mayai, maziwa, papaya, embe, ananas, chou-fleur, épinards, soya, maharage, karanga, etc; Mara 3 kwa siku na vitafunio viwili kwa ukuaji sahihi wa mtoto."
-  }
-},
-{
+    "intervention": {
+      "English": "Breastfeeding continues until the child is 2 years old or older.",
+      "French": "L’allaitement continue jusqu'à 2 ans et plus.",
+      "Swahili": "Unyonyeshaji unaendelea hadi miaka 2 na zaidi."
+    },
+    "general_audience": "",
+    "target_audience": "Breastfeeding women",
+    "problem_behavior": "Breastfeeding women do not respect the number and variety of meals for children from 6 months of age.",
+    "promoted_behavior": "Breastfeeding women respect the number and variety of meals for children from 6 months of age.",
+    "action": "",
+    "message": {
+      "English": "Mother, a healthy child is the pride of his family, give the baby from 6 months a varied diet such as: meat, fish, egg, milk, papaya, mango, pineapple, cauliflower, spinach, soybeans, bean, peanut, etc. ;3 times a day and two snacks for the healthy growth of the child.",
+      "French": "Maman, un enfant en bonne santé fait la fierté de sa famille, donnez au bébé à partir de 6 mois l'alimentation variée tels que: viande, poisson, œuf, lait, papaye, mangue, ananas, chou-fleur, épinard, soja, haricot, arachide, etc.; 3 fois par jour et deux collations pour la bonne croissance de l'enfant.",
+      "Swahili": "Mama mpendwa, mtoto mwenye afya ni furaha ya familia yake, mpe mtoto kutoka miezi 6 chakula tofauti kama vile : nyama, samaki, mayai, maziwa, papaya, embe, ananas, chou-fleur, épinards, soya, maharage, karanga, etc; Mara 3 kwa siku na vitafunio viwili kwa ukuaji sahihi wa mtoto."
+    }
+  },
+  {
     "id": 77,
-    "intervention": "Breastfeeding continues until the child is 2 years old or older",
-    "general_audience" : "",
-    "target_audience" : "Breastfeeding women",
-    "problem_behavior" : "Breastfeeding women do not respect the number and variety of meals for children from 6 months of age.",
-    "promoted_behavior" : "Breastfeeding women respect the number and variety of meals for children from 6 months of age.",
-    "action" : "",
-    "message" : {
-    "English" : "Mother, if your baby is sick from 6 months of age, continue to breastfeed and increase the number of meals until two weeks after the illness to keep him healthy.",
-    "French" : "Maman, en cas de maladie du bébé à partir de 6 mois, continuez à l’allaiter à l’alimenter et augmenter le nombre de ses repas jusqu'à deux semaines après la maladie pour le garder en bonne santé.",
-    "Swahili" : "Mama mpendwa, ikiwa ni ugonjwa wa mtoto kutoka miezi 6, endelea kumnyonyesha kumlisha na kuongeza idadi ya chakula chake hadi wiki mbili baada ya ugonjwa kumweka afya."
-  }
-},
-{
+    "intervention": {
+      "English": "Breastfeeding continues until the child is 2 years old or older.",
+      "French": "L’allaitement continue jusqu'à 2 ans et plus.",
+      "Swahili": "Unyonyeshaji unaendelea hadi miaka 2 na zaidi."
+    },
+    "general_audience": "",
+    "target_audience": "Breastfeeding women",
+    "problem_behavior": "Breastfeeding women do not respect the number and variety of meals for children from 6 months of age.",
+    "promoted_behavior": "Breastfeeding women respect the number and variety of meals for children from 6 months of age.",
+    "action": "",
+    "message": {
+      "English": "Mother, if your baby is sick from 6 months of age, continue to breastfeed and increase the number of meals until two weeks after the illness to keep him healthy.",
+      "French": "Maman, en cas de maladie du bébé à partir de 6 mois, continuez à l’allaiter à l’alimenter et augmenter le nombre de ses repas jusqu'à deux semaines après la maladie pour le garder en bonne santé.",
+      "Swahili": "Mama mpendwa, ikiwa ni ugonjwa wa mtoto kutoka miezi 6, endelea kumnyonyesha kumlisha na kuongeza idadi ya chakula chake hadi wiki mbili baada ya ugonjwa kumweka afya."
+    }
+  },
+  {
     "id": 78,
-    "intervention": "Breastfeeding continues until the child is 2 years old or older",
-    "general_audience" : "",
-    "target_audience" : "Man (husband) and community members",
-    "problem_behavior" : "Men and community members do not encourage or support women to respect the number and variety of meals for children from 6 months of age.",
-    "promoted_behavior" : "Men encourage and support their wives to respect the number and variety of children's meals from 6 months of age.",
-    "action" : "",
-    "message" : {
-    "English" : "Father and community members, the health of your baby is very important, encourage and support your wives to give the baby from 6 months a variety of foods such as: meat, fish, egg, milk, papaya, mango, pineapple, cauliflower, spinach, soybeans, bean, peanut, etc,; 3 times a day and two snacks for his healthy growth.",
-    "French" : "Papa et membres de la communauté, la santé de votre bébé   est primordiale, encouragez et soutenez vos femmes à donner au bébé à partir de 6 mois les aliments variés tels que: viande, poisson, œuf, lait, papaye, mangue, ananas, chou- fleur, épinard, soja, haricot, arachide, etc.; 3 fois par jour et deux collations pour sa bonne croissance.",
-    "Swahili" : "Baba Mpendwa na wanajamii, afya ya mtoto wako ni muhimu, himiza na kumsaidia mwanamke kumpa mtoto kutoka miezi 6 chakula mbalimbali kama vile: nyama, samaki, mayai, maziwa, papaya, embe, ananas, chou-fleur, épinard, soya, maharage, karanga, etc; mara 3 kwa siku na vitafunio viwili kwa ukuaji wake mzuri."
-  }
-},
-{
+    "intervention": {
+      "English": "Breastfeeding continues until the child is 2 years old or older.",
+      "French": "L’allaitement continue jusqu'à 2 ans et plus.",
+      "Swahili": "Unyonyeshaji unaendelea hadi miaka 2 na zaidi."
+    },
+    "general_audience": "",
+    "target_audience": "Man (husband) and community members",
+    "problem_behavior": "Men and community members do not encourage or support women to respect the number and variety of meals for children from 6 months of age.",
+    "promoted_behavior": "Men encourage and support their wives to respect the number and variety of children's meals from 6 months of age.",
+    "action": "",
+    "message": {
+      "English": "Father and community members, the health of your baby is very important, encourage and support your wives to give the baby from 6 months a variety of foods such as: meat, fish, egg, milk, papaya, mango, pineapple, cauliflower, spinach, soybeans, bean, peanut, etc,; 3 times a day and two snacks for his healthy growth.",
+      "French": "Papa et membres de la communauté, la santé de votre bébé   est primordiale, encouragez et soutenez vos femmes à donner au bébé à partir de 6 mois les aliments variés tels que: viande, poisson, œuf, lait, papaye, mangue, ananas, chou- fleur, épinard, soja, haricot, arachide, etc.; 3 fois par jour et deux collations pour sa bonne croissance.",
+      "Swahili": "Baba Mpendwa na wanajamii, afya ya mtoto wako ni muhimu, himiza na kumsaidia mwanamke kumpa mtoto kutoka miezi 6 chakula mbalimbali kama vile: nyama, samaki, mayai, maziwa, papaya, embe, ananas, chou-fleur, épinard, soya, maharage, karanga, etc; mara 3 kwa siku na vitafunio viwili kwa ukuaji wake mzuri."
+    }
+  },
+  {
     "id": 79,
-    "intervention": "Breastfeeding continues until the child is 2 years old or older",
-    "general_audience" : "",
-    "target_audience" : "Healthcare providers",
-    "problem_behavior" : "Healthcare providers do not adequately inform breastfeeding mothers about appropriate complementary feeding practices for babies from 6 months of age.",
-    "promoted_behavior" : "Healthcare providers adequately inform breastfeeding mothers about appropriate complementary feeding practices for babies from 6 months of age.",
-    "action" : "",
-    "message" : {
-    "English" : "Healthcare providers, provide adequate information to women with babies from 6 months onwards on the variety of protein foods of animal origin (meat, fish, egg and milk); of vegetable origin (fruits and vegetables: papaya, mango, pineapple, cauliflower, spinach, etc.); legumes (soybeans, beans, peanuts, etc.) 3 times a day and two snacks for the healthy growth of their babies.",
-    "French" : "Prestataires, donnez les informations suffisantes aux femmes ayant des bébés à partir de 6 mois sur la variété des aliments en protéine d'origine animale (viande, poisson, œuf et lait); d'origine végétale (fruits et légumes: Papaye, mangue, ananas, chou- fleur, épinard, etc.); le légumineuse (soja, haricot, arachide, etc.) 3 fois par jour et deux collations  pour la bonne  croissance de leurs bébés.",
-    "Swahili" : "Watoa huduma wapendwa, wape taarifa za kutosha kwa wanawake wenye watoto kutoka miezi 6 juu ya aina mbalimbali za vyakula yenye protini kutoka kwa wanyama (nyama, samaki, mayai na maziwa); mboga (matunda na mboga: papaya, embe, ananas, chou-fleur, épinard, etc.);  (soya, maharage, karanga, etc.) mara 3 kwa siku na vitafunio viwili kwa ukuaji sahihi wa watoto wao."
-  }
-},
-{
+    "intervention": {
+      "English": "Breastfeeding continues until the child is 2 years old or older.",
+      "French": "L’allaitement continue jusqu'à 2 ans et plus.",
+      "Swahili": "Unyonyeshaji unaendelea hadi miaka 2 na zaidi."
+    },
+    "general_audience": "",
+    "target_audience": "Healthcare providers",
+    "problem_behavior": "Healthcare providers do not adequately inform breastfeeding mothers about appropriate complementary feeding practices for babies from 6 months of age.",
+    "promoted_behavior": "Healthcare providers adequately inform breastfeeding mothers about appropriate complementary feeding practices for babies from 6 months of age.",
+    "action": "",
+    "message": {
+      "English": "Healthcare providers, provide adequate information to women with babies from 6 months onwards on the variety of protein foods of animal origin (meat, fish, egg and milk); of vegetable origin (fruits and vegetables: papaya, mango, pineapple, cauliflower, spinach, etc.); legumes (soybeans, beans, peanuts, etc.) 3 times a day and two snacks for the healthy growth of their babies.",
+      "French": "Prestataires, donnez les informations suffisantes aux femmes ayant des bébés à partir de 6 mois sur la variété des aliments en protéine d'origine animale (viande, poisson, œuf et lait); d'origine végétale (fruits et légumes: Papaye, mangue, ananas, chou- fleur, épinard, etc.); le légumineuse (soja, haricot, arachide, etc.) 3 fois par jour et deux collations  pour la bonne  croissance de leurs bébés.",
+      "Swahili": "Watoa huduma wapendwa, wape taarifa za kutosha kwa wanawake wenye watoto kutoka miezi 6 juu ya aina mbalimbali za vyakula yenye protini kutoka kwa wanyama (nyama, samaki, mayai na maziwa); mboga (matunda na mboga: papaya, embe, ananas, chou-fleur, épinard, etc.);  (soya, maharage, karanga, etc.) mara 3 kwa siku na vitafunio viwili kwa ukuaji sahihi wa watoto wao."
+    }
+  },
+  {
     "id": 80,
-    "intervention": "Breastfeeding continues until the child is 2 years old or older",
-    "general_audience" : "",
-    "target_audience" : "Pregnant women",
-    "problem_behavior" : "Pregnant women do not consume sufficient and varied foods.",
-    "promoted_behavior" : "Pregnant women consume sufficient and varied foods.",
-    "action" : "",
-    "message" : {
-    "English" : "Pregnant women, eat a variety of foods such as meat, fish, beans, soybeans, peanuts, cowpeas, pineapples, bananas, mangoes, etc. and eat two extra meals to maintain your health and the health of your unborn child.",
-    "French" : "Femmes enceintes, consommez les aliments variés suffisants tels que la viande, le poisson, le haricot, le soja, l’arachide, niébé, ananas, bananes, mangue, etc. et prenez deux repas supplémentaires pour garantir votre santé et celle du futur bébé",
-    "Swahili" : "Wapendwa wanawake wajawazito, unahitaji kula vyakula mbalimbali kama vile nyama, samaki, maharagwe, soya, karanga, ananas, banana, embe, etc. kula mara mbili zaidi ili kuhakikisha afya yako na ya mtoto wako."
-  }
-},
-{
+    "intervention": {
+      "English": "Breastfeeding continues until the child is 2 years old or older.",
+      "French": "L’allaitement continue jusqu'à 2 ans et plus.",
+      "Swahili": "Unyonyeshaji unaendelea hadi miaka 2 na zaidi."
+    },
+    "general_audience": "",
+    "target_audience": { 
+      "English": "Pregnant women",
+      "French": "Femmes enceinte",
+      "Swahili": "Mwanamke mjamzito"
+    },
+    "problem_behavior": "Pregnant women do not consume sufficient and varied foods.",
+    "promoted_behavior": "Pregnant women consume sufficient and varied foods.",
+    "action": "",
+    "message": {
+      "English": "Pregnant women, eat a variety of foods such as meat, fish, beans, soybeans, peanuts, cowpeas, pineapples, bananas, mangoes, etc. and eat two extra meals to maintain your health and the health of your unborn child.",
+      "French": "Femmes enceintes, consommez les aliments variés suffisants tels que la viande, le poisson, le haricot, le soja, l’arachide, niébé, ananas, bananes, mangue, etc. et prenez deux repas supplémentaires pour garantir votre santé et celle du futur bébé",
+      "Swahili": "Wapendwa wanawake wajawazito, unahitaji kula vyakula mbalimbali kama vile nyama, samaki, maharagwe, soya, karanga, ananas, banana, embe, etc. kula mara mbili zaidi ili kuhakikisha afya yako na ya mtoto wako."
+    }
+  },
+  {
     "id": 81,
-    "intervention": "Breastfeeding continues until the child is 2 years old or older",
-    "general_audience" : "",
-    "target_audience" : "Breastfeeding women",
-    "problem_behavior" : "Some breastfeeding women do not consume a sufficient variety of foods.",
-    "promoted_behavior" : "All women consume a sufficient variety of foods.",
-    "action" : "",
-    "message" : {
-    "English" : "Breastfeeding woman, eat a variety of foods of animal origin (meat, eggs, fish) and vegetable origin (beans, soybeans, peanuts, cowpeas, pineapples, bananas, mangos, etc.) and eat two extra meals to maintain your health and that of your baby.",
-    "French" : "Femme allaitante, consommez des aliments variés et suffisants d’origine animale (viande, œufs poisson), d’origine végétale (haricot, soja, arachide, niébé, ananas, bananes, mangue, etc.) et prenez deux repas supplémentaires pour garantir votre santé et celle du bébé.",
-    "Swahili" : "Wapendwa wanawake wanaonyonyesha, unahitaji kula vyakula mbalimbali kama vile nyama, samaki, maharagwe, soya, karanga, ananas, banana, embe, etc. kula mara mbili zaidi ili kuhakikisha afya yako na ya mtoto wako."
-  }
-},
-{
+    "intervention": {
+      "English": "Breastfeeding continues until the child is 2 years old or older.",
+      "French": "L’allaitement continue jusqu'à 2 ans et plus.",
+      "Swahili": "Unyonyeshaji unaendelea hadi miaka 2 na zaidi."
+    },
+    "general_audience": "",
+    "target_audience": "Breastfeeding women",
+    "problem_behavior": "Some breastfeeding women do not consume a sufficient variety of foods.",
+    "promoted_behavior": "All women consume a sufficient variety of foods.",
+    "action": "",
+    "message": {
+      "English": "Breastfeeding woman, eat a variety of foods of animal origin (meat, eggs, fish) and vegetable origin (beans, soybeans, peanuts, cowpeas, pineapples, bananas, mangos, etc.) and eat two extra meals to maintain your health and that of your baby.",
+      "French": "Femme allaitante, consommez des aliments variés et suffisants d’origine animale (viande, œufs poisson), d’origine végétale (haricot, soja, arachide, niébé, ananas, bananes, mangue, etc.) et prenez deux repas supplémentaires pour garantir votre santé et celle du bébé.",
+      "Swahili": "Wapendwa wanawake wanaonyonyesha, unahitaji kula vyakula mbalimbali kama vile nyama, samaki, maharagwe, soya, karanga, ananas, banana, embe, etc. kula mara mbili zaidi ili kuhakikisha afya yako na ya mtoto wako."
+    }
+  },
+  {
     "id": 82,
-    "intervention": "Breastfeeding continues until the child is 2 years old or older",
-    "general_audience" : "",
-    "target_audience" : "Man (husband) and community members",
-    "problem_behavior" : "Husbands do not support their wives to consume sufficient variety of foods.",
-    "promoted_behavior" : "Husbands support their wives to consume sufficient variety of foods.",
-    "action" : "",
-    "message" : {
-    "English" : "Husband and community members, support pregnant and lactating women to consume a variety of sufficient animal and vegetable foods such as meat, fish, beans, soybeans, peanuts, cowpeas, pineapples, bananas, mangoes, etc. and eat two extra meals to ensure their health and that of the baby.",
-    "French" : "Mari et les membres de la communauté, soutenez les femmes enceintes ou allaitantes à consommer les aliments variés suffisants d’origine animale et végétale comme la  viande, le poisson, le haricot, le soja, l’arachide, le niébé, l’ananas, les bananes, la mangue, etc. et prenez deux repas supplémentaires pour garantir votre santé et celle du  bébé.",
-    "Swahili" : "Mume mpendwa na wanajamii, muunge mkono wanawake wajawazito au wanaonyonyesha kula vyakula mbalimbali vya kutosha kutoka kwa wanyama na mboga kama vile nyama, samaki, maharagwe, soya, karanga, ananas, banana, embe, etc. na kula mara mbili zaidi ili kuhakikisha afya yake na ya mtoto wako."
-  }
-},
-{
+    "intervention": {
+      "English": "Breastfeeding continues until the child is 2 years old or older.",
+      "French": "L’allaitement continue jusqu'à 2 ans et plus.",
+      "Swahili": "Unyonyeshaji unaendelea hadi miaka 2 na zaidi."
+    },
+    "general_audience": "",
+    "target_audience": "Man (husband) and community members",
+    "problem_behavior": "Husbands do not support their wives to consume sufficient variety of foods.",
+    "promoted_behavior": "Husbands support their wives to consume sufficient variety of foods.",
+    "action": "",
+    "message": {
+      "English": "Husband and community members, support pregnant and lactating women to consume a variety of sufficient animal and vegetable foods such as meat, fish, beans, soybeans, peanuts, cowpeas, pineapples, bananas, mangoes, etc. and eat two extra meals to ensure their health and that of the baby.",
+      "French": "Mari et les membres de la communauté, soutenez les femmes enceintes ou allaitantes à consommer les aliments variés suffisants d’origine animale et végétale comme la  viande, le poisson, le haricot, le soja, l’arachide, le niébé, l’ananas, les bananes, la mangue, etc. et prenez deux repas supplémentaires pour garantir votre santé et celle du  bébé.",
+      "Swahili": "Mume mpendwa na wanajamii, muunge mkono wanawake wajawazito au wanaonyonyesha kula vyakula mbalimbali vya kutosha kutoka kwa wanyama na mboga kama vile nyama, samaki, maharagwe, soya, karanga, ananas, banana, embe, etc. na kula mara mbili zaidi ili kuhakikisha afya yake na ya mtoto wako."
+    }
+  },
+  {
     "id": 83,
-    "intervention": "Breastfeeding continues until the child is 2 years old or older",
-    "general_audience" : "",
-    "target_audience" : "Healthcare providers",
-    "problem_behavior" : "Healthcare providers do not adequately inform women about eating a variety of foods.",
-    "promoted_behavior" : "Healthcare providers adequately inform women about eating a variety of foods.",
-    "action" : "",
-    "message" : {
-    "English" : "Healthcare providers, make sure to inform and discuss with pregnant and breastfeeding women about the consumption of various foods of animal origin (meat, fish), vegetable origin (fruits: bananas, pineapples, mangoes, etc.), (vegetables) spinach, cauliflower and legumes (soybeans, beans, peanuts) and the inclusion of an extra meal for the pregnant woman and two for the breastfeeding woman in order to maintain their health and that of their babies during the pregnancy and breastfeeding period.",
-    "French" : "Prestataires, informez et discutez suffisamment avec les femmes enceintes et allaitantes sur la consommation des aliments variés d'origine animale (viande, poisson) végétale (les fruits: bananes, ananas, mangues, etc.), (légumes) les épinards, chou-fleur et les légumineuses (soja, haricot, arachide) et l'ajout supplémentaire d'un repas pour la femme enceinte et deux pour la femme allaitante pour garantir leur santé et de leur bébés  pendant la grossesse et l'allaitement.",
-    "Swahili" : "Watoa huduma wapendwa, wajulishe na ongeya vya kutosha na wanawake wajawazito na wanaonyonyesha kuhusu matumizi ya vyakula mbalimbali kutoka kwa wanyama (nyama, samaki), matunda (banana, ananas, maembe, etc.), mboga (épinards, chou-fleur; soya, maharagwe, karanga) na kuongeza ziada ya chakula moja kwa mwanamke mjamzito na mbili kwa mwanamke anayenyonyesha ili kuhakikisha afya zao na watoto wao wakati wa ujauzito na unyonyeshaji."
-  }
-},
-{
+    "intervention": {
+      "English": "Breastfeeding continues until the child is 2 years old or older.",
+      "French": "L’allaitement continue jusqu'à 2 ans et plus.",
+      "Swahili": "Unyonyeshaji unaendelea hadi miaka 2 na zaidi."
+    },
+    "general_audience": "",
+    "target_audience": "Healthcare providers",
+    "problem_behavior": "Healthcare providers do not adequately inform women about eating a variety of foods.",
+    "promoted_behavior": "Healthcare providers adequately inform women about eating a variety of foods.",
+    "action": "",
+    "message": {
+      "English": "Healthcare providers, make sure to inform and discuss with pregnant and breastfeeding women about the consumption of various foods of animal origin (meat, fish), vegetable origin (fruits: bananas, pineapples, mangoes, etc.), (vegetables) spinach, cauliflower and legumes (soybeans, beans, peanuts) and the inclusion of an extra meal for the pregnant woman and two for the breastfeeding woman in order to maintain their health and that of their babies during the pregnancy and breastfeeding period.",
+      "French": "Prestataires, informez et discutez suffisamment avec les femmes enceintes et allaitantes sur la consommation des aliments variés d'origine animale (viande, poisson) végétale (les fruits: bananes, ananas, mangues, etc.), (légumes) les épinards, chou-fleur et les légumineuses (soja, haricot, arachide) et l'ajout supplémentaire d'un repas pour la femme enceinte et deux pour la femme allaitante pour garantir leur santé et de leur bébés  pendant la grossesse et l'allaitement.",
+      "Swahili": "Watoa huduma wapendwa, wajulishe na ongeya vya kutosha na wanawake wajawazito na wanaonyonyesha kuhusu matumizi ya vyakula mbalimbali kutoka kwa wanyama (nyama, samaki), matunda (banana, ananas, maembe, etc.), mboga (épinards, chou-fleur; soya, maharagwe, karanga) na kuongeza ziada ya chakula moja kwa mwanamke mjamzito na mbili kwa mwanamke anayenyonyesha ili kuhakikisha afya zao na watoto wao wakati wa ujauzito na unyonyeshaji."
+    }
+  },
+  {
     "id": 84,
-    "intervention": "Vaccination",
-    "general_audience" : "",
-    "target_audience" : "Breastfeeding women",
-    "problem_behavior" : "Breastfeeding women do not comply with the vaccination schedule for infants aged 0 to 9 months.",
-    "promoted_behavior" : "Women comply with the infant vaccination schedule.",
-    "action" : "",
-    "message" : {
-    "English" : "Breastfeeding woman, we should comply with the 5 free vaccination appointments to ensure the good health of our children from 0 to 9 months.",
-    "French" : "Femme allaitante, respectons les 5 rendez-vous de vaccination gratuite pour garantir la bonne santé de nos enfants de 0 à 9 mois.",
-    "Swahili" : "Mwanamke mpendwa anayenyonyesha, hebu tuheshimu ziara 5 za chanjo za bure ili kuhakikisha afya nzuri ya watoto wetu kutoka miezi 0 hadi 9."
-  }
-},
-{
+    "intervention": {
+      "English": "Vaccination",
+      "French": "Vaccination",
+      "Swahili": "Chanjo"
+    },
+    "general_audience": "",
+    "target_audience": "Breastfeeding women",
+    "problem_behavior": "Breastfeeding women do not comply with the vaccination schedule for infants aged 0 to 9 months.",
+    "promoted_behavior": "Women comply with the infant vaccination schedule.",
+    "action": "",
+    "message": {
+      "English": "Breastfeeding woman, we should comply with the 5 free vaccination appointments to ensure the good health of our children from 0 to 9 months.",
+      "French": "Femme allaitante, respectons les 5 rendez-vous de vaccination gratuite pour garantir la bonne santé de nos enfants de 0 à 9 mois.",
+      "Swahili": "Mwanamke mpendwa anayenyonyesha, hebu tuheshimu ziara 5 za chanjo za bure ili kuhakikisha afya nzuri ya watoto wetu kutoka miezi 0 hadi 9."
+    }
+  },
+  {
     "id": 85,
-    "intervention": "Vaccination",
-    "general_audience" : "",
-    "target_audience" : "Breastfeeding women",
-    "problem_behavior" : "Breastfeeding women do not comply with the vaccination schedule for infants aged 0 to 9 months.",
-    "promoted_behavior" : "Women comply with the infant vaccination schedule.",
-    "action" : "",
-    "message" : {
-    "English" : "Mom, have your child vaccinated 5 times before his first birthday to protect him from vaccine-preventable diseases.",
-    "French" : "Maman, faites vacciner 5 fois votre enfant avant son premier anniversaire pour le protéger les maladies évitables par la vaccination.",
-    "Swahili" : "Mama mpendwa, pata chanjo ya mtoto wako mara 5 kabla ya siku yao ya kwanza ya kuzaliwa (1er anniversaire) kuwalinda na magonjwa yanayozuilika na chanjo."
-  }
-},
-{
+     "intervention": {
+      "English": "Vaccination",
+      "French": "Vaccination",
+      "Swahili": "Chanjo"
+    },
+    "general_audience": "",
+    "target_audience": "Breastfeeding women",
+    "problem_behavior": "Breastfeeding women do not comply with the vaccination schedule for infants aged 0 to 9 months.",
+    "promoted_behavior": "Women comply with the infant vaccination schedule.",
+    "action": "",
+    "message": {
+      "English": "Mom, have your child vaccinated 5 times before his first birthday to protect him from vaccine-preventable diseases.",
+      "French": "Maman, faites vacciner 5 fois votre enfant avant son premier anniversaire pour le protéger les maladies évitables par la vaccination.",
+      "Swahili": "Mama mpendwa, pata chanjo ya mtoto wako mara 5 kabla ya siku yao ya kwanza ya kuzaliwa (1er anniversaire) kuwalinda na magonjwa yanayozuilika na chanjo."
+    }
+  },
+  {
     "id": 86,
-    "intervention": "Vaccination",
-    "general_audience" : "",
-    "target_audience" : "Man (husband)",
-    "problem_behavior" : "Husbands do not encourage their wives to comply with the vaccination schedule for infants aged 0 to 9 months.",
-    "promoted_behavior" : "Husbands assist and encourage their wives to comply with the vaccination schedule for infants aged 0 to 9 months.",
-    "action" : "",
-    "message" : {
-    "English" : "Husband, healthy children make parents happy, encourage and urge your wives to comply with the routine monthly vaccination schedule for infants aged 0 to 9 months to ensure their health.",
-    "French" : "Mari, un enfant en bonne santé fait le bonheur des parents, encouragez et incitez vos femmes à respecter chaque mois le calendrier de vaccination de routine des nourrissons âgé de 0 à 9 mois pour garantir leur santé.",
-    "Swahili" : "Mume mpendwa, mtoto mwenye afya ni furaha ya wazazi, uunge mkono na kumhimiza mke wako kuheshimu ratiba ya kawaida ya chanjo ya watoto wachanga wenye umri wa miezi 0 hadi 9 kila mwezi ili kuhakikisha afya zao."
-  }
-},
-{
+     "intervention": {
+      "English": "Vaccination",
+      "French": "Vaccination",
+      "Swahili": "Chanjo"
+    },
+    "general_audience": "",
+    "target_audience": "Man (husband)",
+    "problem_behavior": "Husbands do not encourage their wives to comply with the vaccination schedule for infants aged 0 to 9 months.",
+    "promoted_behavior": "Husbands assist and encourage their wives to comply with the vaccination schedule for infants aged 0 to 9 months.",
+    "action": "",
+    "message": {
+      "English": "Husband, healthy children make parents happy, encourage and urge your wives to comply with the routine monthly vaccination schedule for infants aged 0 to 9 months to ensure their health.",
+      "French": "Mari, un enfant en bonne santé fait le bonheur des parents, encouragez et incitez vos femmes à respecter chaque mois le calendrier de vaccination de routine des nourrissons âgé de 0 à 9 mois pour garantir leur santé.",
+      "Swahili": "Mume mpendwa, mtoto mwenye afya ni furaha ya wazazi, uunge mkono na kumhimiza mke wako kuheshimu ratiba ya kawaida ya chanjo ya watoto wachanga wenye umri wa miezi 0 hadi 9 kila mwezi ili kuhakikisha afya zao."
+    }
+  },
+  {
     "id": 87,
-    "intervention": "Vaccination",
-    "general_audience" : "",
-    "target_audience" : "Healthcare providers",
-    "problem_behavior" : "Healthcare providers do not adequately inform breastfeeding women about the importance and value of routine vaccination of infants aged 0-9 months.",
-    "promoted_behavior" : "Healthcare providers adequately inform breastfeeding women about the importance and value of routine vaccination of infants aged 0-9 months.",
-    "action" : "",
-    "message" : {
-    "English" : "Healthcare providers, inform parents about the importance and necessity of routine immunization of their children aged 0 to 9 months at birth, 1.5 months, 2.5 months, 3.5 months and 9 months to protect them against tuberculosis, polio, diphtheria, whooping cough, hepatitis B, meningitis, pneumonia, yellow fever and measles to safeguard their health.",
-    "French" : "Prestataires, informez les parents sur l’importance et nécessité de la vaccination de routine de leurs enfants âgés de 0 à 9 mois à la naissance, à 1 mois et demi, à 2 mois et demi ; à 3 mois et demi et à 9 mois pour les protéger contre la tuberculose, la polio, la diphtérie, la coqueluche, l'hépatite B, la méningite, la pneumonie, la fièvre jaune et la rougeole. Pour garantir la santé des nourrissons.",
-    "Swahili" : "Watoa huduma wapendwa, wajulishe wazazi kuhusu umuhimu wa chanjo ya mara kwa mara ya watoto wao wenye umri wa miezi 0 hadi 9 wakati wa kuzaliwa, mwezi 1 na nusu, miezi 2 na nusu; katika miezi 3 na nusu na miezi 9 ili kuwalinda na magonjwa ya  tuberculose, polio, diphtérie, coqueluche, hépatite B, méningite, pneumonie, homa ya manjano na rougeole ili kuhakikisha afya ya watoto wachanga."
-  }
-},
-{
+     "intervention": {
+      "English": "Vaccination",
+      "French": "Vaccination",
+      "Swahili": "Chanjo"
+    },
+    "general_audience": "",
+    "target_audience": "Healthcare providers",
+    "problem_behavior": "Healthcare providers do not adequately inform breastfeeding women about the importance and value of routine vaccination of infants aged 0-9 months.",
+    "promoted_behavior": "Healthcare providers adequately inform breastfeeding women about the importance and value of routine vaccination of infants aged 0-9 months.",
+    "action": "",
+    "message": {
+      "English": "Healthcare providers, inform parents about the importance and necessity of routine immunization of their children aged 0 to 9 months at birth, 1.5 months, 2.5 months, 3.5 months and 9 months to protect them against tuberculosis, polio, diphtheria, whooping cough, hepatitis B, meningitis, pneumonia, yellow fever and measles to safeguard their health.",
+      "French": "Prestataires, informez les parents sur l’importance et nécessité de la vaccination de routine de leurs enfants âgés de 0 à 9 mois à la naissance, à 1 mois et demi, à 2 mois et demi ; à 3 mois et demi et à 9 mois pour les protéger contre la tuberculose, la polio, la diphtérie, la coqueluche, l'hépatite B, la méningite, la pneumonie, la fièvre jaune et la rougeole. Pour garantir la santé des nourrissons.",
+      "Swahili": "Watoa huduma wapendwa, wajulishe wazazi kuhusu umuhimu wa chanjo ya mara kwa mara ya watoto wao wenye umri wa miezi 0 hadi 9 wakati wa kuzaliwa, mwezi 1 na nusu, miezi 2 na nusu; katika miezi 3 na nusu na miezi 9 ili kuwalinda na magonjwa ya  tuberculose, polio, diphtérie, coqueluche, hépatite B, méningite, pneumonie, homa ya manjano na rougeole ili kuhakikisha afya ya watoto wachanga."
+    }
+  },
+  {
     "id": 88,
-    "intervention": "Vaccination",
-    "general_audience" : "",
-    "target_audience" : "Community members",
-    "problem_behavior" : "Community members do not encourage breastfeeding women to attend routine monthly vaccination of infants aged 0-9 months.",
-    "promoted_behavior" : "Community members encourage breastfeeding women to attend routine monthly vaccination of infants aged 0-9 months ",
-    "action" : "",
-    "message" : {
-    "English" : "Community members, encourage women to attend routine monthly vaccination for infants aged 0-9 months to ensure their healthy growth.",
-    "French" : "Membres de la communauté, encouragez les femmes à amener les nourrissons âgés de 0 à 9 mois à la vaccination de routine chaque mois pour leur garantir une bonne croissance.",
-    "Swahili" : "Wanajamii wapendwa, wahimize wanawake kuleta watoto wachanga wenye umri wa miezi 0 hadi 9 kupata chanjo ya kawaida kila mwezi ili kuhakikisha ukuaji mzuri."
-  }
-},
-{
+     "intervention": {
+      "English": "Vaccination",
+      "French": "Vaccination",
+      "Swahili": "Chanjo"
+    },
+    "general_audience": "",
+    "target_audience": "Community members",
+    "problem_behavior": "Community members do not encourage breastfeeding women to attend routine monthly vaccination of infants aged 0-9 months.",
+    "promoted_behavior": "Community members encourage breastfeeding women to attend routine monthly vaccination of infants aged 0-9 months ",
+    "action": "",
+    "message": {
+      "English": "Community members, encourage women to attend routine monthly vaccination for infants aged 0-9 months to ensure their healthy growth.",
+      "French": "Membres de la communauté, encouragez les femmes à amener les nourrissons âgés de 0 à 9 mois à la vaccination de routine chaque mois pour leur garantir une bonne croissance.",
+      "Swahili": "Wanajamii wapendwa, wahimize wanawake kuleta watoto wachanga wenye umri wa miezi 0 hadi 9 kupata chanjo ya kawaida kila mwezi ili kuhakikisha ukuaji mzuri."
+    }
+  },
+  {
     "id": 89,
-    "intervention": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
-    "general_audience" : "",
-    "target_audience" : "Breastfeeding women",
-    "problem_behavior" : "Breastfeeding women do not comply with CPS appointments for children 0-59 months of age.",
-    "promoted_behavior" : "Breastfeeding women comply with CPS appointments for children 0-59 months of age.",
-    "action" : "",
-    "message" : {
-    "English" : "Mother, take your child to the preschool consultation until the age of 59 months for the proper monitoring of his growth.",
-    "French" : "Maman, emmenez votre enfant à la consultation préscolaire jusqu'à l'âge de 59 mois pour le bon suivi de sa croissance.",
-    "Swahili" : "Mama mpendwa, mpeleke mtoto wako kwenye mashauriano kabla ya shule hadi umri wa miezi 59 kwa ufuatiliaji sahihi wa ukuaji wake."
-  }
-},
-{
+     "intervention": {
+      "English": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
+      "French": "Les autres activités de la Consultation Préscolaire (CPS) (le suivi de croissance, les conseils en  alimentation du nourrisson et du jeune enfant (ANJE), etc.)",
+      "Swahili": "Shughuli zingine za Mashauriano baada ya kuzaa (ufuatiliaji wa ukuaji, ushauri wa ANJE...)"
+    },
+    "general_audience": "",
+    "target_audience": "Breastfeeding women",
+    "problem_behavior": "Breastfeeding women do not comply with CPS appointments for children 0-59 months of age.",
+    "promoted_behavior": "Breastfeeding women comply with preschool consultation (PSC) appointments for children 0-59 months of age.",
+    "action": "",
+    "message": {
+      "English": "Mother, take your child to the preschool consultation until the age of 59 months for the proper monitoring of his growth.",
+      "French": "Maman, emmenez votre enfant à la consultation préscolaire jusqu'à l'âge de 59 mois pour le bon suivi de sa croissance.",
+      "Swahili": "Mama mpendwa, mpeleke mtoto wako kwenye mashauriano kabla ya shule hadi umri wa miezi 59 kwa ufuatiliaji sahihi wa ukuaji wake."
+    }
+  },
+  {
     "id": 90,
-    "intervention": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
-    "general_audience" : "",
-    "target_audience" : "Man (husband)",
-    "problem_behavior" : "Men do not provide support to women in preschool consultation.",
-    "promoted_behavior" : "Men provide their support to women in preschool consultation.",
-    "action" : "",
-    "message" : {
-    "English" : "Husband/partner, be supportive of your wife/partner's compliance with preschool consultation (PSC) appointments for the well-being of your child from 0-59 months.",
-    "French" : "Mari/partenaire, soutenez votre femme/partenaire au respect de rendez-vous préscolaire pour le bien être de votre enfant de 0 à 59 mois",
-    "Swahili" : "Mpendwa mume/mpenzi, msaidie mke/mpenzi wako katika kuheshimu mikutano ya CPS kwa ajili ya ustawi wa mtoto wako kutoka miezi 0 hadi 59."
-  }
-},
-{
+    "intervention": {
+      "English": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
+      "French": "Les autres activités de la Consultation Préscolaire (CPS) (le suivi de croissance, les conseils en  alimentation du nourrisson et du jeune enfant (ANJE), etc.)",
+      "Swahili": "Shughuli zingine za Mashauriano baada ya kuzaa (ufuatiliaji wa ukuaji, ushauri wa ANJE...)"
+    },
+    "general_audience": "",
+    "target_audience": "Man (husband)",
+    "problem_behavior": "Men do not provide support to women in preschool consultation.",
+    "promoted_behavior": "Men provide their support to women in preschool consultation.",
+    "action": "",
+    "message": {
+      "English": "Husband/partner, be supportive of your wife/partner's compliance with preschool consultation (PSC) appointments for the well-being of your child from 0-59 months.",
+      "French": "Mari/partenaire, soutenez votre femme/partenaire au respect de rendez-vous préscolaire pour le bien être de votre enfant de 0 à 59 mois",
+      "Swahili": "Mpendwa mume/mpenzi, msaidie mke/mpenzi wako katika kuheshimu mikutano ya CPS kwa ajili ya ustawi wa mtoto wako kutoka miezi 0 hadi 59."
+    }
+  },
+  {
     "id": 91,
-    "intervention": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
-    "general_audience" : "",
-    "target_audience" : "Healthcare providers ",
-    "problem_behavior" : "Some healthcare providers do not advise women to comply with preschool appointments up to 59 months of age.",
-    "promoted_behavior" : "Healthcare providers advise women to comply with preschool appointments up to 59 months of age.",
-    "action" : "",
-    "message" : {
-    "English" : "Healthcare providers, advise women on compliance with preschool appointments for the well-being of their children 0-59 months.",
-    "French" : "Prestataires, conseillez les femmes sur le respect les rendez-vous préscolaires pour le bien-être de leurs enfants 0 à 59 mois.",
-    "Swahili" : "Watoa huduma wapendwa, washauri wanawake juu ya heshima ya mashauriano kabla ya shule kwa ustawi wa watoto wao kutoka miezi 0 hadi 59."
-  }
-},
-{
+    "intervention": {
+      "English": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
+      "French": "Les autres activités de la Consultation Préscolaire (CPS) (le suivi de croissance, les conseils en  alimentation du nourrisson et du jeune enfant (ANJE), etc.)",
+      "Swahili": "Shughuli zingine za Mashauriano baada ya kuzaa (ufuatiliaji wa ukuaji, ushauri wa ANJE...)"
+    },
+    "general_audience": "",
+    "target_audience": "Healthcare providers ",
+    "problem_behavior": "Some healthcare providers do not advise women to comply with preschool appointments up to 59 months of age.",
+    "promoted_behavior": "Healthcare providers advise women to comply with preschool appointments up to 59 months of age.",
+    "action": "",
+    "message": {
+      "English": "Healthcare providers, advise women on compliance with preschool appointments for the well-being of their children 0-59 months.",
+      "French": "Prestataires, conseillez les femmes sur le respect les rendez-vous préscolaires pour le bien-être de leurs enfants 0 à 59 mois.",
+      "Swahili": "Watoa huduma wapendwa, washauri wanawake juu ya heshima ya mashauriano kabla ya shule kwa ustawi wa watoto wao kutoka miezi 0 hadi 59."
+    }
+  },
+  {
     "id": 92,
-    "intervention": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
-    "general_audience" : "",
-    "target_audience" : "Community members",
-    "problem_behavior" : "Community members do not encourage women to comply with preschool appointments up to 59 months.",
-    "promoted_behavior" : "Community members encourage women to comply with preschool appointments up to 59 months.",
-    "action" : "",
-    "message" : {
-    "English" : "Community members, for healthy child development and growth, encourage women to comply with preschool appointments up to 59 months.",
-    "French" : "Membres de la communauté, pour garantir le développement et la croissance des enfants, encouragez les femmes au respect des rendez-vous de la consultation préscolaire jusqu'à 59 mois",
-    "Swahili" : "Kuhakikisha maendeleo na ukuaji wa watoto, inaomba kuwahimiza wanawake kuheshimu mashauriano kabla ya shule hadi miezi 59."
-  }
-},
-{
+    "intervention": {
+      "English": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
+      "French": "Les autres activités de la Consultation Préscolaire (CPS) (le suivi de croissance, les conseils en  alimentation du nourrisson et du jeune enfant (ANJE), etc.)",
+      "Swahili": "Shughuli zingine za Mashauriano baada ya kuzaa (ufuatiliaji wa ukuaji, ushauri wa ANJE...)"
+    },
+    "general_audience": "",
+    "target_audience": "Community members",
+    "problem_behavior": "Community members do not encourage women to comply with preschool appointments up to 59 months.",
+    "promoted_behavior": "Community members encourage women to comply with preschool appointments up to 59 months.",
+    "action": "",
+    "message": {
+      "English": "Community members, for healthy child development and growth, encourage women to comply with preschool appointments up to 59 months.",
+      "French": "Membres de la communauté, pour garantir le développement et la croissance des enfants, encouragez les femmes au respect des rendez-vous de la consultation préscolaire jusqu'à 59 mois",
+      "Swahili": "Kuhakikisha maendeleo na ukuaji wa watoto, inaomba kuwahimiza wanawake kuheshimu mashauriano kabla ya shule hadi miezi 59."
+    }
+  },
+  {
     "id": 93,
-    "intervention": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
-    "general_audience" : "",
-    "target_audience" : "The mother",
-    "problem_behavior" : "Mothers do not respect the CPoN3 service (42 days after delivery) and only wait for complications to arise in order to go to the health center.",
-    "promoted_behavior" : "Mothers respect the post natal consultation (PoNC) service.",
-    "action" : "",
-    "message" : {
-    "English" : "Postpartum woman, continue to go to postnatal consultation to receive vitamin A within 40 days after delivery to ensure your good health and that of the baby.",
-    "French" : "Accouchée, chère femme après l’accouchement, continuer d'aller à la consultation postnatale pour recevoir la vitamine A dans les 40 jours qui suivent l’accouchement afin de garantir votre bonne santé et celle du bébé.",
-    "Swahili" : "Mwanamke mpendwa aliyezaa, endelea kwenda kwenye mashauriano ya Mashauriano baada ya kuzaa baada ya kuzaa ili kupokea vitamini A ndani ya siku 40 za kuzaa ili kuhakikisha afya yako nzuri na ya mtoto."
-  }
-},
-{
+    "intervention": {
+      "English": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
+      "French": "Les autres activités de la Consultation Préscolaire (CPS) (le suivi de croissance, les conseils en  alimentation du nourrisson et du jeune enfant (ANJE), etc.)",
+      "Swahili": "Shughuli zingine za Mashauriano baada ya kuzaa (ufuatiliaji wa ukuaji, ushauri wa ANJE...)"
+    },
+    "general_audience": "",
+    "target_audience": "The mother",
+    "problem_behavior": "Mothers do not respect the CPoN3 service (42 days after delivery) and only wait for complications to arise in order to go to the health center.",
+    "promoted_behavior": "Mothers respect the post natal consultation (PoNC) service.",
+    "action": "",
+    "message": {
+      "English": "Postpartum woman, continue to go to postnatal consultation to receive vitamin A within 40 days after delivery to ensure your good health and that of the baby.",
+      "French": "Accouchée, chère femme après l’accouchement, continuer d'aller à la consultation postnatale pour recevoir la vitamine A dans les 40 jours qui suivent l’accouchement afin de garantir votre bonne santé et celle du bébé.",
+      "Swahili": "Mwanamke mpendwa aliyezaa, endelea kwenda kwenye mashauriano ya Mashauriano baada ya kuzaa baada ya kuzaa ili kupokea vitamini A ndani ya siku 40 za kuzaa ili kuhakikisha afya yako nzuri na ya mtoto."
+    }
+  },
+  {
     "id": 94,
-    "intervention": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
-    "general_audience" : "",
-    "target_audience" : "Man (husband)",
-    "problem_behavior" : "Men do not encourage their wives to go to the health center for post natal consultation (PoNC) service",
-    "promoted_behavior" : "Men encourage their wives to go to the health center for post natal consultation (PoNC) service",
-    "action" : "",
-    "message" : {
-    "English" : "Husband, encourage your wife to go to the health center in the post natal consultation (PoNC) department for her nutritional and gynecological status assessment.",
-    "French" : "Homme, encourage ta femme à se rendre au service de la consultation postnatale au centre de santé pour l’évaluation de son état nutritionnel et de son   statut gynécologique.",
-    "Swahili" : "Mpendwa mume, mhimize mke wako kwenda kwenye huduma ya Mashauriano baada ya kuzaa katika kituo cha afya kufuatilia hali yake ya lishe na hali yake ya gynecologie."
+    "intervention": {
+      "English": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
+      "French": "Les autres activités de la Consultation Préscolaire (CPS) (le suivi de croissance, les conseils en  alimentation du nourrisson et du jeune enfant (ANJE), etc.)",
+      "Swahili": "Shughuli zingine za Mashauriano baada ya kuzaa (ufuatiliaji wa ukuaji, ushauri wa ANJE...)"
+    },
+    "general_audience": "",
+    "target_audience": "Man (husband)",
+    "problem_behavior": "Men do not encourage their wives to go to the health center for post natal consultation (PoNC) service",
+    "promoted_behavior": "Men encourage their wives to go to the health center for post natal consultation (PoNC) service",
+    "action": "",
+    "message": {
+      "English": "Husband, encourage your wife to go to the health center in the post natal consultation (PoNC) department for her nutritional and gynecological status assessment.",
+      "French": "Homme, encourage ta femme à se rendre au service de la consultation postnatale au centre de santé pour l’évaluation de son état nutritionnel et de son   statut gynécologique.",
+      "Swahili": "Mpendwa mume, mhimize mke wako kwenda kwenye huduma ya Mashauriano baada ya kuzaa katika kituo cha afya kufuatilia hali yake ya lishe na hali yake ya gynecologie."
+    }
   }
-}
 ]
