@@ -1472,7 +1472,11 @@
       "Swahili": "Mwanamke mjamzito"
     },
     "problem_behavior": "Some pregnant women do not comply with the 4 PNC visits to receive counseling on the benefits of breastfeeding immediately after delivery or do not observe breastfeeding within one hour after delivery.",
-    "promoted_behavior": "Pregnant women comply with the prenatal consultation (PNC) to receive counseling on the benefits of breastfeeding their newborns immediately after delivery.",
+    "promoted_behavior": {
+      "English": "Pregnant women comply with the prenatal consultation (PNC) to receive counseling on the benefits of breastfeeding their newborns immediately after delivery.",
+      "French": "Les femmes enceintes respectent  la consultation pré-natale (CPN)  pour recevoir  les conseils sur les avantages de mettre   le nouveau-né au sein  immédiatement après l'accouchement.",
+      "Swahili": "Wanawake wajawazito wana heshimu ziara za Mashauriano ya kabla ya kuzaa (CPN) kupata ushauri juu ya faida za kumnyonyesha mtoto baada ya kuzaa."
+    },
     "action": "",
     "message": {
       "English": "Pregnant woman, go to the prenatal consultation (PNC) to get information and counseling on breastfeeding your newborn immediately after delivery, to ensure your well-being and that of your newborn.",
@@ -1494,7 +1498,11 @@
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Some women are not provided with information on breastfeeding immediately after delivery.",
-    "promoted_behavior": "Women receive information about breastfeeding their newborns immediately after delivery.",
+    "promoted_behavior": {
+      "English": "Women receive information about breastfeeding their newborns immediately after delivery.",
+      "French": "Les femmes bénéficient les informations sur la mise au sein des nouveau-nés immédiatement après l'accouchement.",
+      "Swahili": "Wanawake wana faidika na taarifa juu ya kunyonyesha watoto mara tu baada ya kuzaa."
+    },
     "action": "",
     "message": {
       "English": "Mother, breastfeed your baby immediately after delivery, it contributes to your good health and that of your baby.",
@@ -1516,7 +1524,11 @@
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Some women are not provided with information on breastfeeding immediately after delivery.",
-    "promoted_behavior": "Women receive information about breastfeeding their newborns immediately after delivery.",
+    "promoted_behavior": {
+      "English": "Women receive information about breastfeeding their newborns immediately after delivery.",
+      "French": "Les femmes bénéficient les informations sur la mise au sein des nouveau-nés immédiatement après l'accouchement.",
+      "Swahili": "Wanawake wana faidika na taarifa juu ya kunyonyesha watoto mara tu baada ya kuzaa."
+    },
     "action": "",
     "message": {
       "English": "Mother, breastfeed your newborn immediately after birth to quickly stimulate the production of breast milk, this first yellowish milk (colostrum), gives a natural protection to the newborn against diseases. Don't throw it away, give it to your newborn quickly.",
@@ -1538,7 +1550,11 @@
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Some women are not provided with information on breastfeeding immediately after delivery.",
-    "promoted_behavior": "Women receive information about breastfeeding their newborns immediately after delivery.",
+    "promoted_behavior": {
+      "English": "Women receive information about breastfeeding their newborns immediately after delivery.",
+      "French": "Les femmes bénéficient les informations sur la mise au sein des nouveau-nés immédiatement après l'accouchement.",
+      "Swahili": "Wanawake wana faidika na taarifa juu ya kunyonyesha watoto mara tu baada ya kuzaa."
+    },
     "action": "",
     "message": {
       "English": "Mother, breastfeeding your baby immediately after delivery facilitates the expulsion of the placenta and reduces bleeding.",
@@ -1560,7 +1576,11 @@
       "Swahili": "Mume/mpenzi"
     },
     "problem_behavior": "Some men do not encourage or support their wives to attend PNC appointments for information and counseling on breastfeeding newborns immediately after delivery.",
-    "promoted_behavior": "Men encourage and support their wives to attend prenatal consultation (PNC) appointments to receive information and counseling on breastfeeding newborns immediately after delivery.",
+    "promoted_behavior": {
+      "English": "Men encourage and support their wives to attend prenatal consultation (PNC) appointments to receive information and counseling on breastfeeding newborns immediately after delivery.",
+      "French": "Les hommes encouragent et soutiennent leurs femmes de se rendre au rendez-vous de la consultation pré-natale (CPN) pour bénéficier les informations et conseils sur la mise au sein des nourrissons immédiatement après l’accouchement.",
+      "Swahili": "Wanaume wana himiza na kuwasaidia wake zao kwenda Mashauriano ya kabla ya kuzaa (CPN) kupokea taarifa na ushauri juu ya kunyonyesha watoto mara tu baada ya kuzaa."
+    },
     "action": "",
     "message": {
       "English": "Husband/Spouse, encourage and support your wives to attend prenatal consultation (PNC) appointments to get information and counseling on breastfeeding the newborn immediately after delivery for the well-being of the family.",
@@ -1582,7 +1602,11 @@
       "Swahili": "Mtoa huduma"
     },
     "problem_behavior": "Some healthcare providers do not assist or encourage breastfeeding women to breastfeed their newborns immediately after delivery.",
-    "promoted_behavior": "Healthcare providers assist and encourage women to breastfeed their newborns within one hour after delivery",
+    "promoted_behavior": {
+      "English": "Healthcare providers assist and encourage women to breastfeed their newborns within one hour after delivery",
+      "French": "Les prestataires aident et encouragent   les femmes à mettre les nouveaux nés au sein dans l'heure qui suit l'accouchement.",
+      "Swahili": "Watoa huduma wana saidia na kuhimiza wanawake kunyonyesha watoto wachanga ndani ya saa moja ya kuzaa."
+    },
     "action": "",
     "message": {
       "English": "Healthcare providers, make sure you support and encourage women to breastfeed their newborns immediately after delivery for the sake of our community.",
@@ -1604,7 +1628,11 @@
       "Swahili": "Wanajamii"
     },
     "problem_behavior": "Community members do not encourage breastfeeding women to breastfeed their newborns immediately after delivery.",
-    "promoted_behavior": "Community members encourage breastfeeding women to breastfeed their newborns immediately after delivery.",
+    "promoted_behavior": {
+      "English": "Community members encourage breastfeeding women to breastfeed their newborns immediately after delivery.",
+      "French": "Les membres de la communauté incitent les femmes allaitantes à mettre au sein le nouveau-né immédiatement après l’accouchement.",
+      "Swahili": "Wanajamii wana himiza wanawake wanaonyonyesha kumnyonyesha mtoto mara tu baada ya kuzaa."
+    },
     "action": "",
     "message": {
       "English": "Community members, encourage the breastfeeding woman to breastfeed the newborn immediately after delivery for their good health.",
@@ -1626,7 +1654,11 @@
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Women do not respect exclusive and regular breastfeeding of their babies.",
-    "promoted_behavior": "Women respect exclusive and regular breastfeeding.",
+    "promoted_behavior": {
+      "English": "Women respect exclusive and regular breastfeeding.",
+      "French": "Les femmes respectent l'allaitement exclusif et régulier.",
+      "Swahili": "Wanawake wana heshimu unyonyeshaji wa kipekee na wa kawaida wa watoto wao."
+    },
     "action": "",
     "message": {
       "English": "Mother, breast milk is the only natural, complete and adapted food that meets 100% of your baby's needs. Feed your baby exclusively and regularly from birth until the age of six months. Do not give anything even water, breast milk also contains water.",
@@ -1648,7 +1680,11 @@
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Women do not respect exclusive and regular breastfeeding of their babies.",
-    "promoted_behavior": "Women respect exclusive and regular breastfeeding.",
+    "promoted_behavior": {
+      "English": "Women respect exclusive and regular breastfeeding.",
+      "French": "Les femmes respectent l'allaitement exclusif et régulier.",
+      "Swahili": "Wanawake wana heshimu unyonyeshaji wa kipekee na wa kawaida wa watoto wao."
+    },
     "action": "",
     "message": {
       "English": "Mother, exclusively breastfeed your baby for the first 6 months to protect him/her from diseases such as diarrhea, respiratory infections and also to prevent unwanted or early pregnancies, risk of ovarian and breast cancer.",
@@ -1670,7 +1706,11 @@
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Women do not respect exclusive and regular breastfeeding of their babies.",
-    "promoted_behavior": "Women respect exclusive and regular breastfeeding.",
+    "promoted_behavior": {
+      "English": "Women respect exclusive and regular breastfeeding.",
+      "French": "Les femmes respectent l'allaitement exclusif et régulier.",
+      "Swahili": "Wanawake wana heshimu unyonyeshaji wa kipekee na wa kawaida wa watoto wao."
+    },
     "action": "",
     "message": {
       "English": "Mother, Be careful!  If your baby is less than 6 months old, continue with exclusive breastfeeding and increase the frequency of breastfeeding during the illness and two weeks after the illness to keep the child healthy.",
@@ -1692,7 +1732,11 @@
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Women do not respect exclusive and regular breastfeeding of their babies.",
-    "promoted_behavior": "Women respect exclusive and regular breastfeeding.",
+    "promoted_behavior": {
+      "English": "Women respect exclusive and regular breastfeeding.",
+      "French": "Les femmes respectent l'allaitement exclusif et régulier.",
+      "Swahili": "Wanawake wana heshimu unyonyeshaji wa kipekee na wa kawaida wa watoto wao."
+    },
     "action": "",
     "message": {
       "English": "Working mother, to keep your baby healthy while you are away from home, continue with exclusive breastfeeding practice by pouring breast milk into clean and closed cups knowing that breast milk keeps for 8 to 10 hours in a cool place (room temperature).",
@@ -1714,7 +1758,11 @@
       "Swahili": "Mume/mpenzi"
     },
     "problem_behavior": "Men (husband) do not encourage women to exclusively breastfeed their infants but rather induce them to give something else.",
-    "promoted_behavior": "Men (Husbands) encourage and urge women to exclusively breastfeed their infants on a regular basis.",
+    "promoted_behavior": {
+      "English": "Men (Husbands) encourage and urge women to exclusively breastfeed their infants on a regular basis.",
+      "French": "Les Hommes (Mari) encouragent et incitent les femmes à donner uniquement le lait maternel aux nourrissons de façon régulière.",
+      "Swahili": "Wanaume (waume) wana himiza wanawake kunyonyesha  kipekee watoto wachanga mara kwa mara."
+    },
     "action": "",
     "message": {
       "English": "Father, breast milk for children aged 0 to 6 months is a complete food that meets 100% of the baby's needs and contains enough water to satisfy his thirst; encourage your wives to exclusively breastfeed infants to protect them from diseases (diarrhea and respiratory infections, etc.)",
@@ -1736,7 +1784,11 @@
       "Swahili": "Mume/mpenzi"
     },
     "problem_behavior": "Men (husband) do not encourage women to exclusively breastfeed their infants but rather induce them to give something else.",
-    "promoted_behavior": "Men (Husbands) encourage and urge women to exclusively breastfeed their infants on a regular basis.",
+    "promoted_behavior": {
+      "English": "Men (Husbands) encourage and urge women to exclusively breastfeed their infants on a regular basis.",
+      "French": "Les Hommes (Mari) encouragent et incitent les femmes à donner uniquement le lait maternel aux nourrissons de façon régulière.",
+      "Swahili": "Wanaume (waume) wana himiza wanawake kunyonyesha  kipekee watoto wachanga mara kwa mara."
+    },
     "action": "",
     "message": {
       "English": "Father, encourage and urge your wives to exclusively breastfeed babies from 0 to 6 months to reduce the risk of obesity and diabetes in adulthood.",
@@ -1758,7 +1810,11 @@
       "Swahili": "Watoa huduma (Kliniki na Jamii)"
     },
     "problem_behavior": "Healthcare providers do not encourage women to exclusively breastfeed infants on a regular basis, and encourage them to engage in other practices",
-    "promoted_behavior": "Healthcare providers encourage and counsel women to exclusively breastfeed their infants on a regular basis",
+    "promoted_behavior": {
+      "English": "Healthcare providers encourage and counsel women to exclusively breastfeed their infants on a regular basis",
+      "French": "Les prestataires encouragent et incitent les femmes à allaiter les nourrissons de façon régulière et exclusive.",
+      "Swahili": "Atoa huduma wana himiza wanawake kunyonyesha watoto wachanga mara kwa mara na wa kipekee."
+    },
     "action": "",
     "message": {
       "English": "Healthcare providers, encouraging and urging women to breastfeed babies on a regular basis, 10 to 12 times a day and night and on demand by the baby is your responsibility for the healthy growth of the baby and the well-being of the mother.",
@@ -1780,7 +1836,11 @@
       "Swahili": "Wanajamii"
     },
     "problem_behavior": "They do not encourage women to use only breast milk to feed their babies",
-    "promoted_behavior": "They encourage women to use only breast milk to feed their babies.",
+    "promoted_behavior": {
+      "English": "They encourage women to use only breast milk to feed their babies.",
+      "French": "Les membres de la communauté incitent les femmes à allaiter les bébés uniquement avec le lait maternel.",
+      "Swahili": "Wanajamii wana himiza wanawake kunyonyesha watoto na maziwa ya mama pekee."
+    },
     "action": "",
     "message": {
       "English": "Community members, encourage breastfeeding women to exclusively breastfeed their babies with breast milk for the first 6 months and to wait until the babies are tired to ensure their healthy growth.",
@@ -1802,7 +1862,11 @@
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Women do not breastfeed children up to 2 years and beyond.",
-    "promoted_behavior": "Women breastfeed children up to 2 years and beyond",
+    "promoted_behavior": {
+      "English": "Women breastfeed children up to 2 years and beyond.",
+      "French": "Les femmes allaitent les enfants jusqu'à 2 ans et plus.",
+      "Swahili": "Wanawake wananyonyesha watoto hadi miaka miwili na zaidi."
+    },
     "action": "",
     "message": {
       "English": "Mothers, breastfeed your children until they are 2 years old or older to promote their healthy growth",
@@ -1824,7 +1888,11 @@
       "Swahili": "Mume/mpenzi"
     },
     "problem_behavior": "Men do not encourage their wives to breastfeed children up to 2 years and beyond",
-    "promoted_behavior": "Men encourage their wives to breastfeed children up to 2 years and beyond",
+    "promoted_behavior": {
+      "English": "Men encourage their wives to breastfeed children up to 2 years and beyond.",
+      "French": "Les hommes encouragent les femmes à allaiter les enfants jusqu'à de 2 ans et plus.",
+      "Swahili": "Wanaume wahimiza wanawake kunyonyesha watoto hadi umri wa miaka 2 na zaidi."
+    },
     "action": "",
     "message": {
       "English": "Fathers, encourage your wives to breastfeed children until they are 2 years and older for their healthy growth.",
@@ -1846,7 +1914,11 @@
       "Swahili": "Mtoa huduma"
     },
     "problem_behavior": "Healthcare providers do not encourage women to breastfeed children until they are 2 years old or older.",
-    "promoted_behavior": "Healthcare providers encourage women to breastfeed children until they are 2 years old or older.",
+    "promoted_behavior": {
+      "English": "Healthcare providers encourage women to breastfeed children until they are 2 years old or older.",
+      "French": "Les prestataires encouragent les femmes à allaiter les enfants jusqu'à 2 ans et plus.",
+      "Swahili": "Watoa huduma wana himiza wanawake kuwanyonyesha watoto hadi umri wa miaka 2 na zaidi."
+    },
     "action": "",
     "message": {
       "English": "Healthcare providers, encourage women to breastfeed their babies until they are 2 years old and older for healthy growth.",
@@ -1868,7 +1940,11 @@
       "Swahili": "Wanajamii"
     },
     "problem_behavior": "Community members discourage women from continuous breastfeeding practices for 2-year-olds.",
-    "promoted_behavior": "Community members encourage women in continuous breastfeeding practices for 2-year-olds.",
+    "promoted_behavior": {
+      "English": "Community members encourage women in continuous breastfeeding practices for 2-year-olds.",
+      "French": "Les membres de la communauté encouragent les femmes dans les pratiques d’allaitement continu des enfants de 2 ans.",
+      "English": "Wanajamii wana himiza wanawake kuendelea kunyonyesha watoto hadi umri wa miaka 2 na zaidi."
+    },
     "action": "",
     "message": {
       "English": "Community members, encourage women to breastfeed their children until they are 2 years and older to prevent illness and ensure their healthy growth.",
@@ -1890,7 +1966,11 @@
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Breastfeeding women do not respect the number and variety of meals for children from 6 months of age.",
-    "promoted_behavior": "Breastfeeding women respect the number and variety of meals for children from 6 months of age.",
+    "promoted_behavior": {
+      "English": "Breastfeeding women respect the number and variety of meals for children from 6 months of age.",
+      "French": "Les femmes allaitantes respectent le nombre et la variété des repas des enfants à partir de 6 mois.",
+      "Swahili": "Wanawake wanaonyonyesha wana heshimu idadi na aina ya chakula ya watoto kutoka miezi 6."
+    },
     "action": "",
     "message": {
       "English": "Mother, a healthy child is the pride of his family, give the baby from 6 months a varied diet such as: meat, fish, egg, milk, papaya, mango, pineapple, cauliflower, spinach, soybeans, bean, peanut, etc. ;3 times a day and two snacks for the healthy growth of the child.",
@@ -1912,7 +1992,11 @@
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Breastfeeding women do not respect the number and variety of meals for children from 6 months of age.",
-    "promoted_behavior": "Breastfeeding women respect the number and variety of meals for children from 6 months of age.",
+    "promoted_behavior": {
+      "English": "Breastfeeding women respect the number and variety of meals for children from 6 months of age.",
+      "French": "Les femmes allaitantes respectent le nombre et la variété des repas des enfants à partir de 6 mois.",
+      "Swahili": "Wanawake wanaonyonyesha wana heshimu idadi na aina ya chakula ya watoto kutoka miezi 6."
+    },
     "action": "",
     "message": {
       "English": "Mother, if your baby is sick from 6 months of age, continue to breastfeed and increase the number of meals until two weeks after the illness to keep him healthy.",
@@ -1934,7 +2018,10 @@
       "Swahili": "Mwanaume (mume) na wanajamii"
     },
     "problem_behavior": "Men and community members do not encourage or support women to respect the number and variety of meals for children from 6 months of age.",
-    "promoted_behavior": "Men encourage and support their wives to respect the number and variety of children's meals from 6 months of age.",
+    "promoted_behavior": {
+      "English": "Men encourage and support their wives to respect the number and variety of children's meals from 6 months of age.",
+      "French": "Les hommes encouragent et soutiennent leurs femmes au respect du nombre et variété du repas des enfants à partir de 6 mois.",
+      "Swahili": "Wanaume wanahimiza na kusaidia wake zao kuheshimu idadi na aina ya chakula cha watoto kutoka miezi 6.",
     "action": "",
     "message": {
       "English": "Father and community members, the health of your baby is very important, encourage and support your wives to give the baby from 6 months a variety of foods such as: meat, fish, egg, milk, papaya, mango, pineapple, cauliflower, spinach, soybeans, bean, peanut, etc,; 3 times a day and two snacks for his healthy growth.",
@@ -1956,7 +2043,11 @@
       "Swahili": "Mtoa huduma"
     },
     "problem_behavior": "Healthcare providers do not adequately inform breastfeeding mothers about appropriate complementary feeding practices for babies from 6 months of age.",
-    "promoted_behavior": "Healthcare providers adequately inform breastfeeding mothers about appropriate complementary feeding practices for babies from 6 months of age.",
+    "promoted_behavior": {
+      "English": "Healthcare providers adequately inform breastfeeding mothers about appropriate complementary feeding practices for babies from 6 months of age.",
+      "French": "Les prestataires informent suffisamment les femmes à allaitantes sur la pratique d'alimentation de complément adéquat pour le bébé à partir de 6 mois.",
+      "Swahili": "Watoa huduma wanatoa taarifa za kutosha kwa wanawake wanaonyonyesha juu ya mazoezi ya ulishaji wa kutosha kwa watoto kutoka miezi 6."
+    },
     "action": "",
     "message": {
       "English": "Healthcare providers, provide adequate information to women with babies from 6 months onwards on the variety of protein foods of animal origin (meat, fish, egg and milk); of vegetable origin (fruits and vegetables: papaya, mango, pineapple, cauliflower, spinach, etc.); legumes (soybeans, beans, peanuts, etc.) 3 times a day and two snacks for the healthy growth of their babies.",
@@ -1978,7 +2069,11 @@
       "Swahili": "Mwanamke mjamzito"
     },
     "problem_behavior": "Pregnant women do not consume sufficient and varied foods.",
-    "promoted_behavior": "Pregnant women consume sufficient and varied foods.",
+    "promoted_behavior": {
+      "English": "Pregnant women consume sufficient and varied foods.",
+      "French": "Les femmes enceintes consomment    les aliments variés et suffisants.",
+      "Swahili": "Wanawake wajawazito wana tumia vyakula mbalimbali na vya kutosha."
+    },
     "action": "",
     "message": {
       "English": "Pregnant women, eat a variety of foods such as meat, fish, beans, soybeans, peanuts, cowpeas, pineapples, bananas, mangoes, etc. and eat two extra meals to maintain your health and the health of your unborn child.",
@@ -2000,7 +2095,11 @@
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Some breastfeeding women do not consume a sufficient variety of foods.",
-    "promoted_behavior": "All women consume a sufficient variety of foods.",
+    "promoted_behavior": {
+      "English": "All women consume a sufficient variety of foods.",
+      "French": "Toutes les femmes consomment les aliments variés suffisants.",
+      "Swahili": "Wanawake wote wana tumia vyakula mbalimbali vya kutosha."
+    },
     "action": "",
     "message": {
       "English": "Breastfeeding woman, eat a variety of foods of animal origin (meat, eggs, fish) and vegetable origin (beans, soybeans, peanuts, cowpeas, pineapples, bananas, mangos, etc.) and eat two extra meals to maintain your health and that of your baby.",
@@ -2022,7 +2121,11 @@
       "Swahili": "Mwanaume (mume) na wanajamii"
     },
     "problem_behavior": "Husbands do not support their wives to consume sufficient variety of foods.",
-    "promoted_behavior": "Husbands support their wives to consume sufficient variety of foods.",
+    "promoted_behavior": {
+      "English": "Husbands support their wives to consume sufficient variety of foods.",
+      "French": "Les maris soutiennent leurs femmes à consommer les aliments variés suffisants.",
+      "Swahili": "Waume wanaunga mkono wake zao kula vyakula mbalimbali vya kutosha."
+    },
     "action": "",
     "message": {
       "English": "Husband and community members, support pregnant and lactating women to consume a variety of sufficient animal and vegetable foods such as meat, fish, beans, soybeans, peanuts, cowpeas, pineapples, bananas, mangoes, etc. and eat two extra meals to ensure their health and that of the baby.",
@@ -2044,7 +2147,11 @@
       "Swahili": "Mtoa huduma"
     },
     "problem_behavior": "Healthcare providers do not adequately inform women about eating a variety of foods.",
-    "promoted_behavior": "Healthcare providers adequately inform women about eating a variety of foods.",
+    "promoted_behavior": {
+      "English": "Healthcare providers adequately inform women about eating a variety of foods.",
+      "French": "Les prestataires, informent suffisamment les femmes sur la consommation des aliments suffisamment variés.",
+      "Swahili": "Watoa huduma wanatoa taarifa za kutosha kwa wanawake juu ya matumizi ya vyakula mbalimbali vya kutosha."
+    },
     "action": "",
     "message": {
       "English": "Healthcare providers, make sure to inform and discuss with pregnant and breastfeeding women about the consumption of various foods of animal origin (meat, fish), vegetable origin (fruits: bananas, pineapples, mangoes, etc.), (vegetables) spinach, cauliflower and legumes (soybeans, beans, peanuts) and the inclusion of an extra meal for the pregnant woman and two for the breastfeeding woman in order to maintain their health and that of their babies during the pregnancy and breastfeeding period.",
@@ -2066,7 +2173,11 @@
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Breastfeeding women do not comply with the vaccination schedule for infants aged 0 to 9 months.",
-    "promoted_behavior": "Women comply with the infant vaccination schedule.",
+    "promoted_behavior": {
+      "English": "Women comply with the infant vaccination schedule.",
+      "French": "Les femmes respectent le calendrier vaccination des nourrissons.",
+      "Swahili": "Wanawake wana heshimu ratiba ya chanjo ya watoto wachanga."
+    },
     "action": "",
     "message": {
       "English": "Breastfeeding woman, we should comply with the 5 free vaccination appointments to ensure the good health of our children from 0 to 9 months.",
@@ -2088,7 +2199,11 @@
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Breastfeeding women do not comply with the vaccination schedule for infants aged 0 to 9 months.",
-    "promoted_behavior": "Women comply with the infant vaccination schedule.",
+    "promoted_behavior": {
+      "English": "Women comply with the infant vaccination schedule.",
+      "French": "Les femmes respectent le calendrier vaccination des nourrissons.",
+      "Swahili": "Wanawake wana heshimu ratiba ya chanjo ya watoto wachanga."
+    },
     "action": "",
     "message": {
       "English": "Mom, have your child vaccinated 5 times before his first birthday to protect him from vaccine-preventable diseases.",
@@ -2110,7 +2225,11 @@
       "Swahili": "Mume/mpenzi"
     },
     "problem_behavior": "Husbands do not encourage their wives to comply with the vaccination schedule for infants aged 0 to 9 months.",
-    "promoted_behavior": "Husbands assist and encourage their wives to comply with the vaccination schedule for infants aged 0 to 9 months.",
+    "promoted_behavior": {
+      "English": "Husbands assist and encourage their wives to comply with the vaccination schedule for infants aged 0 to 9 months.",
+      "French": "Les maris accompagnent et incitent leurs femmes au respect du calendrier vaccinal des nourrissons âgé de 0 à 9 mois.",
+      "Swahili": "Waume wana saidia na wana himiza wake zao kuheshimu ratiba ya chanjo kwa watoto wachanga wenye umri wa miezi 0 hadi 9."
+    },
     "action": "",
     "message": {
       "English": "Husband, healthy children make parents happy, encourage and urge your wives to comply with the routine monthly vaccination schedule for infants aged 0 to 9 months to ensure their health.",
@@ -2132,7 +2251,11 @@
       "Swahili": "Mtoa huduma"
     },
     "problem_behavior": "Healthcare providers do not adequately inform breastfeeding women about the importance and value of routine vaccination of infants aged 0-9 months.",
-    "promoted_behavior": "Healthcare providers adequately inform breastfeeding women about the importance and value of routine vaccination of infants aged 0-9 months.",
+    "promoted_behavior": {
+      "English": "Healthcare providers adequately inform breastfeeding women about the importance and value of routine vaccination of infants aged 0-9 months.",
+      "French": "Les prestataires informent suffisamment les femmes allaitantes sur l'importance et le bien-fondé de la vaccination de routine des nourrissons âgé de 0 à 9 mois.",
+      "Swahili": "Watoa huduma wana wapa taarifa za kutosha kwa wanawake wanaonyonyesha kuhusu umuhimu na usahihi wa chanjo ya kawaida ya watoto wachanga wenye umri wa miezi 0 hadi 9."
+    },
     "action": "",
     "message": {
       "English": "Healthcare providers, inform parents about the importance and necessity of routine immunization of their children aged 0 to 9 months at birth, 1.5 months, 2.5 months, 3.5 months and 9 months to protect them against tuberculosis, polio, diphtheria, whooping cough, hepatitis B, meningitis, pneumonia, yellow fever and measles to safeguard their health.",
@@ -2154,7 +2277,11 @@
       "Swahili": "Wanajamii"
     },
     "problem_behavior": "Community members do not encourage breastfeeding women to attend routine monthly vaccination of infants aged 0-9 months.",
-    "promoted_behavior": "Community members encourage breastfeeding women to attend routine monthly vaccination of infants aged 0-9 months ",
+    "promoted_behavior": {
+      "English": "Community members encourage breastfeeding women to attend routine monthly vaccination of infants aged 0-9 months.",
+      "French": "Les membres de la communauté, encouragent les femmes allaitantes à se rendre chaque mois aux séances de la vaccination de routine de nourrissons âgés de 0 à 9 mois.",
+      "Swahili": "Wanajamii wana himiza wanawake wanaonyonyesha kuenda kamata chanjo ya watoto wachanga mara kwa mara wenye umri wa miezi 0 hadi 9 kila mwezi."
+    },
     "action": "",
     "message": {
       "English": "Community members, encourage women to attend routine monthly vaccination for infants aged 0-9 months to ensure their healthy growth.",
@@ -2176,7 +2303,11 @@
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Breastfeeding women do not comply with CPS appointments for children 0-59 months of age.",
-    "promoted_behavior": "Breastfeeding women comply with preschool consultation (PSC) appointments for children 0-59 months of age.",
+    "promoted_behavior": {
+      "English": "Breastfeeding women comply with preschool consultation (PSC) appointments for children 0-59 months of age.",
+      "French": "Les femmes allaitantes respectent les rendez-vous de la consultation préscolaire (CPS) des enfants de 0 à 59 mois.",
+      "Swahili": "Wanawake wanaonyonyesha wana heshimu ziara za CPS kwa watoto wa miezi 0 hadi 59."
+    },
     "action": "",
     "message": {
       "English": "Mother, take your child to the preschool consultation until the age of 59 months for the proper monitoring of his growth.",
@@ -2198,7 +2329,11 @@
       "Swahili": "Mume/mpenzi"
     },
     "problem_behavior": "Men do not provide support to women in preschool consultation.",
-    "promoted_behavior": "Men provide their support to women in preschool consultation.",
+    "promoted_behavior": {
+      "English": "Men provide their support to women in preschool consultation.",
+      "French": "Les hommes soutiennent les femmes à la consultation préscolaire.",
+      "Swahili": "Wanaume wana waunga mkono wanawake katika mashauriano kabla ya shule."
+    },
     "action": "",
     "message": {
       "English": "Husband/partner, be supportive of your wife/partner's compliance with preschool consultation (PSC) appointments for the well-being of your child from 0-59 months.",
@@ -2220,7 +2355,11 @@
       "Swahili": "Mtoa huduma"
     },
     "problem_behavior": "Some healthcare providers do not advise women to comply with preschool appointments up to 59 months of age.",
-    "promoted_behavior": "Healthcare providers advise women to comply with preschool appointments up to 59 months of age.",
+    "promoted_behavior": {
+      "English": "Healthcare providers advise women to comply with preschool appointments up to 59 months of age.",
+      "French": "Les prestataires conseillent   les femmes sur le respect des rendez-vous de la consultation préscolaire jusqu'à 59 mois.",
+      "Swahili": "Watoa huduma  wanashauri wanawake juu ya heshima ya mikutano ya mashauriano kabla ya shule kutoka 0 hadi miezi 59."
+    },
     "action": "",
     "message": {
       "English": "Healthcare providers, advise women on compliance with preschool appointments for the well-being of their children 0-59 months.",
@@ -2242,7 +2381,11 @@
       "Swahili": "Wanajamii"
     },
     "problem_behavior": "Community members do not encourage women to comply with preschool appointments up to 59 months.",
-    "promoted_behavior": "Community members encourage women to comply with preschool appointments up to 59 months.",
+    "promoted_behavior": {
+      "English": "Community members encourage women to comply with preschool appointments up to 59 months.",
+      "French": "Les membres de la communauté incitent les femmes au respect des rendez-vous de la consultation préscolaire jusqu'à 59 mois.",
+      "Swahili": "Wanajamii wana himiza wanawake kuheshimu mashauriano kabla ya shule kutoka 0 hadi miezi 59."
+    },
     "action": "",
     "message": {
       "English": "Community members, for healthy child development and growth, encourage women to comply with preschool appointments up to 59 months.",
@@ -2264,7 +2407,11 @@
       "Swahili": "Mwanamke aliyezaa"
     },
     "problem_behavior": "Mothers do not respect the CPoN3 service (42 days after delivery) and only wait for complications to arise in order to go to the health center.",
-    "promoted_behavior": "Mothers respect the post natal consultation (PoNC) service.",
+    "promoted_behavior": {
+      "English": "Mothers respect the post natal consultation (PoNC) service.",
+      "French": "Les femmes accouchées respectent   le service de consultation post natale (CPoN).",
+      "Swahili": "Wanawake ambao wamezaa wana heshimu huduma ya Mashauriano baada ya kuzaa (CPoN)."
+    },
     "action": "",
     "message": {
       "English": "Postpartum woman, continue to go to postnatal consultation to receive vitamin A within 40 days after delivery to ensure your good health and that of the baby.",
@@ -2286,7 +2433,11 @@
       "Swahili": "Mume/mpenzi"
     },
     "problem_behavior": "Men do not encourage their wives to go to the health center for post natal consultation (PoNC) service",
-    "promoted_behavior": "Men encourage their wives to go to the health center for post natal consultation (PoNC) service",
+    "promoted_behavior": {
+      "English": "Men encourage their wives to go to the health center for post natal consultation (PoNC) service",
+      "French": "Les hommes encouragent leurs femmes à se rendre au centre de santé pour le service de la consultation post natale (CPoN).",
+      "Swahili": "Wanaume wana himiza wake zao kwenda kwenye kituo cha afya kwa huduma ya Mashauriano baada ya kuzaa (CPoN)."
+    },
     "action": "",
     "message": {
       "English": "Husband, encourage your wife to go to the health center in the post natal consultation (PoNC) department for her nutritional and gynecological status assessment.",
