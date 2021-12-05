@@ -925,7 +925,11 @@
       "Swahili": "Mwanamke aliyezaa"
     },
     "problem_behavior": "Do not sleep under the LLIN, leaving the baby exposed to bad weather",
-    "promoted_behavior": " The mother and the baby sleep under the Long-lasting Insecticidal Net (LLIN).",
+    "promoted_behavior": {
+      "English": "The mother and the baby sleep under the Long-lasting Insecticidal Net (LLIN).",
+      "French": "L’accouchée et le bébé dorment sous la Moustiquaire imprégnée d’insecticide (MILD).",
+      "Swahili": "Analala ndani ya chandarua kilichowekwa dawa kumkinga mtoto na magonjwa."
+    },
     "action": "Proper use of the LLIN",
     "message": {
       "English": "Dear parents, sleeping under Long-lasting Insecticidal Net (LLIN) every night will protect you and your family from bites of mosquitoes that transmit malaria.",
@@ -947,7 +951,11 @@
       "Swahili": "Mwanamke aliyezaa"
     },
     "problem_behavior": "Do not go to the HC as soon as the newborn shows danger signs",
-    "promoted_behavior": "Go to healthcare facility as soon as the newborn shows signs of danger.",
+    "promoted_behavior": {
+      "English": "Go to healthcare facility as soon as the newborn shows signs of danger.",
+      "French": "Rendez-vous dans un centre de santé dès que le nouveau-né montre des signes de danger.",
+      "Swahili": "Nenda kwenye kituo cha afya mara tu mtoto mchanga anapoonyesha dalili za hatari."
+    },
     "action": "Taking care of the newborn at home (protecting the baby from heat, cold and dressing the baby",
     "message": {
       "English": "Dear parents, bring your baby immediately to the health center as soon as you detect any of the following infant danger signs: refusal to suck, moving less or being inactive, non-stop crying, fever, breathing difficulties and diarrhea, cough, cold, convulsions...",
@@ -969,7 +977,11 @@
       "Swahili": "Mwanamke aliyezaa"
     },
     "problem_behavior": "",
-    "promoted_behavior": "Protects the baby from bad weather.",
+    "promoted_behavior": {
+      "English": "Protects the baby from bad weather.",
+      "French": "Protège le bébé contre les intempéries.",
+      "Swahili": "Anajielekeza kwa haraka kwenye kituo cha afya ku mkinga mtoto."
+    },
     "action": "",
     "message": {
       "English": "Dear parents, take good care of the newborn at home, protect the baby against heat, smoke, cold and dress him properly to ensure his healthy growth and avoid illness",
@@ -991,7 +1003,11 @@
       "Swahili": "Mwanamke aliyezaa"
     },
     "problem_behavior": "",
-    "promoted_behavior": "Go to healthcare facility as soon as the newborn shows signs of danger.",
+    "promoted_behavior": {
+      "English": "Go to healthcare facility as soon as the newborn shows signs of danger.",
+      "French": "Rendez-vous dans un centre de santé dès que le nouveau-né montre des signes de danger.",
+      "Swahili": "Nenda kwenye kituo cha afya mara tu mtoto mchanga anapoonyesha dalili za hatari."
+    },
     "action": "",
     "message": {
       "English": "Take your baby to the health center immediately if any of the following infant danger signs are detected. The infant is having convulsions, has a distended abdomen or is vomiting whatever he or she swallows, has a foul odor around the navel or the cord is red.",
@@ -1013,7 +1029,11 @@
       "Swahili": "Mwanamke aliyezaa"
     },
     "problem_behavior": "",
-    "promoted_behavior": "Go to healthcare facility as soon as the newborn shows signs of danger.",
+    "promoted_behavior": {
+      "English": "Go to healthcare facility as soon as the newborn shows signs of danger.",
+      "French": "Rendez-vous dans un centre de santé dès que le nouveau-né montre des signes de danger.",
+      "Swahili": "Nenda kwenye kituo cha afya mara tu mtoto mchanga anapoonyesha dalili za hatari."
+    },
     "action": "",
     "message": {
       "English": "Dear parents, as soon as your child is having convulsions, repeated vomiting, refuses to suck or eat, or goes into coma, take him/her immediately to the referral health center or hospital for appropriate care.",
@@ -1035,7 +1055,11 @@
       "Swahili": "Mwanamke aliyezaa"
     },
     "problem_behavior": "",
-    "promoted_behavior": "Wash hands before and after nursing the newborn.",
+    "promoted_behavior": {
+      "English": "Wash hands before and after nursing the newborn.",
+      "French": "Se laver les mains avant et après les soins du nouveau-né.",
+      "Swahili": "Osha mikono kabla na baada ya utunzaji wa watoto wachanga."
+    }
     "action": "",
     "message": {
       "English": "Dear mother, wash your hands before and after nursing the newborn.",
@@ -1057,7 +1081,11 @@
       "Swahili": "Mwanamke wa umri wa kuzaa, aliyeolewa au asiyeolewa"
     },
     "problem_behavior": "Unwanted pregnancies",
-    "promoted_behavior": " Women of childbearing age use contraception of their choice",
+    "promoted_behavior": {
+      "English": " Women of childbearing age use contraception of their choice",
+      "French": "Les femmes en âge de procréer utilisent la contraception de leur choix.",
+      "Swahili": "Wanawake wa umri wa kuzaa wanatumia njia za uzazi wa mpango za uchaguzi wao."
+    },
     "action": "Use of contraceptive method of choice.",
     "message": {
       "English": "Dear women of childbearing age, use a contraceptive method of your choice to avoid too many early and late pregnancies to ensure your health and your family well-being.",
@@ -1079,7 +1107,11 @@
       "Swahili": "Mwanamke wa umri wa kuzaa, aliyeolewa au asiyeolewa"
     },
     "problem_behavior": "Practice of clandestine abortions 3/ Pregnancies that are too close.",
-    "promoted_behavior": " Women use contraception of their choice after abortion",
+    "promoted_behavior": {
+      "English": " Women use contraception of their choice after abortion",
+      "French": "Les femmes utilisent la contraception de leur choix après avortement.",
+      "Swahili": "Wanawake wanatumia njia za kuzuia mimba baada ya utoaji mimba."
+    },
     "action": "",
     "message": {
       "English": "WARNING: Get informed about contraceptive methods from trained providers and health facilities to help you make an informed choice and use a safe and appropriate method. Dear partners, encourage your wives to use the contraceptive methods of their choice for their health and family well-being. Dear women of childbearing age, use a modern contraceptive method of your choice to avoid resorting to unsafe abortions",
@@ -1101,7 +1133,11 @@
       "Swahili": "Mwanamke aliyezaa"
     },
     "problem_behavior": "",
-    "promoted_behavior": "The mother complies with the vaccination schedule.",
+    "promoted_behavior": (
+      "English": "The mother complies with the vaccination schedule.",
+      "French": "L’accouchée respecte le calendrier vaccinal.",
+      "Swahili": "Anaheshimu ratiba ya chanjo."
+      },
     "action": "",
     "message": {
       "English": "1. We should vaccinate our children at birth, 1.5 months, 2.5 months, 3.5 months and 9 months to protect them against tuberculosis, polio, diphtheria, pertussis, hepatitis B, meningitis, pneumonia, yellow fever and measles.",
@@ -1123,7 +1159,11 @@
       "Swahili": "Mwanamke aliyezaa"
     },
     "problem_behavior": "",
-    "promoted_behavior": "The mother complies with the vaccination schedule.",
+    "promoted_behavior": (
+      "English": "The mother complies with the vaccination schedule.",
+      "French": "L’accouchée respecte le calendrier vaccinal.",
+      "Swahili": "Anaheshimu ratiba ya chanjo."
+      },
     "action": "",
     "message": {
       "English": "2. Have your child vaccinated 5 times before his or her first birthday to protect against vaccine-preventable diseases.",
@@ -1145,7 +1185,11 @@
       "Swahili": "Mwanamke atumia njia ya kuzuia mimba"
     },
     "problem_behavior": "Discontinuation of the method due to side effects or rumors",
-    "promoted_behavior": " Women with side effects consult a qualified provider before discontinuing the method",
+    "promoted_behavior": {
+      "English": " Women with side effects consult a qualified provider before discontinuing the method.",
+      "French": "Femmes avec les effets secondaires consulte un prestataire qualifié avant l'arrêt de la méthode.",
+      "Swahili": "Wanawake walio na matatizo wanatafuta mashauriano kwa mtaalamu wa afya kabla ya kuacha njia ya kuzuia mimba."
+    },
     "action": "Timely consultation at the health center in case of side effects that bother the woman",
     "message": {
       "English": "WARNING: in case of side effects that bother you, go to the health center and immediately consult a trained provider to benefit from the appropriate care.",
@@ -1166,8 +1210,12 @@
       "French": "Femmes enceinte",
       "Swahili": "Mwanamke mjamzito"
     },
-    "problem_behavior": "The pregnant woman is not adequately informed at the PNC about the importance of using contraceptive methods after delivery.",
-    "promoted_behavior": "The pregnant woman is adequately informed at the prenatal consultation (PNC) about the importance of using contraceptive methods after delivery.",
+    "problem_behavior": "The pregnant woman is not adequately informed at the PNC about the importance of using contraceptive methods after delivery."
+    "promoted_behavior": {
+      "English": "The pregnant woman is adequately informed at the prenatal consultation (PNC) about the importance of using contraceptive methods after delivery.",
+       "French": "La femme enceinte est suffisamment informée à la consultation pré-natale (CPN) sur l'importance de l'utilisation des méthodes contraceptives après l'accouchement.",
+      "Swahili": "Mwanamke mjamzito anafahamishwa vya kutosha na mashauriano ya kabla ya kuzaa (CPN) kuhusu umuhimu wa kutumia njia za uzazi wa mpango baada ya kuzaa."
+    },
     "action": "Informing pregnant women about the use of contraceptive methods",
     "message": {
       "English": "Dear pregnant women, go to prenatal consultations. In addition to monitoring your pregnancy, you will get information and counseling on contraceptive methods to use immediately after delivery. This will allow you to avoid the occurrence of an unwanted pregnancy, ensure good health and family well-being. Warning: Ask the provider about contraceptive options to be used immediately after delivery to avoid early pregnancy and ensure your health, your baby's health, and your family's well-being.",
@@ -1189,7 +1237,11 @@
       "Swahili": "Mwanamke mjamzito"
     },
     "problem_behavior": "",
-    "promoted_behavior": "The pregnant woman is adequately informed at the prenatal consultation (PNC) about the importance of using contraceptive methods after delivery.",
+    "promoted_behavior": {
+      "English": "The pregnant woman is adequately informed at the prenatal consultation (PNC) about the importance of using contraceptive methods after delivery.",
+       "French": "La femme enceinte est suffisamment informée à la consultation pré-natale (CPN) sur l'importance de l'utilisation des méthodes contraceptives après l'accouchement.",
+      "Swahili": "Mwanamke mjamzito anafahamishwa vya kutosha na mashauriano ya kabla ya kuzaa (CPN) kuhusu umuhimu wa kutumia njia za uzazi wa mpango baada ya kuzaa."
+    },
     "action": "",
     "message": {
       "English": "Dear pregnant women, using a safe and effective contraceptive method after delivery helps you ensure the development and health of the mother-child couple and the well-being of the entire family.",
@@ -1211,7 +1263,11 @@
       "Swahili": "Mtoa huduma kwa wanawake wakati wa kuzaa katika phase ya latence"
     },
     "problem_behavior": "The healthcare provider does not check with the woman in labor for information on the choice of contraception",
-    "promoted_behavior": "Healthcare provider checks with the woman in labor for information on contraceptive choice",
+    "promoted_behavior": {
+      "English": "Healthcare provider checks with the woman in labor for information on contraceptive choice",
+      "French": "Le prestataire vérifie l'information sur le choix préalable de la contraception auprès de la femme en travail.",
+      "Swahili": "Mtoa huduma anauliza habari kuhusu uchaguzi wa uzazi wa mpango wa mwanamke wakati wa kuzaa."
+    },
     "action": "Systematic checking of information on prior contraceptive choice with the woman in labor",
     "message": {
       "English": "WARNING: Always check the information on the choice of contraception with the woman in labor so that she can benefit from the chosen method at the prenatal consultation (PNC) if necessary.",
@@ -1233,7 +1289,11 @@
       "Swahili": "Mtoa huduma kwa wanawake wakati wa kuzaa katika phase ya latence"
     },
     "problem_behavior": "Healthcare providers do not give contraceptive counseling to women in labor",
-    "promoted_behavior": "Healthcare provider gives contraceptive counseling to the woman in labor",
+    "promoted_behavior": {
+      "English": "Healthcare provider gives contraceptive counseling to the woman in labor.",
+      "French": "Les prestataires fait le counseling sur la contraception auprès de la femme en travail.",
+      "Swahili": "Watoa huduma wanapana ushauri wa uzazi wa mpango kwa wanawake wakati wa kuzaa."
+    },
     "action": "Systematic initiation of contraceptive counseling for women in labor who have not yet chosen a contraceptive method",
     "message": {
       "English": "Dear healthcare providers, initiate contraceptive counseling with the woman in labor so that she can benefit from a method of her choice for her health, her baby's health and the family's well-being",
@@ -1255,7 +1315,12 @@
       "Swahili": "Survivant wa unyanyasaji ya kijinsia (SGBV)"
     },
     "problem_behavior": "Do not denounce the damage suffered",
-    "promoted_behavior": "Report any case of violence",
+    "promoted_behavior": {
+      "English": "Report any case of violence",
+      "French": "Dénoncer tout cas de violence.",
+      "Swahili": "Ripoti kesi yoyote ya ubakaji.
+      "
+    },
     "action": "Reporting all cases of rape",
     "message": {
       "English": "I, a survivor of Sexual and Gender-Based Violence (SGBV), denounce the abuses I suffered, demand proper care and prosecution of the perpetrator.",
@@ -1277,7 +1342,11 @@
       "Swahili": " Jamii"
     },
     "problem_behavior": "Stigmatizes the victim of sexual violence",
-    "promoted_behavior": " Stop stigmatizing the victim of sexual violence",
+    "promoted_behavior": {
+      "English": "Stop stigmatizing the victim of sexual violence.",
+      "French": "Arrête de stigmatiser la victime de violence sexuelle.",
+      "Swahili": "Kukomesha ubaguzi ya waathirika wa unyanyasaji wa kijinsia."
+    },
     "action": "Promotion of care services for survivors of SGBV victims",
     "message": {
       "English": "Dear community members, DO NOT stigmatize survivors of Sexual and Gender-Based Violence (SGBV). Encourage them to report and assist them in getting better care.",
@@ -1299,7 +1368,11 @@
       "Swahili": "Mtoa huduma"
     },
     "problem_behavior": "Fails to provide timely and appropriate care to the survivor of SGBV.",
-    "promoted_behavior": " Provides timely and appropriate care to the survivor of Sexual and Gender-Based Violence (SGBV).",
+    "promoted_behavior": {
+      "English": "Provides timely and appropriate care to the survivor of Sexual and Gender-Based Violence (SGBV).",
+      "French": "Administre les soins appropriés à temps au survivant des violences sexuelles basées sur le genre.",
+      "Swahili": "Anatoa huduma sahihi kwa wakati kwa mwathirika wa unyanyasaji ya kijinsia (SGBV)."
+    },
     "action": "Holistic care for survivors of SGBV.",
     "message": {
       "English": "Dear healthcare providers, listen to survivors of Sexual and Gender-Based Violence (SGBV) and provide them with adequate care to facilitate their social reintegration.",
@@ -1321,7 +1394,11 @@
       "Swahili": "Mtoa huduma"
     },
     "problem_behavior": "Harmful and inappropriate practices (non-use of partograms during labor monitoring, Christeller maneuver, ...)",
-    "promoted_behavior": " Applies recommended practices (use of partograms during labor monitoring, ...)",
+    "promoted_behavior": {
+      "English": "Applies recommended practices (use of partograms during labor monitoring, etc.)",
+      "French": "Applique les pratiques recommandées (utilisation des partogrammes pendant la surveillance du travail d'accouchement, etc.)",
+      "Swahili": "Tumia mazoea yaliyopendekezwa (matumizi ya partograms wakati wa ufuatiliaji wa kuzaa, etc.)"
+    },
     "action": "Application of recommended practices to save women's lives (use of partograms during labor monitoring, ...)",
     "message": {
       "English": "Dear healthcare providers, please follow recommended practices in the management of women in labor. Use partograms during labor monitoring to avoid complications and death of mother and baby.",
@@ -1343,7 +1420,11 @@
       "Swahili": "Mgonjwa wa fistule"
     },
     "problem_behavior": "Fistula patients hide and are ashamed",
-    "promoted_behavior": "Do not hide, go to the health facility for appropriate care.",
+    "promoted_behavior": {
+      "English": "Do not hide, go to the health facility for appropriate care.",
+      "French": "Ne pas se cacher, se rendre dans les formation sanitaire (FOSA) pour la prise en charge appropriée.",
+      "Swahili": "Usijifiche, nenda kwenye kituo cha afya kwa ajili ya huduma inayofaa."
+    },
     "action": "Consultation in health facilities to benefit from fistula repair",
     "message": {
       "English": "Dear women with urogenital fistulas, come out of hiding to receive proper care and improve your health.",
@@ -1362,10 +1443,14 @@
     "target_audience": { 
       "English": "Community",
       "French": "Communauté",
-      "Swahili": " Jamii"
+      "Swahili": "Jamii"
     },
     "problem_behavior": "Stigmatization of fistula patients",
-    "promoted_behavior": "Stop stigmatizing urogenital fistula patients.",
+    "promoted_behavior": {
+      "English": "Stop stigmatizing urogenital fistula patients.",
+      "French": "Arrêter de stigmatiser les porteuses des fistules urogénitales.",
+      "Swahili": "Kukomesha ubaguzi wa wanawake wenye fistule urogénitale."
+    },
     "action": "Assisting patients with urogenital fistulas in the repair process",
     "message": {
       "English": "Dear community members, DO NOT stigmatize patients with urogenital fistulas, but encourage them to seek medical attention and provide timely support for the repair process so that they can regain their well-being.",
