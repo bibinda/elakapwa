@@ -1467,13 +1467,13 @@
     "general_audience": "",
     "target_audience": { 
       "English": "Pregnant women",
-      "French": "Femmes enceinte",
+      "French": "Femmes enceintes",
       "Swahili": "Mwanamke mjamzito"
     },
     "problem_behavior": "Some pregnant women do not comply with the 4 PNC visits to receive counseling on the benefits of breastfeeding immediately after delivery or do not observe breastfeeding within one hour after delivery.",
     "promoted_behavior": {
       "English": "Pregnant women comply with the prenatal consultation (PNC) to receive counseling on the benefits of breastfeeding their newborns immediately after delivery.",
-      "French": "Les femmes enceintes respectent  la consultation pré-natale (CPN)  pour recevoir  les conseils sur les avantages de mettre   le nouveau-né au sein  immédiatement après l'accouchement.",
+      "French": "Les femmes enceintes respectent  la consultation pré-natale(CPN) pour recevoir  les conseils sur les avantages de mettre le nouveau-né au sein immédiatement après l'accouchement.",
       "Swahili": "Wanawake wajawazito wana heshimu ziara za Mashauriano ya kabla ya kuzaa (CPN) kupata ushauri juu ya faida za kumnyonyesha mtoto baada ya kuzaa."
     },
     "action": "",
@@ -1493,13 +1493,13 @@
     "general_audience": "Breastfeeding women",
     "target_audience": { 
       "English": "Breastfeeding women",
-      "French": "Femme allaitantes",
+      "French": "Femmes allaitantes",
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Some women are not provided with information on breastfeeding immediately after delivery.",
     "promoted_behavior": {
       "English": "Women receive information about breastfeeding their newborns immediately after delivery.",
-      "French": "Les femmes bénéficient les informations sur la mise au sein des nouveau-nés immédiatement après l'accouchement.",
+      "French": "Les femmes bénéficient des informations sur la mise au sein des nouveau-nés immédiatement après l'accouchement.",
       "Swahili": "Wanawake wana faidika na taarifa juu ya kunyonyesha watoto mara tu baada ya kuzaa."
     },
     "action": "",
@@ -1519,19 +1519,19 @@
     "general_audience": "Breastfeeding women",
     "target_audience": { 
       "English": "Breastfeeding women",
-      "French": "Femme allaitantes",
+      "French": "Femmes allaitantes",
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Some women are not provided with information on breastfeeding immediately after delivery.",
     "promoted_behavior": {
       "English": "Women receive information about breastfeeding their newborns immediately after delivery.",
-      "French": "Les femmes bénéficient les informations sur la mise au sein des nouveau-nés immédiatement après l'accouchement.",
+      "French": "Les femmes bénéficient des informations sur la mise au sein des nouveau-nés immédiatement après l'accouchement.",
       "Swahili": "Wanawake wana faidika na taarifa juu ya kunyonyesha watoto mara tu baada ya kuzaa."
     },
     "action": "",
     "message": {
       "English": "Mother, breastfeed your newborn immediately after birth to quickly stimulate the production of breast milk, this first yellowish milk (colostrum), gives a natural protection to the newborn against diseases. Don't throw it away, give it to your newborn quickly.",
-      "French": "Maman, donnez le sein à votre nouveau-né dès sa naissance pour stimuler rapidement la production du lait maternel, ce premier lait jaunâtre (colostrum), donne une protection naturelle au nouveau-né contre les maladies. Ne le jette pas, donne-le vite à ton nouveau-né.",
+      "French": "Maman, donnez le sein à votre nouveau-né dès sa naissance pour stimuler rapidement la production du lait maternel, ce premier lait jaunâtre (colostrum), donne une protection naturelle au nouveau-né contre les maladies. Ne le jetez pas, donnez-le vite à votre nouveau-né.",
       "Swahili": "Mama mpendwa, nyonyesha mtoto wako tangu kuzaliwa ili kusaidia uzalishaji wa haraka wa maziwa ya matiti (maziba), maziwa haya ya kwanza ya manjano (colostrum), inatoa kinga ya asili kwa mtoto mzawa kutokana na magonjwa. Usiitupe, uipe haraka mtoto wako"
     }
   },
@@ -1545,19 +1545,19 @@
     "general_audience": "",
     "target_audience": { 
       "English": "Breastfeeding women",
-      "French": "Femme allaitantes",
+      "French": "Femmes allaitantes",
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Some women are not provided with information on breastfeeding immediately after delivery.",
     "promoted_behavior": {
       "English": "Women receive information about breastfeeding their newborns immediately after delivery.",
-      "French": "Les femmes bénéficient les informations sur la mise au sein des nouveau-nés immédiatement après l'accouchement.",
+      "French": "Les femmes bénéficient des informations sur la mise au sein des nouveau-nés immédiatement après l'accouchement.",
       "Swahili": "Wanawake wana faidika na taarifa juu ya kunyonyesha watoto mara tu baada ya kuzaa."
     },
     "action": "",
     "message": {
       "English": "Mother, breastfeeding your baby immediately after delivery facilitates the expulsion of the placenta and reduces bleeding.",
-      "French": "Maman, allaitez votre bébé   immédiatement après l’accouchement facilite l‘expulsion du placenta et diminue les saignements.",
+      "French": "Maman, allaiter votre bébé immédiatement après l’accouchement facilite l‘expulsion du placenta et diminue les saignements.",
       "Swahili": "Mama mpendwa, kumnyonyesha mtoto wako mara tu baada ya kuzaa ina wezesha kufukuzwa kwa plasenta na ina maliza kupungukwa damu."
     }
   },
@@ -1577,13 +1577,13 @@
     "problem_behavior": "Some men do not encourage or support their wives to attend PNC appointments for information and counseling on breastfeeding newborns immediately after delivery.",
     "promoted_behavior": {
       "English": "Men encourage and support their wives to attend prenatal consultation (PNC) appointments to receive information and counseling on breastfeeding newborns immediately after delivery.",
-      "French": "Les hommes encouragent et soutiennent leurs femmes de se rendre au rendez-vous de la consultation pré-natale (CPN) pour bénéficier les informations et conseils sur la mise au sein des nourrissons immédiatement après l’accouchement.",
+      "French": "Les hommes encouragent et soutiennent leurs femmes à se rendre au rendez-vous de la consultation pré-natale (CPN) pour bénéficier des informations et des conseils sur la mise au sein des nourrissons immédiatement après l’accouchement.",
       "Swahili": "Wanaume wana himiza na kuwasaidia wake zao kwenda Mashauriano ya kabla ya kuzaa (CPN) kupokea taarifa na ushauri juu ya kunyonyesha watoto mara tu baada ya kuzaa."
     },
     "action": "",
     "message": {
       "English": "Husband/Spouse, encourage and support your wives to attend prenatal consultation (PNC) appointments to get information and counseling on breastfeeding the newborn immediately after delivery for the well-being of the family.",
-      "French": "Mari/Conjoint, encouragez et soutenez vos femmes aux rendez-vous de la consultation pré-natale (CPN) pour bénéficier des informations et des conseils sur la mise au sein du nouveau-né immédiatement après l’accouchement pour le bien-être de la famille.",
+      "French": "Mari/Conjoint, encouragez et soutenez vos femmes aux rendez-vous de la consultation pré-natale(CPN) pour bénéficier des informations et des conseils sur la mise au sein du nouveau-né immédiatement après l’accouchement pour le bien-être de la famille.",
       "Swahili": "Mume/Mpenzi Mpendwa, muhimize na kuunga mkono mke wako katika mikutano ya Mashauriano ya kabla ya kuzaa (CPN) kupokea taarifa na ushauri juu ya kumnyonyesha mtoto mara tu baada ya kuzaa kwa ajili ya ustawi wa familia"
     }
   },
@@ -1603,13 +1603,13 @@
     "problem_behavior": "Some healthcare providers do not assist or encourage breastfeeding women to breastfeed their newborns immediately after delivery.",
     "promoted_behavior": {
       "English": "Healthcare providers assist and encourage women to breastfeed their newborns within one hour after delivery",
-      "French": "Les prestataires aident et encouragent   les femmes à mettre les nouveaux nés au sein dans l'heure qui suit l'accouchement.",
+      "French": "Les prestataires aident et encouragent les femmes à mettre les nouveau-nés au sein dans l'heure qui suit l'accouchement.",
       "Swahili": "Watoa huduma wana saidia na kuhimiza wanawake kunyonyesha watoto wachanga ndani ya saa moja ya kuzaa."
     },
     "action": "",
     "message": {
       "English": "Healthcare providers, make sure you support and encourage women to breastfeed their newborns immediately after delivery for the sake of our community.",
-      "French": "Prestataires, prenez soin d’aider et d’encourager les femmes à mettre au sein le nouveau-né immédiatement après   l'accouchement pour le bien être de notre communauté.",
+      "French": "Prestataires, prenez soin d’aider et d’encourager les femmes à mettre au sein le nouveau-né immédiatement après l'accouchement pour le bien être de notre communauté.",
       "Swahili": "Wapendwa watoa huduma, tafadhali wasaidie na kuwahimiza wanawake kumnyonyesha mtoto mara tu baada ya kuzaa kwa ajili ya ustawi wa jamii yetu."
     }
   },
@@ -1649,7 +1649,7 @@
     "general_audience": "",
     "target_audience": { 
       "English": "Breastfeeding women",
-      "French": "Femme allaitantes",
+      "French": "Femmes allaitantes",
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Women do not respect exclusive and regular breastfeeding of their babies.",
@@ -1675,7 +1675,7 @@
     "general_audience": "",
     "target_audience": { 
       "English": "Breastfeeding women",
-      "French": "Femme allaitantes",
+      "French": "Femmes allaitantes",
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Women do not respect exclusive and regular breastfeeding of their babies.",
@@ -1687,7 +1687,7 @@
     "action": "",
     "message": {
       "English": "Mother, exclusively breastfeed your baby for the first 6 months to protect him/her from diseases such as diarrhea, respiratory infections and also to prevent unwanted or early pregnancies, risk of ovarian and breast cancer.",
-      "French": "Maman, allaitez exclusivement votre bébé pendant les 6 premiers mois pour le protéger contre les maladies telles que la diarrhée, les infections respiratoires et aussi vous prévenir   des grossesses non désirées ou précoces, de risque de cancer des ovaires et des seins.",
+      "French": "Maman, allaitez exclusivement votre bébé pendant les 6 premiers mois pour le protéger contre les maladies telles que la diarrhée, les infections respiratoires et aussi prévenir les grossesses non désirées ou précoces, le risque de cancer des ovaires et des seins.",
       "Swahili": "Mama mpendwa, mtoto wako anahitaji unyonyeshaji wa kipekee kwa miezi 6 ya kwanza ili kumkinga na magonjwa kama vile kuharisha, maambukizi ya kupumua pamoja na kuzuia mimba zisizohitajika au mapema, hatari ya cancer ya ovari na matiti."
     }
   },
@@ -1701,7 +1701,7 @@
     "general_audience": "",
     "target_audience": { 
       "English": "Breastfeeding women",
-      "French": "Femme allaitantes",
+      "French": "Femmes allaitantes",
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Women do not respect exclusive and regular breastfeeding of their babies.",
@@ -1713,7 +1713,7 @@
     "action": "",
     "message": {
       "English": "Mother, Be careful!  If your baby is less than 6 months old, continue with exclusive breastfeeding and increase the frequency of breastfeeding during the illness and two weeks after the illness to keep the child healthy.",
-      "French": "Maman, Attention!  En cas de maladie du bébé de moins de 6 mois, continuez avec la pratique d'allaitement exclusif en augmentant la fréquence de tété pendant la maladie et deux semaines après la maladie pour garder l'enfant en bonne santé.",
+      "French": "Maman, Attention! En cas de maladie d’un bébé de moins de 6 mois, continuez avec la pratique d'allaitement exclusif en augmentant la fréquence de tété pendant la maladie et deux semaines après la maladie pour garder l'enfant en bonne santé.",
       "Swahili": "Mama mpendwa, Kuwa mwangalifu!  Ikiwa ugonjwa wa mtoto chini ya miezi 6, endelea na mazoezi ya unyonyeshaji wa kipekee na kuongeza idadi ya nyakati za unyonyeshaji wakati wa ugonjwa na wiki mbili baada ya ugonjwa ili kuhakikisha afya njema kwa mtoto."
     }
   },
@@ -1727,7 +1727,7 @@
     "general_audience": "",
     "target_audience": { 
       "English": "Breastfeeding women",
-      "French": "Femme allaitantes",
+      "French": "Femmes allaitantes",
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Women do not respect exclusive and regular breastfeeding of their babies.",
@@ -1739,7 +1739,7 @@
     "action": "",
     "message": {
       "English": "Working mother, to keep your baby healthy while you are away from home, continue with exclusive breastfeeding practice by pouring breast milk into clean and closed cups knowing that breast milk keeps for 8 to 10 hours in a cool place (room temperature).",
-      "French": "Maman travailleuse, pour garder votre bébé en bonne santé pendant votre absence à la maison, continuer avec la pratique d'allaitement exclusif en exprimant le lait maternel dans les tasses bien propres et fermées sachant que le lait maternel se conserve pendant 8h à 10h dans un endroit frais (température ambiante).",
+      "French": "Maman travailleuse, pour garder votre bébé en bonne santé pendant votre absence à la maison, continuez avec la pratique d'allaitement exclusif en exprimant le lait maternel dans des tasses bien propres et fermées sachant que le lait maternel se conserve pendant 8h à 10h dans un endroit frais (température ambiante).",
       "Swahili": "Mpendwa mama anayefanya kazi, kumweka mtoto wako afya wakati uko mbali na nyumbani, endelea na mazoezi ya unyonyeshaji wa kipekee kwa kuweka maziwa ya mama katika vikombe safi na vilivyofungwa kujua kwamba maziwa ya mama inaeza wekwa kwa masaa 8 hadi 10 mahali pa baridi (joto la chumba)."
     }
   },
@@ -1791,7 +1791,7 @@
     "action": "",
     "message": {
       "English": "Father, encourage and urge your wives to exclusively breastfeed babies from 0 to 6 months to reduce the risk of obesity and diabetes in adulthood.",
-      "French": "Papa, encouragez et incitez vos femmes à ne donner que le lait maternel aux bébés de 0 à 6 mois enfin de réduire le risque de l'obésité et du diabète à l'âge adulte.",
+      "French": "Papa, encouragez et incitez vos femmes à ne donner que le lait maternel aux bébés de 0 à 6 mois afin de réduire le risque d'obésité et de diabète à l'âge adulte.",
       "Swahili": "Baba Mpendwa, mhimize mke wako wako kuwapa watoto maziwa ya mama kutoka miezi 0 hadi 6 ili kupunguza hatari ya obésité na ugonjwa wa kisukari katika utu uzima."
     }
   },
@@ -1817,7 +1817,7 @@
     "action": "",
     "message": {
       "English": "Healthcare providers, encouraging and urging women to breastfeed babies on a regular basis, 10 to 12 times a day and night and on demand by the baby is your responsibility for the healthy growth of the baby and the well-being of the mother.",
-      "French": "Prestataires, encouragez et incitez les femmes à allaiter régulièrement les bébés, 10 à 12 fois le jour et la nuit et sur demande du bébé est de votre responsabilité pour la bonne croissance du bébé et le bien-être de la maman.",
+      "French": "Prestataires, encourager et inciter les femmes à allaiter régulièrement les bébés 10 à 12 fois le jour, la nuit et sur demande du bébé est de votre responsabilité pour la bonne croissance du bébé et le bien-être de la maman.",
       "Swahili": "Watoa huduma wapendwa, wahimize wanawake kunyonyesha watoto mara kwa mara, mara 10 hadi 12 mchana na usiku na kwa ombi la mtoto mukiwajulisha kwamba ni kazi yao kwa ukuaji mzuri wa mtoto na ustawi wa mama."
     }
   },
@@ -1843,7 +1843,7 @@
     "action": "",
     "message": {
       "English": "Community members, encourage breastfeeding women to exclusively breastfeed their babies with breast milk for the first 6 months and to wait until the babies are tired to ensure their healthy growth.",
-      "French": "Membres de la communauté, incitez les femmes allaitantes à allaiter exclusivement leurs bébés avec le lait maternel les 6 premiers et à prendre du temps jusqu’à ce que les bébés soient fatigués pour garantir leur bonne croissance.",
+      "French": "Membres de la communauté, incitez les femmes allaitantes à allaiter exclusivement leur bébé pendant les 6 premiers mois et à allaiter jusqu’à ce que le bébé soit fatigué pour garantir sa bonne croissance.",
       "Swahili": "Wanajamii wapendwa, wahimize wanawake wanaonyonyesha kuwanyonyesha watoto wao maziwa ya mama pekee kwa miezi 6 ya kwanza na kuchukua muda hadi watoto wanapochoka ili kuhakikisha ukuaji wao sahihi."
     }
   },
@@ -1857,7 +1857,7 @@
     "general_audience": "",
     "target_audience": { 
       "English": "Breastfeeding women",
-      "French": "Femme allaitantes",
+      "French": "Femmes allaitantes",
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Women do not breastfeed children up to 2 years and beyond.",
@@ -1947,7 +1947,7 @@
     "action": "",
     "message": {
       "English": "Community members, encourage women to breastfeed their children until they are 2 years and older to prevent illness and ensure their healthy growth.",
-      "French": "Membres de la communauté, encouragez les femmes à allaiter les enfants jusqu'à 2 ans et plus pour prévenir des maladies et assurer leur bonne croissance.",
+      "French": "Membres de la communauté, encouragez les femmes à allaiter les enfants jusqu'à 2 ans et plus pour prévenir les maladies et assurer leur bonne croissance.",
       "Swahili": "Wanajamii wapendwa, wahimize wanawake kuwanyonyesha watoto hadi miaka 2 na zaidi ili kuzuia magonjwa na kuhakikisha ukuaji wao sahihi."
     }
   },
@@ -1961,7 +1961,7 @@
     "general_audience": "",
     "target_audience": { 
       "English": "Breastfeeding women",
-      "French": "Femme allaitantes",
+      "French": "Femmes allaitantes",
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Breastfeeding women do not respect the number and variety of meals for children from 6 months of age.",
@@ -1987,7 +1987,7 @@
     "general_audience": "",
     "target_audience": { 
       "English": "Breastfeeding women",
-      "French": "Femme allaitantes",
+      "French": "Femmes allaitantes",
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Breastfeeding women do not respect the number and variety of meals for children from 6 months of age.",
@@ -1999,7 +1999,7 @@
     "action": "",
     "message": {
       "English": "Mother, if your baby is sick from 6 months of age, continue to breastfeed and increase the number of meals until two weeks after the illness to keep him healthy.",
-      "French": "Maman, en cas de maladie du bébé à partir de 6 mois, continuez à l’allaiter à l’alimenter et augmenter le nombre de ses repas jusqu'à deux semaines après la maladie pour le garder en bonne santé.",
+      "French": "Mamans, en cas de maladie du bébé à partir de 6 mois, continuez à l’allaiter, à l’alimenter et à augmenter le nombre de ses repas jusqu'à deux semaines après la maladie pour le garder en bonne santé.",
       "Swahili": "Mama mpendwa, ikiwa ni ugonjwa wa mtoto kutoka miezi 6, endelea kumnyonyesha kumlisha na kuongeza idadi ya chakula chake hadi wiki mbili baada ya ugonjwa kumweka afya."
     }
   },
