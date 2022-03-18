@@ -12,7 +12,7 @@
     "target_audience": { 
       "English": "Pregnant women",
       "French": "Femmes enceintes",
-      "Swahili": "Mwanamke mjamzito"
+      "Swahili": "Wanawake wajawazito"
     },
     "problem_behavior": "Pregnant women do not comply with the minimum number of PNCs (four visits)",
     "promoted_behavior": {
@@ -24,7 +24,7 @@
     "message": {
       "English": "Pregnant women; visit prenatal consultations (PNC) at least four times as recommended to benefit from preventive and curative care, advice that can help ensure your health and that of your unborn child",
       "French": "Femmes enceintes; consultez au moins quatre fois les services de consultation pré-natale (CPN) tel que recommandé pour bénéficier des soins préventifs et curatifs, des conseils pouvant contribuer à garantir votre santé et celle de votre futur bébé.",
-      "Swahili": "Wapendwa wanawake wajawazito ; ni lazima kuenda kwenye Mashauriano ya kabla ya kuzaa (CPN) mara 4 kufaidika na matunzo ya kukinga, mashauri ambayo inaweza kusaidia kuhakikisha afya yako na ya mtoto wako."
+      "Swahili": "Wanawake wajawazito wapendwa; ni lazima kuenda kwenye Mashauriano ya kabla ya kuzaa (CPN) mara 4 kufaidika na matunzo ya kukinga, mashauri ambayo inaweza wasaidia kuhakikisha afya yenu na ya watoto wenu."
     }
   },
   {
@@ -38,7 +38,7 @@
     "target_audience": { 
       "English": "Pregnant women",
       "French": "Femmes enceintes",
-      "Swahili": "Mwanamke mjamzito"
+      "Swahili": "Wanawake wajawazito"
     },
     "problem_behavior": "Pregnant women do not utilize preventive measures against malaria (IPT/SP and sleeping under the LLIN)",
     "promoted_behavior": {
@@ -50,7 +50,7 @@
     "message": {
       "English": "Pregnant women, sleep every night under the Long-lasting Insecticidal Net (LLIN) to avoid malaria which is harmful to your health and that of your baby",
       "French": "Femmes enceintes, dormez toutes les nuits sous la Moustiquaire Imprégnée d’Insecticide à Longue Durée d’Action (MILD) pour éviter la malaria nuisible pour votre santé et celle de votre bébé.",
-      "Swahili": "Wapendwa wanawake wajawazito, lala kila usiku ndani ya Chandarua chenye Dawa ya Kudumu ya Muda Mrefu (MILD) kuepuka malaria ambayo ni hatari kwa afya yako na ya mtoto wako."
+      "Swahili": "Wanawake wajawazito wapendwa, laleni kila usiku ndani ya Chandarua chenye Dawa ya Kudumu Muda Mrefu (MILD) kuepuka malaria ambayo ni hatari kwa afya yenu na ya watoto wenu."
     }
   },
   {
@@ -64,19 +64,19 @@
     "target_audience": { 
       "English": "Pregnant women",
       "French": "Femmes enceintes",
-      "Swahili": "Mwanamke mjamzito"
+      "Swahili": "Wanawake wajawazito"
     },
     "problem_behavior": "Pregnant women do not have a birth plan",
     "promoted_behavior": {
       "English": "Pregnant women develop a birth plan",
-      "French": "Les femmes enceintes élaborent le plan d'accouchent",
-      "Swahili": "Wanawake wajawazito wanafanya uzazi wa mpango"
+      "French": "Les femmes enceintes élaborent le plan d'accouchement",
+      "Swahili": "Wanawake wajawazito wanafanya  mpango wa ku zaa"
     },
     "action": "Development of a birth plan",
     "message": {
       "English": "Pregnant women, discuss your birth plan with your healthcare providers during prenatal consultation (PNC) so that you can receive quality care during your delivery to safeguard your health, your life and the life of your unborn child.",
       "French": "Femmes enceintes discutez du plan d’accouchement avec les prestataires lors de la consultation pré-natale (CPN) afin de recevoir des soins de qualité lors de l’accouchement pour préserver votre santé et garantir votre survie ainsi que celle de votre futur bébé.",
-      "Swahili": "Wanawake wajawazito wapendwa, ongeya uzazi wa mpango na watoa huduma (waganga) katika Mashauriano ya kabla ya kuzaa (CPN) ili upate huduma bora wakati wa kuzaa, kulinda na kuhakikisha maisha yako na afya ya mtoto wako."
+      "Swahili": "Wanawake wajawazito wapendwa, ongeleyeni mpango wa uzazi na watoa huduma (waganga) katika Mashauriano ya kabla ya kuzaa (CPN) ili mupate huduma bora wakati wa kuzaa, kulinda na kuhakikisha maisha yenu na afya ya watoto wenu."
     }
   },
   {
@@ -90,7 +90,7 @@
     "target_audience": { 
       "English": "Pregnant women",
       "French": "Femmes enceintes",
-      "Swahili": "Mwanamke mjamzito"
+      "Swahili": "Wanawake wajawazito"
     },
     "problem_behavior": "Pregnant women do not seek help from the HC in time when faced with danger signs",
     "promoted_behavior": {
@@ -102,7 +102,7 @@
     "message": {
       "English": "Pregnant women, set up your birth plan according to the healthcare providers' guidelines to guarantee your health and that of your unborn child.",
       "French": "Femmes enceintes, mettez en place votre plan d'accouchement suivant les orientations des prestataires pour garantir votre santé et celle de votre futur bébé.",
-      "Swahili": "Wapendwa wanawake wajawazito, anzisha uzazi wa mpango kulingana na miongozo wa watoa huduma (waganga) ilu kuhakikisha afya yako na ya mtoto wako."
+      "Swahili": "Wanawake wajawazito wapendwa, anzisheni  mpango wa uzazi kulingana na miongozo ya watoa huduma (waganga) ili kuhakikisha afya yenu na ya watoto wenu."
     }
   },
   {
@@ -116,7 +116,7 @@
     "target_audience": { 
       "English": "Pregnant women",
       "French": "Femmes enceintes",
-      "Swahili": "Mwanamke mjamzito"
+      "Swahili": "Wanawake wajawazito"
     },
     "problem_behavior": "Pregnant women delay going to the health center in case of danger signs or childbirth",
     "promoted_behavior": {
@@ -127,8 +127,8 @@
     "action": "Non-use of indigenous products to speed up labor and delivery; Follow-up of…",
     "message": {
       "English": "Pregnant woman, when you notice any of the following signs: bleeding, pain in the lower abdomen, loss of water, high fever, go immediately to the health center to receive appropriate care.",
-      "French": "Femme enceinte, lorsque vous constatez l’un des signes suivants: saignement, douleurs au bas ventre, perte des eaux, forte fièvre, rendez-vous immédiatement au centre de santé pour recevoir des soins appropriés.",
-      "Swahili": "Mwanamke mjamzito mpendwa, unapoona dalili zozote zifuatazo: kutokwa na damu, maumivu chini ya tumbo, kupoteza maji, homa kali, nenda mara moja kwenye kituo cha afya ili upate huduma bora."
+      "French": "Femmes enceintes, lorsque vous constatez l’un des signes suivants: saignement, douleurs au bas ventre, perte des eaux, forte fièvre, rendez-vous immédiatement au centre de santé pour recevoir des soins appropriés.",
+      "Swahili": "Wanawake wajawazito wa pendwa, munapo ona dalili zozote zifuatazo: kutokwa na damu, maumivu chini ya tumbo, kupoteza maji, homa kali, nendeni mara moja kwenye kituo cha afya ili mupate huduma bora."
     }
   },
   {
@@ -142,7 +142,7 @@
     "target_audience": { 
       "English": "Pregnant women",
       "French": "Femmes enceintes",
-      "Swahili": "Mwanamke mjamzito"
+      "Swahili": "Wanawake wajawazito"
     },
     "problem_behavior": "Pregnant women use certain indigenous products to speed up labor and delivery",
     "promoted_behavior": {
@@ -154,7 +154,7 @@
     "message": {
       "English": "Pregnant women, go give birth in a health facility to benefit from assisted childbirth and ensure quality care for yourself and your baby.",
       "French": "Femmes enceintes, allez accoucher dans la formation sanitaire pour bénéficier de l’accouchement assisté et vous assurer de recevoir des soins de qualité et de ceux de votre bébé.",
-      "Swahili": "Mwanamke mjamzito mpendwa, nenda kuzaa katika kituo cha afya ili wewe na mtoto wako mupate huduma bora."
+      "Swahili": "Wanawake wajawazito wapendwa, nendeni kuzaa katika kituo cha afya ili nyinyi na wa toto wenu ili mupate huduma bora"
     }
   },
   {
@@ -180,7 +180,7 @@
     "message": {
       "English": "Husband/spouse, go with your pregnant wives to the nearest health center, in order to ensure the harmony of the couple, the blossoming of the woman and a healthy development of the pregnancy",
       "French": "Mari/conjoint, accompagnez vos femmes enceintes au centre de santé le plus proche, en vue d’assurer l’harmonie du couple, l’épanouissement de la femme et une bonne évolution de la grossesse.",
-      "Swahili": "Mpendwa mume/mpenzi, ongozana na mke wako mjamzito kwenye kituo cha afya cha karibu, ili kuhakikisha maelewano ya wanandoa, maendeleo ya mwanamke na maendeleo mazuri ya ujauzito."
+      "Swahili": "Mume mpendwa/mpenzi, ongozana na mke wako mjamzito kwenye kituo cha afya cha karibu, ili kuhakikisha maelewano ya wanandoa, maendeleo ya mwanamke na maendeleo mazuri ya ujauzito."
     }
   },
   {
@@ -303,14 +303,14 @@
     "problem_behavior": "Disregards pregnant women at the PNC.",
     "promoted_behavior": {
       "English": "Paying attention to the pregnant woman at prenatal consultations (PNC).",
-      "French": "Accordez de l'attention à la femme enceinte à la consultation pré-natale (CPN).",
-      "Swahili": "Anajali mwanamke mjamzito katika mashauriano ya kabla ya kuzaa (CPN)."
+      "French": "Accorder de l'attention à la femme enceinte à la consultation pré-natale (CPN).",
+      "Swahili": "Kujali mwanamke mjamzito katika mashauriano ya kabla ya kuzaa (CPN)."
     },
     "action": "Promoting humanized care",
     "message": {
       "English": "Healthcare providers, give a friendly welcome and humanized care to all pregnant women to encourage them to continue with the use of your services.",
       "French": "Prestataires, réservez l’accueil convivial et les soins humanisés à toute femme enceinte pour l'encourager à continuer l'utilisation des services.",
-      "Swahili": "Watoa huduma wapendwa, karibisha vizuri mwanamke yeyote mjamzito kumtia moyo kuendelea kutumia huduma."
+      "Swahili": "Watoa huduma wapendwa, karibisheni vizuri wanawake  wajawazito wowote,kuwa tia moyo ili wa endelee kutumia huduma."
     }
   },
   {
@@ -330,13 +330,13 @@
     "promoted_behavior": {
       "English": "Make the pregnant woman feel welcome at the prenatal consultation (PNC).",
       "French": "Réservez un bon accueil à la femme enceinte à la consultation pré-natale (CPN).",
-      "Swahili": "Anamkaribisha vizuri mwanamke mjamzito kwa mashauriano ya kabla ya kuzaa (CPN)."
+      "Swahili": "Karibisheni vizuri wanawake wajawazito kwa mashauriano ya kabla ya kuzaa (CPN)."
     },
     "action": "Discussion and implementation of the delivery plan with the pregnant woman at the PNC.",
     "message": {
       "English": "Dear healthcare providers, prioritize pregnant women to ensure appropriate emergency care and avoid complications.",
       "French": "Chers prestataires, faites le tri lors de l'accueil de la femme enceinte pour garantir les soins d'urgence appropriées et lui éviter des complications.",
-      "Swahili": "Watoa huduma wapendwa, tanguliza wanawake wajawazito kuhakikisha huduma sahihi za dharura na kuepuka matatizo."
+      "Swahili": "Watoa huduma wapendwa, tangulizeni wanawake wajawazito kuhakikisha huduma sahihi za dharura na kuepuka matatizo."
     }
   },
   {
@@ -356,13 +356,13 @@
     "promoted_behavior": {
       "English": "Discusses delivery plan with pregnant women at the prenatal consultation (PNC).",
       "French": "Discute du plan d'accouchement avec les femmes enceintes à la consultation pré-natale (CPN).",
-      "Swahili": "Kuna mazungumzo na wanawake wajawazito kuhusu uzazi wa mpango katika mashauriano ya kabla ya kuzaa (CPN)"
+      "Swahili": "Zungumza na wanawake wajawazito kuhusu mpango wa ku ji fungua katika mashauriano ya kabla ya kuzaa (CPN)."
     },
     "action": "",
     "message": {
       "English": "Dear healthcare providers, discuss the birth plan with the pregnant woman during prenatal consultation (PNC) to ensure a safe delivery for the mother and newborn",
       "French": "Chers prestataires, discutez du plan d'accouchement avec la femme enceinte pendant la consultation pré-natale (CPN) pour préparer un accouchement sans danger pour la mère et le nouveau-né.",
-      "Swahili": "Watoa huduma wapendwa, zungumza pamoja na mwanamke mjamzito kuhusu uzazi wa mpango katika CPN kujiandaa kwa uzazi bila matatizo."
+      "Swahili": "Watoa huduma wapendwa, zungumzeni pamoja na wanawake wajawazito kuhusu mpango wa ku ji fungua katika CPN kujiandaa kwa ku zaa bila matatizo."
     }
   },
   {
@@ -376,7 +376,7 @@
     "target_audience": { 
       "English": "Woman in labor",
       "French": "Femme en travail d'accouchement",
-      "Swahili": "Mwanamke iko karibu kuzaa"
+      "Swahili": "Mwanamke anaye karibia ku zaa"
     },
     "problem_behavior": "Delay in coming to the facility at the first sign of labor",
     "promoted_behavior": {
@@ -402,7 +402,7 @@
     "target_audience": { 
       "English": "Woman in labor",
       "French": "Femme en travail d'accouchement",
-      "Swahili": "Mwanamke iko karibu kuzaa"
+      "Swahili": "Mwanamke anaye karibia ku zaa"
     },
     "problem_behavior": "Refusal to go to the facility for delivery.",
     "promoted_behavior": {
@@ -414,7 +414,7 @@
     "message": {
       "English": "Pregnant women, remind the healthcare provider of the contraceptive method you chose during PNC so that you can use it immediately after delivery",
       "French": "Femmes enceintes, rappelez au prestataire la méthode contraceptive que vous avez choisi lors de la CPN pour en bénéficier immédiatement après l'accouchement.",
-      "Swahili": "Wapendwa wanawake wajawazito, kumbusha mtoa huduma njia ya uzazi wa mpango uliyochagua wakati wa CPN kufaidika nayo baada ya kuzaa."
+      "Swahili": "wanawake wajawazito wapendwa ,kumbusheni mtoa huduma njia ya mpango ya uzazi uliyochagua wakati wa CPN kufaidika nayo baada ya kuzaa."
     }
   },
   {
@@ -428,19 +428,19 @@
     "target_audience": { 
       "English": "Woman in labor",
       "French": "Femme en travail d'accouchement",
-      "Swahili": "Mwanamke iko karibu kuzaa"
+      "Swahili": "Mwanamke anaye karibia ku zaa"
     },
     "problem_behavior": "Use of indigenous products to speed up labor;",
     "promoted_behavior": {
       "English": "Do not use indigenous products to speed up labor",
       "French": "N'utilise pas des produits indigènes pour accélérer le travail",
-      "Swahili": "Haitumii dawa za asili kuharakisha kuzaa"
+      "Swahili": "Usi tumie dawa za asili kuharakisha kuzaa"
     },
     "action": "Decision to go to a health facility on time",
     "message": {
       "English": "Pregnant women in labor, avoid the use of inappropriate products not prescribed by the healthcare provider that expose you to delivery complications and death",
       "French": "Femmes enceintes en travail d’accouchement, évitez l'utilisation des produits inadéquats non prescrits par le prestataire qui vous exposent aux complications d’accouchement et au décès.",
-      "Swahili": "Wapendwa wanawake wajawazito, wakati wa kuzaa, epuka matumizi ya dawa bila kupata ushauri kutoka kwa mtaalamu wa afya, dawa hizo zinaweza kusababisha matatizo ya kuzaa na hata kifo."
+      "Swahili": "Wanawake wajawazito wapendwa, wakati wa kuzaa, epukeni matumizi ya dawa bila kupata ushauri kutoka kwa mtaalamu wa afya, dawa hizo zinaweza kusababisha matatizo ya kuzaa na hata kifo."
     }
   },
   {
@@ -454,7 +454,7 @@
     "target_audience": { 
       "English": "Woman in labor",
       "French": "Femme en travail d'accouchement",
-      "Swahili": "Mwanamke iko karibu kuzaa"
+      "Swahili": "Mwanamke anaye karibia ku zaa"
     },
     "problem_behavior": "",
     "promoted_behavior": {
@@ -486,13 +486,13 @@
     "promoted_behavior": {
       "English": "Prompt referral of pregnant women in labor with a complication is done by the healthcare provider.",
       "French": "Le prestataire réfère à temps les femmes enceintes en travail présentant des complications.",
-      "Swahili": "Mtoa huduma anataja wanawake wajawazito na matatizo wakati wa kuzaa kwa wakati."
+      "Swahili": "Mtoa huduma anataja wanawake wajawazito wanao matatizo wakati wa kuzaa kwa wakati."
     },
     "action": "Proper monitoring of a woman in labor",
     "message": {
       "English": "Clinical care providers, take the time to monitor a woman in labor to detect signs of complications in time to ensure proper management.",
       "French": "Prestataires cliniques, prenez le temps d'assurer la surveillance d'une femme en travail afin de détecter à temps les signes de complication et d'assurer une prise en charge adéquate.",
-      "Swahili": "Watoa huduma wapendwa wa kliniki, chukua muda wako kumfuatilia mwanamke aliye katika kazi ya kuzaa ili kugundua dalili za matatizo kwa wakati na uhakikishe utunzaji wa kutosha."
+      "Swahili": "Watoa huduma wapendwa wa kliniki, chukueni muda wenu kumfuatilia mwanamke aliye katika kazi ya kuzaa ili kugundua dalili za matatizo kwa wakati na mu hakikishe utunzaji wa kutosha."
     }
   },
   {
@@ -512,13 +512,13 @@
     "promoted_behavior": {
       "English": "Prompt referral of pregnant women in labor with a complication is done by the healthcare provider.",
       "French": "Le prestataire réfère à temps les femmes enceintes en travail présentant des complications.",
-      "Swahili": "Mtoa huduma anataja wanawake wajawazito na matatizo wakati wa kuzaa kwa wakati."
+      "Swahili": "Mtoa huduma anataja kwa wakati wanawake wajawazito wanao matatizo wakati wa kuzaa."
     },
     "action": "",
     "message": {
       "English": "Clinical care providers, prompt referral in case of complications is important to ensure the survival of the pregnant woman and her unborn child.",
       "French": "Prestataires, il est important de référer la femme enceinte à temps en cas de complication pour garantir sa survie et celle de son futur bébé.",
-      "Swahili": "Watoa huduma wapendwa, ni muhimu kutambua matatizo wakati wa kuzaa kwa wakati ili kuhakikisha maisha ya mwanamke na mtoto wake."
+      "Swahili": "Watoa huduma wapendwa, ni muhimu kutambua kwa wakati matatizo wakati wa kuzaa  ili kuhakikisha maisha ya mwanamke na mtoto wake."
     }
   },
   {
@@ -538,7 +538,7 @@
     "promoted_behavior": {
       "English": "Prompt referral of pregnant women in labor with a complication is done by the healthcare provider.",
       "French": "Le prestataire réfère à temps les femmes enceintes en travail présentant des complications.",
-      "Swahili": "Mtoa huduma anataja wanawake wajawazito na matatizo wakati wa kuzaa kwa wakati."
+      "Swahili": "Mtoa huduma anataja kwa wakati wanawake wajawazito wanao matatizo wakati wa kuzaa."
     },
     "action": "",
     "message": {
@@ -563,7 +563,7 @@
     "problem_behavior": "Women in postpartum do not know the danger signs after delivery.",
     "promoted_behavior": {
       "English": "Women in postpartum know the danger signs after delivery.",
-      "French": "Les femmes accouchées connaissent les signes de danger après accouchement.",
+      "French": "Les femmes qui ont accouché connaissent les signes de danger après accouchement.",
       "Swahili": "Wanawake katika postpartum wanajua dalili za hatari baada ya kuzaa."
     },
     "action": "Prompt consultation at the health center in case of any of the danger signs",
@@ -590,13 +590,13 @@
     "promoted_behavior": {
       "English": "Women in postpartum use a contraceptive method before leaving the maternity ward",
       "French": "Les femmes accouchées utilisent une méthode contraceptive avant de sortir de la maternité.",
-      "Swahili": "Wanawake katika postpartum wanatumia njia ya uzazi wa mpango kabla ya kuondoka kituo cha afya."
+      "Swahili": "Wanawake katika postpartum wanatumia njia za  mpango wa uzazi kabla ya kuondoka kituo cha afya."
     },
     "action": "Use of a contraceptive method before leaving the maternity ward",
     "message": {
       "English": "Dear women, after delivery, use a contraceptive method of your choice after delivery and before leaving the maternity ward to avoid unwanted pregnancies and unsafe pregnancies spacing to ensure your well-being, that of your baby and your family",
       "French": "Chères accouchées, ATTENTION! Chères femmes, utilisez une méthode contraceptive de votre choix après l'accouchement et avant de quitter la maternité pour éviter les grossesses non désirées et rapprochées. Ceci assurera votre bien être, celui de votre bébé et de votre famille.",
-      "Swahili": "Wanawake wapendwa, baada ya kuzaa, tumia njia ya uzazi wa mpango ya uchaguzi wako kabla ya kuondoka katika kituo cha afya ili kuepuka mimba zisizohitajika na ujauzito wa karibu ili kuhakikisha afya bora wako, wa mtoto na familia yako."
+      "Swahili": "Wanawake wapendwa, baada ya kuzaa, tumieni njia ya mpango wa uzazi ya uchaguzi wenu kabla ya kuondoka katika kituo cha afya ili kuepuka mimba zisizohitajika na ujauzito wa karibu ili kuhakikisha afya bora wako, wa mtoto na  wa familia yako."
     }
   },
   {
@@ -648,7 +648,7 @@
     "message": {
       "English": "Pregnant women, use a contraceptive method of your choice after abortion to avoid an unwanted pregnancy",
       "French": "Femmes enceintes, utilisez une méthode contraceptive de choix après l'avortement pour éviter une grossesse non désirée.",
-      "Swahili": "Wanawake wajawazito wapendwa, chagua njia ya uzazi wa mpango baada ya kutoa mimba ili kuepuka mimba isiyohitajika."
+      "Swahili": "Wanawake wajawazito wapendwa, chagueni njia ya mpango wa uzazi baada ya kutoa mimba ili kuepuka mimba isiyohitajika."
     }
   },
   {
@@ -668,7 +668,7 @@
     "promoted_behavior": {
       "English": "Women use a contraception of their choice after abortion.",
       "French": "Les femmes utilisent la contraception de leur choix après avortement.",
-      "Swahili": "Wanawake wanatumia njia za uzazi wa mpango za uchaguzi wao baada ya kutoa mimba."
+      "Swahili": "Wanawake wanatumia njia za mpango wa uzazi za uchaguzi wao baada ya kutoa mimba."
     },
     "action": "Using contraception as an option after abortion",
     "message": {
@@ -694,13 +694,13 @@
     "promoted_behavior": {
       "English": "Healthcare providers properly inform women about comprehensive abortion care, benefits, possible risks, importance of contraception, etc.",
       "French": "Les prestataires informent correctement les femmes sur les soins complets d'avortement, avantages, risques éventuels, importance de la contraception, etc.",
-      "Swahili": "Watoa huduma wanajulisha vizuri wanawake kuhusu utunzaji kamili wa utoaji mimba, faida, hatari zinazoweza kujitokeza, umuhimu wa uzazi wa mpango, etc."
+      "Swahili": "Watoa huduma wanajulisha vizuri wanawake kuhusu utunzaji kamili wa utoaji mimba, faida, hatari zinazoweza kujitokeza, umuhimu wa mpango wa uzazi, etc."
     },
     "action": "Provide women with accurate information about comprehensive abortion care - benefits, possible risks, importance of contraception",
     "message": {
       "English": "Dear healthcare providers, use safe and secure methods of uterine evacuation in case of abortion to avoid complications and ensure good health of the woman.",
       "French": "Chers prestataires, utilisez des méthodes sûres et sécurisées d’évacuation utérine en cas d'avortement pour éviter les complications et garantir une bonne santé.",
-      "Swahili": "Watoa huduma wapendwa, tumia njia salama za uhamishaji wa uterine wakati wa utoaji mimba ili kuepuka matatizo na kuhakikisha afya njema kwa wanawake."
+      "Swahili": "Watoa huduma wapendwa, tumieni njia salama za uhamishaji wa uterasi wakati wa utoaji mimba ili kuepuka matatizo na kuhakikisha afya njema kwa wanawake."
     }
   },
   {
@@ -720,13 +720,13 @@
     "promoted_behavior": {
       "English": "Healthcare providers use safe methods of uterine evacuation (Manual Intra-Uterine Aspiration, misoprostol, mifepristone, pain management, Nonsteroidal anti-inflammatory drugs (NSAIDs), para cervical block).",
       "French": "Les prestataires utilisent des méthodes sécurisées d’évacuation utérine (Aspiration manuelle intra-uterine (AMIU), misoprostol, mifépristone, gérer la douleur, anti-inflammatoires non steroidiens ((AINS), bloc para cervical)",
-      "Swahili": "Watoa huduma wanatumia njia salama za kuhamisha uterine (AMIU, misoprostol, mifepristone, usimamizi wa maumivu, AINS, bloc para cervical)."
+      "Swahili": "Watoa huduma wanatumia njia salama za kuhamisha uterasi (AMIU, misoprostol, mifepristone, usimamizi wa maumivu, AINS, bloc para cervical)."
     },
     "action": "Use of safe methods of uterine evacuation (Manual Intra-Uterine Aspiration, misoprostol, mifepristone, pain management, AINS, para cervical block)",
     "message": {
       "English": "Dear healthcare provider, use safe methods of uterine evacuation such as manual intra-uterine aspiration, misoprostol, mifepristone, nonsteroidal anti-inflammatory drugs (NSAIDs), paracervical block after a miscarriage or abortion.",
       "French": "Chers prestataires, administrez systématiquement une méthode contraceptive de choix à chaque femme ayant connu un avortement, pour prévenir la survenue d’une grossesse dans les six mois suivant l’avortement et pour prévenir la morbi-mortalité maternelle.",
-      "Swahili": "Watoa huduma wapendwa, ni muhimu kupana mashahuri kuhusu njia ya uzazi wa mpango kwa kila mwanamke ambaye alitoa mimba, kuzuia kutokea kwa ujauzito ndani ya miezi sita baada ya utoaji mimba ili kuzuia magonjwa ya uzazi na vifo."
+      "Swahili": "Watoa huduma wapendwa, ni muhimu kupana mashahuri kuhusu njia ya mpango wa uzazi kwa kila mwanamke ambaye alitoa mimba, kuzuia kutokea kwa ujauzito ndani ya miezi sita baada ya utoaji mimba ili kuzuia magonjwa ya uzazi na vifo."
     }
   },
   {
@@ -746,7 +746,7 @@
     "promoted_behavior": {
       "English": "Healthcare providers always administer a contraceptive method to all women after abortion care.",
       "French": "Les prestataires administrent systématiquement à toutes les femmes une méthode contraceptive après les soins d’avortement.",
-      "Swahili": "Watoa huduma daima wanatoa njia ya uzazi wa mpango kwa wanawake wote baada ya kutoa mimba."
+      "Swahili": "Watoa huduma daima wanatoa njia ya mpango wa uzazi kwa wanawake wote baada ya kutoa mimba."
     },
     "action": "",
     "message": {
@@ -804,7 +804,7 @@
     "message": {
       "English": "Dear community members, kindly escort any woman who has had an abortion to the nearest health center to receive quality care.",
       "French": "Chers membres de la communauté, accompagnez toute femme ayant subi un avortement au centre de santé le plus proche pour y recevoir des soins de qualité.",
-      "Swahili": "Wanajamii wapendwa, msindikiza mwanamke yeyote ambaye ametoa mimba katika kituo cha afya kilicho karibu ili kupata huduma bora."
+      "Swahili": "Wanajamii wapendwa, msindikizeni mwanamke yeyote ambaye ametoa mimba katika kituo cha afya kilicho karibu ili kupata huduma bora."
     }
   },
   {
@@ -876,13 +876,13 @@
     "promoted_behavior": {
       "English": "The mother exclusively breastfeeds the baby.",
       "French": "La maman allaite exclusivement le bébé au sein.",
-      "Swahili": "Anatumia maziwa ya mama pekee kumlisha mtoto."
+      "Swahili": "Mama ana tumia maziwa ya kifua pekee kumlisha mtoto."
     },
     "action": "Exclusive breastfeeding",
     "message": {
       "English": "Dear mothers, exclusively breastfeed your baby after delivery to ensure good health and prevent unsafe pregnancy spacing.",
       "French": "Chères accouchées/chères femmes, après accouchement allaitez exclusivement votre bébé au sein afin de lui assurer la bonne santé et prévenir une grossesse rapprochée.",
-      "Swahili": "Wanawake wapendwa, baada ya kuzaa tumia maziwa ya mama pekee ili kuhakikisha afya njema ya mtoto wako na kuzuia mimba ya karibu."
+      "Swahili": "Wanawake wapendwa, baada ya kuzaa tumieni maziwa ya kifua pekee ili kuhakikisha afya njema ya mtoto wako na kuzuia mimba ya karibu."
     }
   },
   {
@@ -902,7 +902,7 @@
     "promoted_behavior": {
       "English": "The mother exclusively breastfeeds the baby.",
       "French": "La maman allaite exclusivement le bébé au sein.",
-      "Swahili": "Anatumia maziwa ya mama pekee kumlisha mtoto."
+      "Swahili": "Mama ana tumia maziwa ya kifua pekee kumlisha mtoto."
     },
     "action": "",
     "message": {
@@ -934,7 +934,7 @@
     "message": {
       "English": "Parents, sleeping under Long-lasting Insecticidal Net (LLIN) every night will protect you and your family from bites of mosquitoes that transmit malaria.",
       "French": "Parents, dormez et faites dormir, chaque nuit, tous les membres de votre famille sous la moustiquaire imprégnée d’insecticide à longue durée (MILD) pour les protéger contre les piqûres des moustiques qui transmettent la malaria.",
-      "Swahili": "Wazazi wapendwa, lala na ulalishe kila usiku mtoto na familia yako ndani ya chandarua kilicho wekwa dawa Chandarua chenye Dawa ya Kudumu ya Muda Mrefu (MILD) kwa kuwakinga na malaria."
+      "Swahili": "Wazazi wapendwa, laleni na lalisheni kila usiku wa toto na familia yenu ndani ya chandarua iliyo wekwa dawa ya Kudumu Muda Mrefu (MILD) kwa kuwakinga na malaria."
     }
   },
   {
@@ -980,7 +980,7 @@
     "promoted_behavior": {
       "English": "Protects the baby from bad weather.",
       "French": "Protège le bébé contre les intempéries.",
-      "Swahili": "Anajielekeza kwa haraka kwenye kituo cha afya ku mkinga mtoto."
+      "Swahili": "Ana mkinga mtoto na hali mbaya ya hewa."
     },
     "action": "",
     "message": {
@@ -1064,7 +1064,7 @@
     "message": {
       "English": "Mother, wash your hands before and after nursing the newborn.",
       "French": "Femmes, lavez-vous les mains avant et après les soins du nouveau-né.",
-      "Swahili": "Wanawake wapendwa, osha mikono yako kabla na baada ya utunzaji wa watoto wachanga."
+      "Swahili": "Wanawake wapendwa, osheni mikono yenu kabla na baada ya utunzaji wa watoto wachanga."
     }
   },
   {
@@ -1090,7 +1090,7 @@
     "message": {
       "English": "Dear women of childbearing age, use a contraceptive method of your choice to avoid too many early and late pregnancies to ensure your health and your family well-being.",
       "French": "Chères femmes en âge de procréer, utilisez une méthode contraceptive de votre choix pour éviter les grossesses trop nombreuses, trop rapprochées, trop précoces et trop tardives pour assurer votre santé et le bien-être familial.",
-      "Swahili": "Wanawake wapendwa wa umri wa kuzaa, tumia njia ya uzazi wa mpango ya uchaguzi wako ili kuepuka mimba nyingi za mapema na za kuchelewa ili kuhakikisha afya yako na ustawi wa familia yako."
+      "Swahili": "Wanawake wapendwa wa umri wa kuzaa, tumieni njia ya uzazi wa mpango ya uchaguzi wenu ili kuepuka mimba nyingi za mapema na za kuchelewa ili kuhakikisha afya yenu na ustawi wa familia yenu."
     }
   },
   {
@@ -1220,7 +1220,7 @@
     "message": {
       "English": "Pregnant women, go to prenatal consultations. In addition to monitoring your pregnancy, you will get information and counseling on contraceptive methods to use immediately after delivery. This will allow you to avoid the occurrence of an unwanted pregnancy, ensure good health and family well-being. Warning: Ask the provider about contraceptive options to be used immediately after delivery to avoid early pregnancy and ensure your health, your baby's health, and your family's well-being.",
       "French": "Femmes enceintes, allez à la CPN. En plus du suivi de votre grossesse, vous bénéficierez des informations et des conseils sur les méthodes contraceptives à utiliser immédiatement après l’accouchement. Cela vous permettra d’éviter la survenue d'une grossesse non désirée, garantir la bonne santé et le bien-être familial. Chères femmes enceintes, attention! Sollicitez auprès du prestataire les options contraceptives à utiliser immédiatement après l'accouchement pour éviter la survenue d'une grossesse trop rapprochée et garantir votre santé, celle de votre bébé et le bien-être de votre famille.",
-      "Swahili": "Wapendwa wanawake wajawazito, nenda kwenye CPN. Mbali na kufuatilia ujauzito wako, utafaidika na taarifa na ushauri juu ya njia za kuzuia mimba kutumia baada ya kuzaa. Hii itakuruhusu kuepuka tukio la ujauzito usiohitajika, kuhakikisha afya nzuri na ustawi wa familia. Wapendwa wanawake wajawazito, Kuwa mwangalifu! Muulize mtaalamu wa afya kuhusu njia za uzazi wa mpango kutumia baada ya kujifungua ili kuepuka mwanzo wa ujauzito ambao uko karibu sana na kuhakikisha afya yako, ya mtoto wako na ustawi wa familia yako."
+      "Swahili": "Wapendwa wanawake wajawazito, nenda kwenye CPN. Mbali na kufuatilia ujauzito wako, utafaidika na taarifa na ushauri juu ya njia za kutumia ili kuzuia mimba  baada ya kuzaa. Hii itakuruhusu kuepuka tukio la ujauzito usiohitajika, kuhakikisha afya nzuri na ustawi wa familia. Wapendwa wanawake wajawazito, Kuwa mwangalifu! Muulize mtaalamu wa afya kuhusu njia za uzazi wa mpango ambazo unaweza ku tumia baada ya kujifungua ili kuepuka mwanzo wa ujauzito ambao uko karibu sana na kuhakikisha afya yako, ya mtoto wako na ustawi wa familia yako."
     }
   },
   {
@@ -1271,8 +1271,8 @@
     "action": "Systematic checking of information on prior contraceptive choice with the woman in labor",
     "message": {
       "English": "Always check the information on the choice of contraception with the woman in labor so that she can benefit from the chosen method at the prenatal consultation (PNC) if necessary.",
-      "French": "Prestataires, vérifiez systématiquement l'information sur le choix préalable de la contraception auprès de la femme en travail pour lui permettre de bénéficier de la méthode choisie à la consultation pré-natale (CPN) le cas échant.",
-      "Swahili": "Watoa huduma wapendwa, kwa utaratibu angalia taarifa juu ya uchaguzi wa njia ya uzazi wa mpango na mwanamke wakati wa kuzaa ili kumruhusu kufaidika na njia iliyochaguliwa katika CPN ikiwa ni lazima."
+      "French": "Prestataires, vérifiez systématiquement l'information sur le choix préalable de la contraception auprès de la femme en travail pour lui permettre de bénéficier de la méthode choisie à la consultation pré-natale (CPN) le cas échéant.",
+      "Swahili": "Watoa huduma wapendwa, kwa utaratibu angalia taarifa juu ya uchaguzi wa njia ya uzazi wa mpango wa mwanamke wakati wa kuzaa ili kumruhusu kufaidika na njia iliyochaguliwa katika CPN ikiwa ni lazima."
     }
   },
   {
@@ -1324,7 +1324,7 @@
     "message": {
       "English": "I, a survivor of Sexual and Gender-Based Violence (SGBV), denounce the abuses I suffered, demand proper care and prosecution of the perpetrator.",
       "French": "Moi, survivant des violences sexuelles basées sur le genre, je dénonce les abus dont j'ai fait l'objet, demande une prise en charge correcte et les poursuites de mon bourreau.",
-      "Swahili": "Mimi, mwathirika wa unyanyasaji wa kijinsia, ninaripoti unyanyasaji ambao nimeteseka, ninaomba huduma na kumshitaki mtu aliyenibaka."
+      "Swahili": "Mimi, mwathirika wa unyanyasaji wa kijinsia, ninaripoti unyanyasaji ambao ume ni tesa, ninaomba huduma na kumshtaki mtu aliye ni baka."
     }
   },
   {
@@ -1376,7 +1376,7 @@
     "message": {
       "English": "Dear healthcare providers, listen to survivors of Sexual and Gender-Based Violence (SGBV) and provide them with adequate care to facilitate their social reintegration.",
       "French": "Chers prestataires, écoutez-les, offrez aux survivants de violence sexuelle basée sur le genre une prise en charge adéquate pour faciliter leur réinsertion sociale.",
-      "Swahili": "Wapendwa watoa huduma za afya, wasikilize waathirika wa Survivant wa unyanyasaji ya kijinsia (SGBV) na uwapae huduma za kutosha ili kuwezesha kurudi kwao ndani ya jamii."
+      "Swahili": "Watoa huduma wa afya wapendwa, sikilizeni waathirika  wa unyanyasaji ya kijinsia (SGBV) na wapeni huduma za kutosha ili kuwezesha kurudi kwao ndani ya jamii."
     }
   },
   {
@@ -1462,7 +1462,7 @@
     "intervention": {
       "English": "Breastfeeding within one hour after delivery.",
       "French": "Mise au sein dans l'heure qui suit l'accouchement.",
-      "Swahili": "Unyonyeshaji ndani ya saa moja baada ya kuzaa."
+      "Swahili": "Ku nyonyesha ndani ya saa moja baada ya kuzaa."
     },
     "general_audience": "",
     "target_audience": { 
@@ -1488,7 +1488,7 @@
     "intervention": {
       "English": "Breastfeeding within one hour after delivery.",
       "French": "Mise au sein dans l'heure qui suit l'accouchement.",
-      "Swahili": "Unyonyeshaji ndani ya saa moja baada ya kuzaa."
+      "Swahili": "Ku nyonyesha ndani ya saa moja baada ya kuzaa."
     },
     "general_audience": "Breastfeeding women",
     "target_audience": { 
@@ -1514,7 +1514,7 @@
     "intervention": {
       "English": "Breastfeeding within one hour after delivery.",
       "French": "Mise au sein dans l'heure qui suit l'accouchement.",
-      "Swahili": "Unyonyeshaji ndani ya saa moja baada ya kuzaa."
+      "Swahili": "Ku nyonyesha ndani ya saa moja baada ya kuzaa."
     },
     "general_audience": "Breastfeeding women",
     "target_audience": { 
@@ -1532,7 +1532,7 @@
     "message": {
       "English": "Mother, breastfeed your newborn immediately after birth to quickly stimulate the production of breast milk, this first yellowish milk (colostrum), gives a natural protection to the newborn against diseases. Don't throw it away, give it to your newborn quickly.",
       "French": "Maman, donnez le sein à votre nouveau-né dès sa naissance pour stimuler rapidement la production du lait maternel, ce premier lait jaunâtre (colostrum), donne une protection naturelle au nouveau-né contre les maladies. Ne le jetez pas, donnez-le vite à votre nouveau-né.",
-      "Swahili": "Mama mpendwa, nyonyesha mtoto wako tangu kuzaliwa ili kusaidia uzalishaji wa haraka wa maziwa ya matiti (maziba), maziwa haya ya kwanza ya manjano (colostrum), inatoa kinga ya asili kwa mtoto mzawa kutokana na magonjwa. Usiitupe, uipe haraka mtoto wako"
+      "Swahili": "Mama mpendwa, nyonyesha mtoto wako anapo zaliwa ili kusaidia  kutoka kwa maziwa ya matiti (maziba), maziwa haya ya kwanza ya manjano (colostrum), inatoa kinga ya asili kwa mtoto aliye zaliwa  na ina mu epusha na magonjwa. Usiitupe, uipe haraka mtoto wako."
     }
   },
   {
@@ -1540,7 +1540,7 @@
     "intervention": {
       "English": "Breastfeeding within one hour after delivery.",
       "French": "Mise au sein dans l'heure qui suit l'accouchement.",
-      "Swahili": "Unyonyeshaji ndani ya saa moja baada ya kuzaa."
+      "Swahili": "Ku nyonyesha ndani ya saa moja baada ya kuzaa."
     },
     "general_audience": "",
     "target_audience": { 
@@ -1566,7 +1566,7 @@
     "intervention": {
       "English": "Breastfeeding within one hour after delivery.",
       "French": "Mise au sein dans l'heure qui suit l'accouchement.",
-      "Swahili": "Unyonyeshaji ndani ya saa moja baada ya kuzaa."
+      "Swahili": "Ku nyonyesha ndani ya saa moja baada ya kuzaa."
     },
     "general_audience": "",
     "target_audience": { 
@@ -1592,7 +1592,7 @@
     "intervention": {
       "English": "Breastfeeding within one hour after delivery.",
       "French": "Mise au sein dans l'heure qui suit l'accouchement.",
-      "Swahili": "Unyonyeshaji ndani ya saa moja baada ya kuzaa."
+      "Swahili": "Ku nyonyesha ndani ya saa moja baada ya kuzaa."
     },
     "general_audience": "",
     "target_audience": { 
@@ -1618,7 +1618,7 @@
     "intervention": {
       "English": "Breastfeeding within one hour after delivery.",
       "French": "Mise au sein dans l'heure qui suit l'accouchement.",
-      "Swahili": "Unyonyeshaji ndani ya saa moja baada ya kuzaa."
+      "Swahili": "Ku nyonyesha ndani ya saa moja baada ya kuzaa."
     },
     "general_audience": "",
     "target_audience": { 
@@ -1792,7 +1792,7 @@
     "message": {
       "English": "Father, encourage and urge your wives to exclusively breastfeed babies from 0 to 6 months to reduce the risk of obesity and diabetes in adulthood.",
       "French": "Papa, encouragez et incitez vos femmes à ne donner que le lait maternel aux bébés de 0 à 6 mois afin de réduire le risque d'obésité et de diabète à l'âge adulte.",
-      "Swahili": "Baba Mpendwa, mhimize mke wako wako kuwapa watoto maziwa ya mama kutoka miezi 0 hadi 6 ili kupunguza hatari ya obésité na ugonjwa wa kisukari katika utu uzima."
+      "Swahili": "Baba Mpendwa, mhimize mke  wako kuwapa watoto maziwa ya mama kutoka miezi 0 hadi 6 ili kupunguza hatari ya obésité na ugonjwa wa kisukari watakapo komaa."
     }
   },
   {
@@ -1812,13 +1812,13 @@
     "promoted_behavior": {
       "English": "Healthcare providers encourage and counsel women to exclusively breastfeed their infants on a regular basis",
       "French": "Les prestataires encouragent et incitent les femmes à allaiter les nourrissons de façon régulière et exclusive.",
-      "Swahili": "Atoa huduma wana himiza wanawake kunyonyesha watoto wachanga mara kwa mara na wa kipekee."
+      "Swahili": "Wa toa huduma wana himiza wanawake kunyonyesha watoto wachanga mara kwa mara na wa kipekee."
     },
     "action": "",
     "message": {
       "English": "Healthcare providers, encouraging and urging women to breastfeed babies on a regular basis, 10 to 12 times a day and night and on demand by the baby is your responsibility for the healthy growth of the baby and the well-being of the mother.",
-      "French": "Prestataires, encourager et inciter les femmes à allaiter régulièrement les bébés 10 à 12 fois le jour, la nuit et sur demande du bébé est de votre responsabilité pour la bonne croissance du bébé et le bien-être de la maman.",
-      "Swahili": "Watoa huduma wapendwa, wahimize wanawake kunyonyesha watoto mara kwa mara, mara 10 hadi 12 mchana na usiku na kwa ombi la mtoto mukiwajulisha kwamba ni kazi yao kwa ukuaji mzuri wa mtoto na ustawi wa mama."
+      "French": "Prestataires, encouragez et incitez les femmes à allaiter régulièrement les bébés 10 à 12 fois le jour, la nuit et sur demande du bébé est de votre responsabilité pour la bonne croissance du bébé et le bien-être de la maman.",
+      "Swahili": "Prestataires, encouragez et incitez les femmes à allaiter régulièrement les bébés 10 à 12 fois le jour, la nuit et sur demande du bébé est de votre responsabilité pour la bonne croissance du bébé et le bien-être de la maman."
     }
   },
   {
@@ -1844,7 +1844,7 @@
     "message": {
       "English": "Community members, encourage breastfeeding women to exclusively breastfeed their babies with breast milk for the first 6 months and to wait until the babies are tired to ensure their healthy growth.",
       "French": "Membres de la communauté, incitez les femmes allaitantes à allaiter exclusivement leur bébé pendant les 6 premiers mois et à allaiter jusqu’à ce que le bébé soit fatigué pour garantir sa bonne croissance.",
-      "Swahili": "Wanajamii wapendwa, wahimize wanawake wanaonyonyesha kuwanyonyesha watoto wao maziwa ya mama pekee kwa miezi 6 ya kwanza na kuchukua muda hadi watoto wanapochoka ili kuhakikisha ukuaji wao sahihi."
+      "Swahili": "Wanajamii wapendwa, wahimize wanawake wanao nyonyesha ku wa nyonyesha watoto wao maziwa ya mama pekee kwa miezi 6 ya kwanza na kuchukua muda hadi watoto wanapochoka ili kuhakikisha ku komaa vizuri."
     }
   },
   {
@@ -1870,7 +1870,7 @@
     "message": {
       "English": "Mothers, breastfeed your children until they are 2 years old or older to promote their healthy growth",
       "French": "Mamans, allaitez vos enfants jusqu'à 2 ans et plus pour favoriser leur bonne croissance",
-      "Swahili": "Wamama wapendwa, wanyonyeshe watoto wenu hadi miaka 2 na zaidi ili kuhakikisha ukuaji wao mzuri."
+      "Swahili": "Wamama wapendwa, mu wa nyonyeshe watoto wenu hadi miaka 2 na zaidi ili kuhakikisha ku komaa kwao vizuri."
     }
   },
   {
@@ -1896,7 +1896,7 @@
     "message": {
       "English": "Fathers, encourage your wives to breastfeed children until they are 2 years and older for their healthy growth.",
       "French": "Papas, encouragez vos femmes à allaiter les enfants jusqu'à 2 ans et plus pour leur bonne croissance.",
-      "Swahili": "Wababa wapendwa, wahimize wake zenu kuwanyonyesha watoto hadi miaka 2 na zaidi kwa ukuaji wao mzuri."
+      "Swahili": "Wababa wapendwa, wahimize wake zenu ku wanyonyesha watoto hadi miaka 2 na zaidi ili wa komae vizuri."
     }
   },
   {
@@ -1922,7 +1922,7 @@
     "message": {
       "English": "Healthcare providers, encourage women to breastfeed their babies until they are 2 years old and older for healthy growth.",
       "French": "Prestataires, encouragez les femmes à allaiter leurs bébés jusqu'à l'âge de 2 ans et plus une bonne croissance.",
-      "Swahili": "Watoa huduma wapendwa, wahimize wanawake kunyonyesha watoto wao hadi umri wa miaka 2 na zaidi kwa ukuaji mzuri."
+      "Swahili": "Watoa huduma wapendwa, mu wahimize wanawake ku nyonyesha watoto wao hadi umri wa miaka 2 na zaidi ili wa komae vizuri."
     }
   },
   {
@@ -1948,7 +1948,7 @@
     "message": {
       "English": "Community members, encourage women to breastfeed their children until they are 2 years and older to prevent illness and ensure their healthy growth.",
       "French": "Membres de la communauté, encouragez les femmes à allaiter les enfants jusqu'à 2 ans et plus pour prévenir les maladies et assurer leur bonne croissance.",
-      "Swahili": "Wanajamii wapendwa, wahimize wanawake kuwanyonyesha watoto hadi miaka 2 na zaidi ili kuzuia magonjwa na kuhakikisha ukuaji wao sahihi."
+      "Swahili": "Wanajamii wapendwa, mu wahimize wanawake ku wa nyonyesha watoto hadi miaka 2 na zaidi ili kuzuia magonjwa na kuhakikisha kwa sahihi ku komaa kwao vizuri."
     }
   },
   {
@@ -1974,7 +1974,7 @@
     "message": {
       "English": "Mother, a healthy child is the pride of his family, give the baby from 6 months a varied diet such as: meat, fish, egg, milk, papaya, mango, pineapple, cauliflower, spinach, soybeans, bean, peanut, etc. ;3 times a day and two snacks for the healthy growth of the child.",
       "French": "Maman, un enfant en bonne santé fait la fierté de sa famille, donnez au bébé à partir de 6 mois l'alimentation variée tels que: viande, poisson, œuf, lait, papaye, mangue, ananas, chou-fleur, épinard, soja, haricot, arachide, etc.; 3 fois par jour et deux collations pour la bonne croissance de l'enfant.",
-      "Swahili": "Mama mpendwa, mtoto mwenye afya ni furaha ya familia yake, mpe mtoto kutoka miezi 6 chakula tofauti kama vile : nyama, samaki, mayai, maziwa, papaya, embe, ananas, chou-fleur, épinards, soya, maharage, karanga, etc; Mara 3 kwa siku na vitafunio viwili kwa ukuaji sahihi wa mtoto."
+      "Swahili": "Mama mpendwa, mtoto mwenye afya ni furaha ya familia yake, mpe mtoto kutoka miezi 6 chakula tofauti kama vile : nyama, samaki, mayai, maziwa, papaya, embe, ananas, chou-fleur, épinards, soya, maharage, karanga, etc; Mara 3 kwa siku na vitafunio viwili kwa ku sahihisha ku komaa vizuri kwa mtoto."
     }
   },
   {
@@ -2025,7 +2025,7 @@
     "message": {
       "English": "Father and community members, the health of your baby is very important, encourage and support your wives to give the baby from 6 months a variety of foods such as: meat, fish, egg, milk, papaya, mango, pineapple, cauliflower, spinach, soybeans, bean, peanut, etc,; 3 times a day and two snacks for his healthy growth.",
       "French": "Papa et membres de la communauté, la santé de votre bébé   est primordiale, encouragez et soutenez vos femmes à donner au bébé à partir de 6 mois les aliments variés tels que: viande, poisson, œuf, lait, papaye, mangue, ananas, chou- fleur, épinard, soja, haricot, arachide, etc.; 3 fois par jour et deux collations pour sa bonne croissance.",
-      "Swahili": "Baba Mpendwa na wanajamii, afya ya mtoto wako ni muhimu, himiza na kumsaidia mwanamke kumpa mtoto kutoka miezi 6 chakula mbalimbali kama vile: nyama, samaki, mayai, maziwa, papaya, embe, ananas, chou-fleur, épinard, soya, maharage, karanga, etc; mara 3 kwa siku na vitafunio viwili kwa ukuaji wake mzuri."
+      "Swahili": "Baba Mpendwa na wanajamii, afya ya mtoto wako ni muhimu, himiza na kumsaidia mwanamke kumpa mtoto kutoka miezi 6 chakula mbalimbali kama vile: nyama, samaki, mayai, maziwa, papaya, embe, ananas, chou-fleur, épinard, soya, maharage, karanga, etc; mara 3 kwa siku na vitafunio viwili ili a komae vizuri."
     }
   },
   {
@@ -2051,7 +2051,7 @@
     "message": {
       "English": "Healthcare providers, provide adequate information to women with babies from 6 months onwards on the variety of protein foods of animal origin (meat, fish, egg and milk); of vegetable origin (fruits and vegetables: papaya, mango, pineapple, cauliflower, spinach, etc.); legumes (soybeans, beans, peanuts, etc.) 3 times a day and two snacks for the healthy growth of their babies.",
       "French": "Prestataires, donnez les informations suffisantes aux femmes ayant des bébés à partir de 6 mois sur la variété des aliments en protéine d'origine animale (viande, poisson, œuf et lait); d'origine végétale (fruits et légumes: papaye, mangue, ananas, chou- fleur, épinard, etc.); le légumineuse (soja, haricot, arachide, etc.) 3 fois par jour et deux collations pour la bonne croissance de leurs bébés.",
-      "Swahili": "Watoa huduma wapendwa, wape taarifa za kutosha kwa wanawake wenye watoto kutoka miezi 6 juu ya aina mbalimbali za vyakula yenye protini kutoka kwa wanyama (nyama, samaki, mayai na maziwa); mboga (matunda na mboga: papaya, embe, ananas, chou-fleur, épinard, etc.);  (soya, maharage, karanga, etc.) mara 3 kwa siku na vitafunio viwili kwa ukuaji sahihi wa watoto wao."
+      "Swahili": "Watoa huduma wapendwa, wape taarifa za kutosha kwa wanawake wenye watoto kutoka miezi 6 juu ya aina mbalimbali za vyakula yenye protini kutoka kwa wanyama (nyama, samaki, mayai na maziwa); mboga (matunda na mboga: papaya, embe, ananas, chou-fleur, épinard, etc.); (soya, maharage, karanga, etc.) mara 3 kwa siku na vitafunio viwili ili wa komae vizuri."
     }
   },
   {
@@ -2207,7 +2207,7 @@
     "message": {
       "English": "Mom, have your child vaccinated 5 times before his first birthday to protect him from vaccine-preventable diseases.",
       "French": "Maman, faites vacciner 5 fois votre enfant avant son premier anniversaire pour le protéger des maladies évitables par la vaccination.",
-      "Swahili": "Mama mpendwa, pata chanjo ya mtoto wako mara 5 kabla ya siku yao ya kwanza ya kuzaliwa (1er anniversaire) kuwalinda na magonjwa yanayozuilika na chanjo."
+      "Swahili": "Mama mpendwa, peleka   mtoto wako apate chanjo mara 5 kabla ya siku kuu yake ya kwanza ya kuzaliwa (1er anniversaire) kuwalinda na magonjwa yanayozuilika na chanjo."
     }
   },
   {
@@ -2285,7 +2285,7 @@
     "message": {
       "English": "Community members, encourage women to attend routine monthly vaccination for infants aged 0-9 months to ensure their healthy growth.",
       "French": "Membres de la communauté, encouragez les femmes à amener les nourrissons âgés de 0 à 9 mois à la vaccination de routine chaque mois pour leur garantir une bonne croissance.",
-      "Swahili": "Wanajamii wapendwa, wahimize wanawake kuleta watoto wachanga wenye umri wa miezi 0 hadi 9 kupata chanjo ya kawaida kila mwezi ili kuhakikisha ukuaji mzuri."
+      "Swahili": "Wanajamii wapendwa, wahimize wanawake kuleta watoto wachanga wenye umri wa miezi 0 hadi 9 kupata chanjo ya kawaida kila mwezi ili wa komae vizuri."
     }
   },
   {
